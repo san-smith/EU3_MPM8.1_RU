@@ -1,14 +1,14 @@
 slovak;Словацк.;;;;;;;;;;;;;x
 iranian_group;Иранская группа;;;;;;;;;;;;;x
 crimean;Крымск.;;;;;;;;;;;;;x
-nogai;Ногайск.;;;;;;;;;;;;;x
+nogai;Ногайская орда;;;;;;;;;;;;;x
 lowland;Lowland Region;;;;;;;;;;;;;x
-swiss;Швейцарск.;;;;;;;;;;;;;x
+swiss;Швейцарская;;;;;;;;;;;;;x
 NIT;Нитра;;;;;;;;;;;;;x
 NIT_ADJ;Нитринск.;;;;;;;;;;;;;x
 NIT_ADJ2;Нитринск.;;;;;;;;;;;;;x
 savoyan;Savoyan;;;;;;;;;;;;;x
-bolgar;Булгарск.;;;;;;;;;;;;;x
+bolgar;Булгарская;;;;;;;;;;;;;x
 monastic_order;Монашеский орден;;;;;;;;;;;;;x
 monastic_order_ruler;Грандмастер;;;;;;;;;;;;;x
 monastic_order_vassal;Monastic Estate;;;;;;;;;;;;;x
@@ -35,9 +35,9 @@ VZC_ADJ2;Бискайск.;;;;;;;;;;;;;x
 VAL;Валенсия;;;;;;;;;;;;;x
 VAL_ADJ;Валенсийск.;;;;;;;;;;;;;x
 VAL_ADJ2;Валенсийск.;;;;;;;;;;;;;x
-ALR;Algarve;;;;;;;;;;;;;x
-ALR_ADJ;Algarvian;;;;;;;;;;;;;x
-ALR_ADJ2;Algarvian;;;;;;;;;;;;;x
+ALR;Алгарви;;;;;;;;;;;;;x
+ALR_ADJ;Алгарвийск.;;;;;;;;;;;;;x
+ALR_ADJ2;Алгарвийск.;;;;;;;;;;;;;x
 CRD;Кордова;;;;;;;;;;;;;x
 CRD_ADJ;Кордовск.;;;;;;;;;;;;;x
 CRD_ADJ2;Кордовск.;;;;;;;;;;;;;x
@@ -91,7 +91,7 @@ ICE_ADJ2;Исландск.;;;;;;;;;;;;;x
 ING;Ингерманландия;;;;;;;;;;;;;x
 ING_ADJ;Ингерманландск.;;;;;;;;;;;;;x
 ING_ADJ2;Ингерманландск.;;;;;;;;;;;;;x
-mazovian;Mazovian;;;;;;;;;;;;;x
+mazovian;Мазовская;;;;;;;;;;;;;x
 PROV1883;Кашин;;;;;;;;;;;;;x
 PROV1884;Торжок;;;;;;;;;;;;;x
 PROV1885;Устюжна;;;;;;;;;;;;;x
@@ -146,7 +146,7 @@ PROV1933;Мариенбург;;;;;;;;;;;;;x
 PROV1934;Ческе-Будеёвице;;;;;;;;;;;;;x
 PROV1935;Градец-Кралове;;;;;;;;;;;;;x
 PROV1936;Оломоуц;;;;;;;;;;;;;x
-PROV1937;Soule;;;;;;;;;;;;;x
+PROV1937;Соуле;;;;;;;;;;;;;x
 PROV1938;Семигалия;;;;;;;;;;;;;x
 PROV1939;Пернау;;;;;;;;;;;;;x
 PROV1940;Caux;;;;;;;;;;;;;x
@@ -223,7 +223,7 @@ PROV2010;Mardin;;;;;;;;;;;;;x
 PROV2011;Iskenderun;;;;;;;;;;;;;x
 PROV2012;Брацлав;;;;;;;;;;;;;x
 PROV2013;Полтава;;;;;;;;;;;;;x
-PROV2014;Copa;;;;;;;;;;;;;x
+PROV2014;Копа;;;;;;;;;;;;;x
 PROV2015;Убыхия;;;;;;;;;;;;;x
 PROV2016;Мордва;;;;;;;;;;;;;x
 PROV2017;Taw Ile;;;;;;;;;;;;;x
@@ -320,7 +320,7 @@ desc_third_rome;With Constantinople fallen, Russians can now claim to be Third R
 russian_autocephaly;Russian Autocephaly;;;;;;;;;;;;;x
 desc_russian_autocephaly;Autocephaly within Orthodox world means independance from, and equality with other Orthodox Christian Churches.;;;;;;;;;;;;;x
 khazar;Tatar;;;;;;;;;;;;;x
-PROV2048;Hrodna;;;;;;;;;;;;;x
+PROV2048;Гродно;;;;;;;;;;;;;x
 old-belarusian;Old-Belarusian;;;;;;;;;;;;;x
 samogitian;Samogitian;;;;;;;;;;;;;x
 noble_monarchy;Noble Monarchy;;;;;;;;;;;;;x
@@ -492,15 +492,15 @@ JCH_ADJ2;Jьlich's;;;;;;;;;;;;;x
 MTZ;Metz;;;;;;;;;;;;;x
 MTZ_ADJ;Metz;;;;;;;;;;;;;x
 MTZ_ADJ2;Metz;;;;;;;;;;;;;x
-WMS;Worms;;;;;;;;;;;;;x
-WMS_ADJ;Worms's;;;;;;;;;;;;;x
-WMS_ADJ2;Worms's;;;;;;;;;;;;;x
-NMG;Nьremberg;;;;;;;;;;;;;x
-NMG_ADJ;Nьremberg's;;;;;;;;;;;;;x
-NMG_ADJ2;Nьremberg's;;;;;;;;;;;;;x
-FBG;Fьrstenberg;;;;;;;;;;;;;x
-FBG_ADJ;Fьrstenberg's;;;;;;;;;;;;;x
-FBG_ADJ2;Fьrstenberg's;;;;;;;;;;;;;x
+WMS;Вормс;;;;;;;;;;;;;x
+WMS_ADJ;Вормсск.;;;;;;;;;;;;;x
+WMS_ADJ2;Вормсск.;;;;;;;;;;;;;x
+NMG;Нюрнберг;;;;;;;;;;;;;x
+NMG_ADJ;Нюрнбергск.;;;;;;;;;;;;;x
+NMG_ADJ2;Нюрнбергск.;;;;;;;;;;;;;x
+FBG;Фюрстенберг;;;;;;;;;;;;;x
+FBG_ADJ;Фюрстенбергск.;;;;;;;;;;;;;x
+FBG_ADJ2;Фюрстенбергск;;;;;;;;;;;;;x
 FCM;Franche-Compte;;;;;;;;;;;;;x
 FCM_ADJ;Franche-Comte's;;;;;;;;;;;;;x
 FCM_ADJ2;Franche-Comte's;;;;;;;;;;;;;x
@@ -788,12 +788,12 @@ western_doppelsoldner;Western Doppelsoldner;;;;;;;;;;;;;x
 western_doppelsoldnerDESCR;A special breed of Landsknechts, men who were prepaired to fight in the first battle lines, taking extra risk in exchange for double payment. They had 4:1 casualty rataio compared to common Landsknechts, however desperation made these men fight ferociously.;;;;;;;;;;;;;x
 western_zweihander;Western Zweihander;;;;;;;;;;;;;x
 western_zweihanderDESCR;Doppelsoldners armed with special very long two-handed sword (Zweihander) designed to be affective agaisnt long-spear wielding infantry - such as Swiss pikemen.;;;;;;;;;;;;;x
-VDN;Vidin;;;;;;;;;;;;;x
-VDN_ADJ;Vidin;;;;;;;;;;;;;x
-VDN_ADJ2;Vidin;;;;;;;;;;;;;x
-GOZ;Gorizia;;;;;;;;;;;;;x
-GOZ_ADJ;Gorizian;;;;;;;;;;;;;x
-GOZ_ADJ2;Gorizian;;;;;;;;;;;;;x
+VDN;Видин;;;;;;;;;;;;;x
+VDN_ADJ;Видинск.;;;;;;;;;;;;;x
+VDN_ADJ2;Видинск.;;;;;;;;;;;;;x
+GOZ;Гориция;;;;;;;;;;;;;x
+GOZ_ADJ;Горицианск.;;;;;;;;;;;;;x
+GOZ_ADJ2;Горицианск.;;;;;;;;;;;;;x
 annex_gorizia_title;Annex Gorizia;;;;;;;;;;;;;x
 annex_gorizia_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 CAR;Cilli;;;;;;;;;;;;;x
@@ -961,16 +961,16 @@ monastic_order_deus_vult;Incapable Ruler;;;;;;;;;;;;;x
 desc_monastic_order_deus_vult;Penalty the state suffers due to its leadership stat points combined with ideas choice.;;;;;;;;;;;;;x
 incapable_ruler_espionage;Incapable Ruler;;;;;;;;;;;;;x
 desc_incapable_ruler_espionage;Penalty the state suffers due to its leadership stat points combined with ideas choice.;;;;;;;;;;;;;x
-FRC;Franconia;;;;;;;;;;;;;x
-FRC_ADJ;Franconian;;;;;;;;;;;;;x
-FRC_ADJ2;Franconian;;;;;;;;;;;;;x
+FRC;Франкония;;;;;;;;;;;;;x
+FRC_ADJ;Франконск.;;;;;;;;;;;;;x
+FRC_ADJ2;Франконск.;;;;;;;;;;;;;x
 form_westphalia_title;Form Westphalian Nation;;;;;;;;;;;;;x
 form_westphalia_desc;Form Westphalian nation.;;;;;;;;;;;;;x
 form_franconia_title;Form Franconian Nation;;;;;;;;;;;;;x
 form_franconia_desc;Form Franconian nation.;;;;;;;;;;;;;x
-LRG;Lotharingia;;;;;;;;;;;;;x
-LRG_ADJ;Lotharingian;;;;;;;;;;;;;x
-LRG_ADJ2;Lotharingian;;;;;;;;;;;;;x
+LRG;Лотарингия;;;;;;;;;;;;;x
+LRG_ADJ;Лотарингск.;;;;;;;;;;;;;x
+LRG_ADJ2;Лотарингск.;;;;;;;;;;;;;x
 form_lotharingia_desc;Form Lotharingian nation.;;;;;;;;;;;;;x
 form_lotharingia_title;Form Lotharingian Nation;;;;;;;;;;;;;x
 SWB;Швабия;;;;;;;;;;;;;x
@@ -1202,28 +1202,28 @@ galicia;Galicia;;;;;;;;;;;;;x
 scotland;Scotland;;;;;;;;;;;;;x
 volhynia;Volhynia;;;;;;;;;;;;;x
 volhynian;Volhynian;;;;;;;;;;;;;x
-VLH;Volhynia;;;;;;;;;;;;;x
-VLH_ADJ;Volhynian;;;;;;;;;;;;;x
-VLH_ADJ2;Volhynian;;;;;;;;;;;;;x
-MPL;Malopolska;;;;;;;;;;;;;x
-MPL_ADJ;Malopolski;;;;;;;;;;;;;x
-MPL_ADJ2;Malopolski;;;;;;;;;;;;;x
-MRD;Mardin;;;;;;;;;;;;;x
-MRD_ADJ;Mardini;;;;;;;;;;;;;x
-MRD_ADJ2;Mardini;;;;;;;;;;;;;x
-EZN;Erzincan;;;;;;;;;;;;;x
-EZN_ADJ;Erzincani;;;;;;;;;;;;;x
-EZN_ADJ2;Erzincani;;;;;;;;;;;;;x
+VLH;Волынь;;;;;;;;;;;;;x
+VLH_ADJ;Волынск.;;;;;;;;;;;;;x
+VLH_ADJ2;Волынск;;;;;;;;;;;;;x
+MPL;Малая Польша;;;;;;;;;;;;;x
+MPL_ADJ;Польск.;;;;;;;;;;;;;x
+MPL_ADJ2;Польск.;;;;;;;;;;;;;x
+MRD;Мардин;;;;;;;;;;;;;x
+MRD_ADJ;Мардинск.;;;;;;;;;;;;;x
+MRD_ADJ2;Мардинск.;;;;;;;;;;;;;x
+EZN;Эрзинджан;;;;;;;;;;;;;x
+EZN_ADJ;Эрзинджанск.;;;;;;;;;;;;;x
+EZN_ADJ2;Эрзинджанск.;;;;;;;;;;;;;x
 EZM;Erseum;;;;;;;;;;;;;x
 EZM_ADJ;Erseumi;;;;;;;;;;;;;x
 EZM_ADJ2;Erseumi;;;;;;;;;;;;;x
 kurdish;Kurdish;;;;;;;;;;;;;x
-KRD;Kurdistan;;;;;;;;;;;;;x
-KRD_ADJ;Kurdish;;;;;;;;;;;;;x
-KRD_ADJ2;Kurdish;;;;;;;;;;;;;x
-MSL;Mosul;;;;;;;;;;;;;x
-MSL_ADJ;Mosul;;;;;;;;;;;;;x
-MSL_ADJ2;Mosul;;;;;;;;;;;;;x
+KRD;Курдистан;;;;;;;;;;;;;x
+KRD_ADJ;Курдистанск.;;;;;;;;;;;;;x
+KRD_ADJ2;Курдистанск.;;;;;;;;;;;;;x
+MSL;Мосул;;;;;;;;;;;;;x
+MSL_ADJ;Мосулск.;;;;;;;;;;;;;x
+MSL_ADJ2;Мосулск.;;;;;;;;;;;;;x
 become_feudal_kingdom_title;Claim Crown - Feudal Kingdom;;;;;;;;;;;;;x
 become_feudal_kingdom_desc;Becoming King is hard. On the one side, the number of existing crowns has always been somewhat low, on the other side, those few that did exist, were always held or claimed by many. So, the best way to do it, was to proclaim yourself a King, but in order to be taken seriously you needed land to support your claims.;;;;;;;;;;;;;x
 reform_into_feudal_march_title;Reform into Feudal March;;;;;;;;;;;;;x
@@ -1689,11 +1689,11 @@ ARL_ADJ2;Aral;;;;;;;;;;;;;x
 KWZ;Khwarezmia;;;;;;;;;;;;;x
 KWZ_ADJ;Khwarezmi;;;;;;;;;;;;;x
 KWZ_ADJ2;Khwarezmi;;;;;;;;;;;;;x
-crimea;Crimea;;;;;;;;;;;;;x
-nogai;Nogai;;;;;;;;;;;;;x
-ural;Ural;;;;;;;;;;;;;x
-catalonia;Catalonia;;;;;;;;;;;;;x
-england;England;;;;;;;;;;;;;x
+crimea;Крым;;;;;;;;;;;;;x
+nogai;Ногайская орда;;;;;;;;;;;;;x
+ural;Урал;;;;;;;;;;;;;x
+catalonia;Каталония;;;;;;;;;;;;;x
+england;Англия;;;;;;;;;;;;;x
 brittany;Brittany;;;;;;;;;;;;;x
 aquitaine;Aquitaine;;;;;;;;;;;;;x
 faroese;Faroese;;;;;;;;;;;;;x
@@ -1778,24 +1778,24 @@ PROV2137;Ирбит;;;;;;;;;;;;;x
 KHZ;Khazaria;;;;;;;;;;;;;x
 KHZ_ADJ;Khazarian;;;;;;;;;;;;;x
 KHZ_ADJ2;Khazarian;;;;;;;;;;;;;x
-centralization_decentralization;Centralisation vs. Decentralisation;Centralisation v Dйcentralisation;Zentralisierung vs. Dezentralisierung;Centralizacja kontra decentralizacja;Centralizaciуn - Descentralizaciуn;Centralizzazione v Decentramento;Centralizбciу vagy decentralizбciу;Centralizace vs. decentralizace;;;;;;x;
-centralization_decentralization_left;Centralisation;Centralisation;Zentralisierung;Centralizacja;Centralizaciуn;Centralizzazione ;Centralizбciу;Centralizace;;;;;;x;
-centralization_decentralization_right;Decentralisation;Dйcentralisation;Dezentralisierung;Decentralizacja;Descentralizaciуn;Decentramento;Decentralizбciу;Decentralizace;;;;;;x;
-aristocracy_plutocracy;Aristocracy vs. Plutocracy;Aristocratie v Ploutocratie;Aristokratie vs. Plutokratie;Arystokracja kontra plutokracja;Aristocracia - Plutocracia;Aristocrazia v Plutocrazia;Arisztokrбcia vagy plutokrбcia;Aristokracie vs. plutokracie;;;;;;x;
-aristocracy_plutocracy_left;Aristocracy;Aristocratie;Aristokratie;Arystokracja ;Aristocracia;Aristocrazia;Arisztokrбcia;Aristokracie;;;;;;x;
-aristocracy_plutocracy_right;Plutocracy;Ploutocratie;Plutokratie;Plutokracja;Plutocracia;Plutocrazia;Plutokrбcia;Plutokracie;;;;;;x;
-serfdom_freesubjects;Serfdom vs. Free Subjects;Servitude v Libertй;Leibeigenschaft vs. Freie Untertanen;Poddaсstwo kontra wolni poddani;Servidumbre - Sъbditos libres;Servitщ v Liberi sudditi;Jobbбgysбg vagy szabad alattvalуk;Nevolnictvн vs. svobodnнci;;;;;;x;
-serfdom_freesubjects_left;Serfdom;Servitude;Leibeigenschaft;Poddaсstwo;Servidumbre;Servitщ;Jobbбgysбg;Nevolnictvн;;;;;;x;
-serfdom_freesubjects_right;Free Subjects;Libertй;Freie Untertanen;Wolni poddani;Sъbditos libres;Liberi sudditi;Szabad alattvalуk;Svobodnнci;;;;;;x;
-mercantilism_freetrade;Mercantilism vs. Free Trade;Mercantilisme v Libre commerce;Merkantilismus vs. Freihandel;Merkantylizm kontra wolny handel;Mercantilismo - Libre comercio;Mercantilismo v Libero scambio;Merkantilizmus vagy szabadkereskedelem;Merkantilismus vs. volnэ obchod;;;;;;x;
-mercantilism_freetrade_left;Mercantilism;Mercantilisme;Merkantilismus;Merkantylizm;Mercantilismo;Mercantilismo;Merkantilizmus;Merkantilismus;;;;;;x;
-mercantilism_freetrade_right;Free Trade;Libre commerce;Freihandel;Wolny handel;Libre comercio;Libero scambio;Szabadkereskedelem;Volnэ obchod;;;;;;x;
+centralization_decentralization;Централизация vs. Децентрализация;Centralisation v Dйcentralisation;Zentralisierung vs. Dezentralisierung;Centralizacja kontra decentralizacja;Centralizaciуn - Descentralizaciуn;Centralizzazione v Decentramento;Centralizбciу vagy decentralizбciу;Centralizace vs. decentralizace;;;;;;x;
+centralization_decentralization_left;Централизация;Centralisation;Zentralisierung;Centralizacja;Centralizaciуn;Centralizzazione ;Centralizбciу;Centralizace;;;;;;x;
+centralization_decentralization_right;Децентрализация;Dйcentralisation;Dezentralisierung;Decentralizacja;Descentralizaciуn;Decentramento;Decentralizбciу;Decentralizace;;;;;;x;
+aristocracy_plutocracy;Власть знатных vs. Власть богатых;Aristocratie v Ploutocratie;Aristokratie vs. Plutokratie;Arystokracja kontra plutokracja;Aristocracia - Plutocracia;Aristocrazia v Plutocrazia;Arisztokrбcia vagy plutokrбcia;Aristokracie vs. plutokracie;;;;;;x;
+aristocracy_plutocracy_left;Власть знатных;Aristocratie;Aristokratie;Arystokracja ;Aristocracia;Aristocrazia;Arisztokrбcia;Aristokracie;;;;;;x;
+aristocracy_plutocracy_right;Власть богатых;Ploutocratie;Plutokratie;Plutokracja;Plutocracia;Plutocrazia;Plutokrбcia;Plutokracie;;;;;;x;
+serfdom_freesubjects;Крепостничество vs. Личная свобода;Servitude v Libertй;Leibeigenschaft vs. Freie Untertanen;Poddaсstwo kontra wolni poddani;Servidumbre - Sъbditos libres;Servitщ v Liberi sudditi;Jobbбgysбg vagy szabad alattvalуk;Nevolnictvн vs. svobodnнci;;;;;;x;
+serfdom_freesubjects_left;Крепостничество;Servitude;Leibeigenschaft;Poddaсstwo;Servidumbre;Servitщ;Jobbбgysбg;Nevolnictvн;;;;;;x;
+serfdom_freesubjects_right;Личная свобода;Libertй;Freie Untertanen;Wolni poddani;Sъbditos libres;Liberi sudditi;Szabad alattvalуk;Svobodnнci;;;;;;x;
+mercantilism_freetrade;Меркантилизм vs. Свобод. торговля;Mercantilisme v Libre commerce;Merkantilismus vs. Freihandel;Merkantylizm kontra wolny handel;Mercantilismo - Libre comercio;Mercantilismo v Libero scambio;Merkantilizmus vagy szabadkereskedelem;Merkantilismus vs. volnэ obchod;;;;;;x;
+mercantilism_freetrade_left;Меркантилизм;Mercantilisme;Merkantilismus;Merkantylizm;Mercantilismo;Mercantilismo;Merkantilizmus;Merkantilismus;;;;;;x;
+mercantilism_freetrade_right;Свобод. торговля;Libre commerce;Freihandel;Wolny handel;Libre comercio;Libero scambio;Szabadkereskedelem;Volnэ obchod;;;;;;x;
 nomad_settled;Nomad vs Settled;;;;;;;;;;;;;x
 nomad_settled_left;Nomad;;;;;;;;;;;;;x
 nomad_settled_right;Settled;;;;;;;;;;;;;x
-innovative_conservative;Innovative vs Conservative;;;;;;;;;;;;;x
-innovative_conservative_left;Innovative;;;;;;;;;;;;;x
-innovative_conservative_right;Conservative;;;;;;;;;;;;;x
+innovative_conservative;Инновации vs Консерватизм;;;;;;;;;;;;;x
+innovative_conservative_left;Инновации;;;;;;;;;;;;;x
+innovative_conservative_right;Консерватизм;;;;;;;;;;;;;x
 openminded_narrowminded;Nomad vs Settled;;;;;;;;;;;;;x
 openminded_narrowminded_left;Openminded;;;;;;;;;;;;;x
 openminded_narrowminded_right;Narrowminded;;;;;;;;;;;;;x
@@ -1979,7 +1979,7 @@ FGN_ADJ2;Ferghani;;;;;;;;;;;;;x
 BKS;Badakhshan;;;;;;;;;;;;;x
 BKS_ADJ;Badakhshani;;;;;;;;;;;;;x
 BKS_ADJ2;Badakhshani;;;;;;;;;;;;;x
-kurdistan;Kurdistan;;;;;;;;;;;;;x
+kurdistan;Курдистан;;;;;;;;;;;;;x
 RAS;Rascia;;;;;;;;;;;;;x
 RAS_ADJ;Rascian;;;;;;;;;;;;;x
 RAS_ADJ2;Rascian;;;;;;;;;;;;;x
@@ -2336,16 +2336,16 @@ halicia;Halicia;;;;;;;;;;;;;x
 sich;Sich;;;;;;;;;;;;;x
 halician;Halician;;;;;;;;;;;;;x
 greek_islands;Greek Islands;;;;;;;;;;;;;x
-slovenia;Slovenia;;;;;;;;;;;;;x
-wallachia;Wallachia;;;;;;;;;;;;;x
-polesia;Polesia;;;;;;;;;;;;;x
-vitebsk;Vitebsk;;;;;;;;;;;;;x
-chernigov;Chernigov;;;;;;;;;;;;;x
-litva;Litva;;;;;;;;;;;;;x
-moldavia;Moldavia;;;;;;;;;;;;;x
-transilvania;Transylvania;;;;;;;;;;;;;x
-northern_levant;Northern Levant;;;;;;;;;;;;;x
-southern_levant;Southern Levant;;;;;;;;;;;;;x
+slovenia;Словения;;;;;;;;;;;;;x
+wallachia;Валахия;;;;;;;;;;;;;x
+polesia;Полесье;;;;;;;;;;;;;x
+vitebsk;Витебск;;;;;;;;;;;;;x
+chernigov;Чернигов;;;;;;;;;;;;;x
+litva;Литва;;;;;;;;;;;;;x
+moldavia;Молдавия;;;;;;;;;;;;;x
+transilvania;Трансильвания;;;;;;;;;;;;;x
+northern_levant;Северный Левант;;;;;;;;;;;;;x
+southern_levant;Южный Левант;;;;;;;;;;;;;x
 annex_region_turkey_title;Conquer Region - Turkey;;;;;;;;;;;;;x
 annex_region_turkey_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 annex_region_greece_title;Conquer Region - Greece;;;;;;;;;;;;;x
@@ -2680,9 +2680,9 @@ persecuted_peasants;Persecuted Peasants;;;;;;;;;;;;;x
 desc_persecuted_peasants;Persecuted peasants.;;;;;;;;;;;;;x
 devastated_country_side;Devastated Countryside;;;;;;;;;;;;;x
 desc_devastated_country_side;Devastated countryside.;;;;;;;;;;;;;x
-SLT;Slutsk;;;;;;;;;;;;;x
-SLT_ADJ;Slutskiy;;;;;;;;;;;;;x
-SLT_ADJ2;Slutskiy;;;;;;;;;;;;;x
+SLT;Слуцк;;;;;;;;;;;;;x
+SLT_ADJ;Слуцк.;;;;;;;;;;;;;x
+SLT_ADJ2;Слуцк.;;;;;;;;;;;;;x
 PROV2138;Упита;;;;;;;;;;;;;x
 annex_slutsk_title;Conquer Slutsk;;;;;;;;;;;;;x
 annex_slutsk_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
@@ -2763,8 +2763,8 @@ PROV2143;Peshawar;;;;;;;;;;;;;x
 PROV2144;Hyderabad;;;;;;;;;;;;;x
 baluchistan;Baluchistan;;;;;;;;;;;;;x
 khorasan;Khorasan;;;;;;;;;;;;;x
-mongol_group;Mongol Group;;;;;;;;;;;;;x
-turkic_group;Turkic Group;;;;;;;;;;;;;x
+mongol_group;Монгольская группа;;;;;;;;;;;;;x
+turkic_group;Тюркская группа;;;;;;;;;;;;;x
 tartar_altaic;Татарская;;;;;;;;;;;;;x
 siberian_altaic;Сибирская;;;;;;;;;;;;;x
 enact_first_statut_of_lithuania_title;Adopt First Statut of Lithuania;;;;;;;;;;;;;x
@@ -3013,12 +3013,12 @@ EVTNAME97007;Foreign Envoys;;;;;;;;;;;;;x
 EVTDESC97007;We have been approached by the enovys from a foreign court with the proposal of establishing permanent diplomatic relations. We could let them settle in on their own, or offer special accomodations near the palace?;;;;;;;;;;;;;x
 EVTOPTA97007;Welcome them.;;;;;;;;;;;;x
 EVTOPTB97007;Offer them office.;;;;;;;;;;;;x
-PMW;Pomerania-Wolgast;;;;;;;;;;;;;x
-PMW_ADJ;Pomerania-Wolgast;;;;;;;;;;;;;x
-PMW_ADJ2;Pomerania-Wolgast;;;;;;;;;;;;;x
-PMS;Pomerania-Stettin;;;;;;;;;;;;;x
-PMS_ADJ;Pomerania-Stettin;;;;;;;;;;;;;x
-PMS_ADJ2;Pomerania-Stettin;;;;;;;;;;;;;x
+PMW;Померания-Вольгаст;;;;;;;;;;;;;x
+PMW_ADJ;Померанск.;;;;;;;;;;;;;x
+PMW_ADJ2;Померанск.;;;;;;;;;;;;;x
+PMS;Померания-Штеттин;;;;;;;;;;;;;x
+PMS_ADJ;Померанск.;;;;;;;;;;;;;x
+PMS_ADJ2;Померанск.;;;;;;;;;;;;;x
 PROV2147;Hum;;;;;;;;;;;;;x
 PROV2148;Kljuc;;;;;;;;;;;;;x
 PROV2149;Drijeva;;;;;;;;;;;;;x
@@ -3075,9 +3075,9 @@ higher_authority;Higher Authority;;;;;;;;;;;;;x
 desc_higher_authority;Submit to the authority of the Pope.;;;;;;;;;;;;;x
 pope_refused;Pope Refused;;;;;;;;;;;;;x
 desc_pope_refused;Pope authority refused.;;;;;;;;;;;;;x
-POS;Pomerania-Stolp;;;;;;;;;;;;;x
-POS_ADJ;Pomerania-Stolp;;;;;;;;;;;;;x
-POS_ADJ2;Pomerania-Stolp;;;;;;;;;;;;;x
+POS;Померания-Штольп;;;;;;;;;;;;;x
+POS_ADJ;Померанск.;;;;;;;;;;;;;x
+POS_ADJ2;Померанск.;;;;;;;;;;;;;x
 annex_pommeraniaslupsk_title;Annex Pomerania-Stolp;;;;;;;;;;;;;x
 annex_pommeraniaslupsk_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 annex_pommeraniastettin_title;Annex Pomerania-Stettin;;;;;;;;;;;;;x
@@ -3390,15 +3390,15 @@ EVTDESC83008;A group of conspirators have managed to assassinate our favorite he
 EVTOPTA83008;Monsters!;;;;;;;;;;;;x
 turkmenistan;Turkmenistan;;;;;;;;;;;;;x
 uzbekhistan;Uzbekhistan;;;;;;;;;;;;;x
-MZN;Mazandaran;;;;;;;;;;;;;x
-MZN_ADJ;Mazandaran;;;;;;;;;;;;;x
-MZN_ADJ2;Mazandaran;;;;;;;;;;;;;x
-LAR;Laristan;;;;;;;;;;;;;x
-LAR_ADJ;Laristan;;;;;;;;;;;;;x
-LAR_ADJ2;Laristan;;;;;;;;;;;;;x
-ESF;Esfahan;;;;;;;;;;;;;x
-ESF_ADJ;Esfahan;;;;;;;;;;;;;x
-ESF_ADJ2;Esfahan;;;;;;;;;;;;;x
+MZN;Мазендеран;;;;;;;;;;;;;x
+MZN_ADJ;Мазендеранск.;;;;;;;;;;;;;x
+MZN_ADJ2;Мазендеранск.;;;;;;;;;;;;;x
+LAR;Ларестан;;;;;;;;;;;;;x
+LAR_ADJ;Ларестанск.;;;;;;;;;;;;;x
+LAR_ADJ2;Ларестанск.;;;;;;;;;;;;;x
+ESF;Исфахан;;;;;;;;;;;;;x
+ESF_ADJ;Исфаханск.;;;;;;;;;;;;;x
+ESF_ADJ2;Исфаханск.;;;;;;;;;;;;;x
 form_turkestan_nation_title;Form Turkestan Nation;;;;;;;;;;;;;x
 form_turkestan_nation_desc;Unite various Turkic tribes into a single, powerful nation.;;;;;;;;;;;;;x
 EVTNAME81017;Heir Assassinated;;;;;;;;;;;;;x
@@ -4084,21 +4084,21 @@ lombardy;Lombardy;;;;;;;;;;;;;x
 romagna;Romagna;;;;;;;;;;;;;x
 form_etruria_title;Form Etrurian Nation;;;;;;;;;;;;;x
 form_etruria_desc;Form Etrurian nation.;;;;;;;;;;;;;x
-LOM;Lombardy;;;;;;;;;;;;;x
-LOM_ADJ;Lombard;;;;;;;;;;;;;x
-LOM_ADJ2;Lombard;;;;;;;;;;;;;x
+LOM;Ломбардия;;;;;;;;;;;;;x
+LOM_ADJ;Ломбардск.;;;;;;;;;;;;;x
+LOM_ADJ2;Ломбардск.;;;;;;;;;;;;;x
 form_lombardy_title;Form Lombard Nation;;;;;;;;;;;;;x
 form_lombardy_desc;Form Lombard nation.;;;;;;;;;;;;;x
-TSC;Two Sicilies;;;;;;;;;;;;;x
-TSC_ADJ;Two-Sicilian;;;;;;;;;;;;;x
-TSC_ADJ2;Two-Sicilian;;;;;;;;;;;;;x
+TSC;Кор. Обеих Сицилий;;;;;;;;;;;;;x
+TSC_ADJ;Сицилийск.;;;;;;;;;;;;;x
+TSC_ADJ2;Сицилийск.;;;;;;;;;;;;;x
 form_twosicilies_title;Form Two Sicilies Nation;;;;;;;;;;;;;x
 form_twosicilies_desc;Form Two Sicilies nation.;;;;;;;;;;;;;x
-piedmont;Piedmont;;;;;;;;;;;;;x
-sardinia;Sardinia;;;;;;;;;;;;;x
-corsica;Corsica;;;;;;;;;;;;;x
-siciliy;Siciliy;;;;;;;;;;;;;x
-naples;Naples;;;;;;;;;;;;;x
+piedmont;Пьемонт;;;;;;;;;;;;;x
+sardinia;Сардиния;;;;;;;;;;;;;x
+corsica;Корсика;;;;;;;;;;;;;x
+siciliy;Сицилия;;;;;;;;;;;;;x
+naples;Неаполь;;;;;;;;;;;;;x
 calabria;Calabria;;;;;;;;;;;;;x
 CBL;Calabria;;;;;;;;;;;;;x
 CBL_ADJ;Calabrian;;;;;;;;;;;;;x
@@ -4626,21 +4626,21 @@ large_tribe_bad_mil_3;Incapable Ruler;;;;;;;;;;;;;x;
 desc_large_tribe_bad_mil_3;Ruler can't handle the Military details of our Tribe;;;;;;;;;;;;;x
 large_tribe_bad_mil_4;Incapable Ruler;;;;;;;;;;;;;x;
 desc_large_tribe_bad_mil_4;Ruler can't handle the Military details of our Tribe;;;;;;;;;;;;;x
-PROV2183;Straubing;;;;;;;;;;;;;x
-PROV2184;Ingolstadt;;;;;;;;;;;;;x
-BMN;Bavaria-Munchen;;;;;;;;;;;;;x
-BMN_ADJ;Bavaria-Munchen;;;;;;;;;;;;;x
-BMN_ADJ2;Bavaria-Munchen;;;;;;;;;;;;;x
-BIS;Bavaria-Ingolstadt;;;;;;;;;;;;;x
-BIS_ADJ;Bavaria-Ingolstadt;;;;;;;;;;;;;x
-BIS_ADJ2;Bavaria-Ingolstadt;;;;;;;;;;;;;x
-BLS;Bavaria-Landshut;;;;;;;;;;;;;x
-BLS_ADJ;Bavaria-Landshut;;;;;;;;;;;;;x
-BLS_ADJ2;Bavaria-Landshut;;;;;;;;;;;;;x
-BST;Bavaria-Straubing;;;;;;;;;;;;;x
-BST_ADJ;Bavaria-Straubing;;;;;;;;;;;;;x
-BST_ADJ2;Bavaria-Straubing;;;;;;;;;;;;;x
-bavarian_region;Bavaria;;;;;;;;;;;;;x
+PROV2183;Штраубинг;;;;;;;;;;;;;x
+PROV2184;Ингольштадт;;;;;;;;;;;;;x
+BMN;Бавария-Мюнхен;;;;;;;;;;;;;x
+BMN_ADJ;Баварск.;;;;;;;;;;;;;x
+BMN_ADJ2;Баварск.;;;;;;;;;;;;;x
+BIS;Бавария-Ингольштадт;;;;;;;;;;;;;x
+BIS_ADJ;Баварск.;;;;;;;;;;;;;x
+BIS_ADJ2;Баварск.;;;;;;;;;;;;;x
+BLS;Бавария-Ландсхут;;;;;;;;;;;;;x
+BLS_ADJ;Баварск.;;;;;;;;;;;;;x
+BLS_ADJ2;Баварск.;;;;;;;;;;;;;x
+BST;Бавария-Штраубинг;;;;;;;;;;;;;x
+BST_ADJ;Баварск.;;;;;;;;;;;;;x
+BST_ADJ2;Баварск.;;;;;;;;;;;;;x
+bavarian_region;Бавария;;;;;;;;;;;;;x
 unite_bavaria_title;Unite Bavarian Nation;;;;;;;;;;;;;x
 unite_bavaria_desc;Put an end to the old practices of First and Second Bavarian partitions. Unite all Bavarian lands into a single state meant to be inherited as a whole by your own descendants, instead of being endlessly split among the warring brothers and cousins.;;;;;;;;;;;;;x
 dagestani;Dagestani;;;;;;;;;;;;;x
@@ -4810,7 +4810,7 @@ PROV2214;Kanpur;;;;;;;;;;;;;x
 PROV2215;Kumaon;;;;;;;;;;;;;x
 PROV2216;Varanasi;;;;;;;;;;;;;x
 PROV2217;Gorakhpur;;;;;;;;;;;;;x
-nepal_region;Nepal;;;;;;;;;;;;;x
+nepal_region;Непал;;;;;;;;;;;;;x
 bihar_region;Bihar;;;;;;;;;;;;;x
 gujarat_region;Gujarat;;;;;;;;;;;;;x
 punjab_region;Punjab;;;;;;;;;;;;;x
@@ -5131,9 +5131,9 @@ EVTOPTA41055;Traitors!;;;;;;;;;;;;;x
 form_greece_title;Form Greek Nation;;;;;;;;;;;;;x
 form_greece_desc;Form Greek nation.;;;;;;;;;;;;;x
 oudh_region;Oudh;;;;;;;;;;;;;x
-KOC;Kochin;;;;;;;;;;;;;x
-KOC_ADJ2;Kochi;;;;;;;;;;;;;x
-KOC_ADJ;Kochi;;;;;;;;;;;;;x
+KOC;Коччи;;;;;;;;;;;;;x
+KOC_ADJ2;Коччинск.;;;;;;;;;;;;;x
+KOC_ADJ;Коччинск.;;;;;;;;;;;;;x
 ZAM;Кожикоде;;;;;;;;;;;;;x
 ZAM_ADJ;Кожикодск.;;;;;;;;;;;;;x
 ZAM_ADJ2;Кожикодск.;;;;;;;;;;;;;x
@@ -5415,7 +5415,7 @@ PROV2228;Пардубице;;;;;;;;;;;;;
 PROV2229;Ленчица;;;;;;;;;;;;;
 PROV2230;Глогув;;;;;;;;;;;;;
 PROV2231;Рацибуж;;;;;;;;;;;;;
-silesian_region;Silesia;;;;;;;;;;;;;
+silesian_region;Силезия;;;;;;;;;;;;;
 GLO;Глогув;;;;;;;;;;;;;
 GLO_ADJ;Глогувск.;;;;;;;;;;;;;
 GLO_ADJ2;Глогувск.;;;;;;;;;;;;;
@@ -5431,7 +5431,7 @@ annex_glogow_desc;We now have the opportunity to press claims on this piece of l
 annex_raciborz_title;Annex Raciborz;;;;;;;;;;;;;x
 annex_raciborz_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 PROV2232;Тарту;;;;;;;;;;;;;
-curonian;Curonian;;;;;;;;;;;;;x
+curonian;Куршская;;;;;;;;;;;;;x
 latgalian;Латгальская;;;;;;;;;;;;;x
 semigallian;Семигальская;;;;;;;;;;;;;x
 latvian;Латвийская;;;;;;;;;;;;;x
@@ -5448,8 +5448,8 @@ LAT_ADJ2;Латвийск.;;;;;;;;;;;;;x
 ZEM;Земгалия;;;;;;;;;;;;;x
 ZEM_ADJ;Земгальск.;;;;;;;;;;;;;x
 ZEM_ADJ2;Земгальск.;;;;;;;;;;;;;x
-kujawy_region;Kujawy;;;;;;;;;;;;;
-mazovia_region;Mazovia;;;;;;;;;;;;;
+kujawy_region;Куявия;;;;;;;;;;;;;
+mazovia_region;Мазовия;;;;;;;;;;;;;
 ostpreussen_region;Ostpreussen;;;;;;;;;;;;;
 PROV2233;Лида;;;;;;;;;;;;;
 PROV2234;Мир;;;;;;;;;;;;;
@@ -5484,13 +5484,13 @@ defeat_rebels_mission_2_title;Defeat Rebels;;;;;;;;;;;;;x
 defeat_rebels_mission_2_desc;Our country is being ravaged by rebels, we need to make sure we have full control over our country again. Eradicate all rebels!;;;;;;;;;;;;;x
 annex_pomorye_title;Annex Pomorye;;;;;;;;;;;;;x
 annex_pomorye_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
-HAL;Halych;;;;;;;;;;;;;x
-HAL_ADJ;Galician;;;;;;;;;;;;;x
-HAL_ADJ2;Galician;;;;;;;;;;;;;x
-lusatian_region;Lusatia;;;;;;;;;;;;;x
-white_ruthenia;White Ruthenia;;;;;;;;;;;;;x
-keivan_region;Kiev;;;;;;;;;;;;;x
-podolian_region;Podolia;;;;;;;;;;;;;x
+HAL;Галиция;;;;;;;;;;;;;x
+HAL_ADJ;Галицк.;;;;;;;;;;;;;x
+HAL_ADJ2;Галицк.;;;;;;;;;;;;;x
+lusatian_region;Лужица;;;;;;;;;;;;;x
+white_ruthenia;Белая Русь;;;;;;;;;;;;;x
+keivan_region;Киев;;;;;;;;;;;;;x
+podolian_region;Подолье;;;;;;;;;;;;;x
 PROV2238;Manisa;;;;;;;;;;;;;
 PROV2239;Finike;;;;;;;;;;;;;
 PROV2240;Cybistra;;;;;;;;;;;;;
@@ -5521,10 +5521,10 @@ PROV2258;Gran Canaria;;;;;;;;;;;;;
 PROV2259;Fuerteventura;;;;;;;;;;;;;
 PROV2260;Lanzarote;;;;;;;;;;;;;
 PROV2261;Padova;;;;;;;;;;;;;
-PROV2262;Rьgen;;;;;;;;;;;;;
-PROV2263;Ruthenia;;;;;;;;;;;;;
-red_ruthenia;Red Ruthenia;;;;;;;;;;;;;
-PROV2264;Constanta;;;;;;;;;;;;;
+PROV2262;Рюген;;;;;;;;;;;;;
+PROV2263;Рутения;;;;;;;;;;;;;
+red_ruthenia;Красная Русь;;;;;;;;;;;;;
+PROV2264;Констанца;;;;;;;;;;;;;
 PROV2265;Puerto Ayachucho;;;;;;;;;;;;;
 PROV2266;Northern Amazonas;;;;;;;;;;;;;
 PROV2267;Angostura;;;;;;;;;;;;;
@@ -5852,13 +5852,13 @@ oirat_mongol;Oirat Mongol;;;;;;;;;;;;;
 PROV2319;Баруун-Урт;;;;;;;;;;;;;
 reclaim_yan_empire_title;Reclaim Yan Empire;;;;;;;;;;;;;x
 reclaim_yan_empire_desc;It has been some time since the Chinese have managed to overthrow the Mongol rule of China and push us back to the fringes of civilization. But now, Mongols are back, and we shall restore the glory of Yan Empire!;;;;;;;;;;;;;x
-GMH;Great Mongol Horde;;;;;;;;;;;;;
-GMH_ADJ;Mongolian;;;;;;;;;;;;;
-GMH_ADJ2;Mongolian;;;;;;;;;;;;;
+GMH;Великая Монгольская орда;;;;;;;;;;;;;
+GMH_ADJ;Монгольск.;;;;;;;;;;;;;
+GMH_ADJ2;Монгольск.;;;;;;;;;;;;;
 unite_greatmongolhorde_1_title;Unite The Great Horde;;;;;;;;;;;;;x
 unite_greatmongolhorde_1_desc;Finally, so many years after the great Genghis Khan, the Mongol legacy lives. The Earth shakes again from the horses of of our warriors, The Horde rides again!;;;;;;;;;;;;;x
 PROV2320;Слобода;;;;;;;;;;;;;
-severian_region;Severia;;;;;;;;;;;;;
+severian_region;Северщина;;;;;;;;;;;;;
 tax_war_tm;Tax War;;;;;;;;;;;;;x
 desc_tax_war_tm;Tax war.;;;;;;;;;;;;;x
 PROV2321;Оз. Ханка;;;;;;;;;;;;;
@@ -5895,21 +5895,21 @@ adopt_great_horde_legacy_title;Adopt Great Horde Legacy;;;;;;;;;;;;;x
 adopt_great_horde_legacy_desc;Adopt legacy of the legendary Great Horde that sweapted through the steppe like lightning crushing all those who dared to oppose them, and uniting all Mongol tribes into one. Memory of Ghenghis Khan will live on forever.;;;;;;;;;;;;;x
 adopt_steppe_warfare_title;Adopt Steppe Warfare;;;;;;;;;;;;;x
 adopt_steppe_warfare_desc;Nomad style warfare within steppe has always been completely different compared to the customs of settlers. Unlike the ways of city dwellers, who rely on discipline and numbers, steppe people have always depended on their horses and individual skill with bow, adopting lightning fast attack and counterattack tactics often used with devastating effect. Until late gunpowder age, no country could ever face horseback nomads in steppe and emerge victorious.;;;;;;;;;;;;;x
-PROV2340;Bayankhongor;;;;;;;;;;;;;
-PROV2341;Olgii;;;;;;;;;;;;;
+PROV2340;Баянхонгор;;;;;;;;;;;;;
+PROV2341;Улгий;;;;;;;;;;;;;
 PROV2342;Аджария;;;;;;;;;;;;;
 PROV2343;Нахичевань;;;;;;;;;;;;;
-PROV2344;Ahar;;;;;;;;;;;;;
+PROV2344;Ахар;;;;;;;;;;;;;
 ORD;Ордос;;;;;;;;;;;;;
 ORD_ADJ;Ордосск.;;;;;;;;;;;;;
 ORD_ADJ2;Ордосск.;;;;;;;;;;;;;
 ordos_mongol;Ordos Mongol;;;;;;;;;;;;;x
-bolgar_group;Mordovian Group;;;;;;;;;;;;;x
-albanian_group;Albanian Group;;;;;;;;;;;;;x
+bolgar_group;Мордовская группа;;;;;;;;;;;;;x
+albanian_group;Албанская группа;;;;;;;;;;;;;x
 khazak_group;Khazak Group;;;;;;;;;;;;;x
-berber_group;Berber Group;;;;;;;;;;;;;x
-kurdish_group;Kurdish Group;;;;;;;;;;;;;x
-african_group;African Group;;;;;;;;;;;;;x
+berber_group;Берберская группа;;;;;;;;;;;;;x
+kurdish_group;Курдская группа;;;;;;;;;;;;;x
+african_group;Африканская группа;;;;;;;;;;;;;x
 jurchen_group;Jurchen Group;;;;;;;;;;;;;x
 EVTNAME81016;Stability Drops;;;;;;;;;;;;;x
 EVTDESC81016;As a reslut of ongoing Time of Troubles, our state stability drops.;;;;;;;;;;;;;x
@@ -6036,10 +6036,10 @@ establish_board_of_ordnance_title;Establish Board of Ordnance;;;;;;;;;;;;;x
 establish_board_of_ordnance_desc;Establish a government body responsable for supply of armaments and munitions for both army and navy, as well as production of of maps for military purposes.;;;;;;;;;;;;;x
 establish_importation_office_title;Establish Importation Office;;;;;;;;;;;;;x
 establish_importation_office_desc;Establish a government office tasked with controlling importation of foreign goods, in order to secure the domestic market and local traders.;;;;;;;;;;;;;x
-lekian;Lak;;;;;;;;;;;;;x
-avar;Avar;;;;;;;;;;;;;x
-avarian_region;Avaria;;;;;;;;;;;;;x
-azerbaijani_region;Azerbaijan;;;;;;;;;;;;;x
+lekian;Дагестанская;;;;;;;;;;;;;x
+avar;Аварская;;;;;;;;;;;;;x
+avarian_region;Авария;;;;;;;;;;;;;x
+azerbaijani_region;Азербайджан;;;;;;;;;;;;;x
 AVR;Авария;;;;;;;;;;;;;x
 AVR_ADJ;Аварск.;;;;;;;;;;;;;x
 AVR_ADJ2;Аварск.;;;;;;;;;;;;;x
@@ -6411,7 +6411,7 @@ desc_nontribal_succession_crisis;Succession Crisis.;;;;;;;;;;;;;x
 EVTNAME30013;Ottoman Succession Crisis;;;;;;;;;;;;;x
 EVTDESC30013;Our great Sultan is dead, and already the vultures are gathering around the throne. The palace as well as harem are teeming with plots and schemes, as each faction tries to bribe and murder its way into power. It looks like we are in for another succession crisis.;;;;;;;;;;;;;x
 EVTOPTA30013;Rule by the sword, or die by it.;;;;;;;;;;;;;x
-palestinian_arabic;Palestinian;;;;;;;;;;;;;x
+palestinian_arabic;Палестинская;;;;;;;;;;;;;x
 north_syrian;North Syrian;;;;;;;;;;;;;x
 south_syrian;South Syrian;;;;;;;;;;;;;x
 kievan;Kievan;;;;;;;;;;;;;x
@@ -6435,9 +6435,9 @@ nontribal_succession_crisis;Succession Crisis;;;;;;;;;;;;;x
 desc_nontribal_succession_crisis;Succession crisis.;;;;;;;;;;;;;x
 ottoman_succession_crisis;Succession Crisis;;;;;;;;;;;;;x
 desc_ottoman_succession_crisis;Succession crisis.;;;;;;;;;;;;;x
-kievan_region;Kiev;;;;;;;;;;;;;x
-smolensk_region;Smolensk;;;;;;;;;;;;;x
-oka_region;Oka;;;;;;;;;;;;;x
+kievan_region;Киев;;;;;;;;;;;;;x
+smolensk_region;Смоленск;;;;;;;;;;;;;x
+oka_region;Ока;;;;;;;;;;;;;x
 MSK;Минск;;;;;;;;;;;;;x
 MSK_ADJ;Минск.;;;;;;;;;;;;;x
 MSK_ADJ2;Минск.;;;;;;;;;;;;;x
@@ -6462,15 +6462,15 @@ rostovian;Rostovian;;;;;;;;;;;;;x
 yaroslavl_region;Ярославль;;;;;;;;;;;;;x
 yaroslavlian;Yaroslavlian;;;;;;;;;;;;;x
 vladimirite;Vladimirite;;;;;;;;;;;;;x
-vladimir_region;Vladimir;;;;;;;;;;;;;x
+vladimir_region;Владимир;;;;;;;;;;;;;x
 murom_region;Муром;;;;;;;;;;;;;x
 muromian;Muromian;;;;;;;;;;;;;x
-nizhniy_novgorod_region;Nizhniy Novgorod;;;;;;;;;;;;;x
+nizhniy_novgorod_region;Нижний Новгород;;;;;;;;;;;;;x
 east_russian;Восточнорусская;;;;;;;;;;;;;x
 north_russian;North Russian;;;;;;;;;;;;;x
-northern_russia;Northern Russia;;;;;;;;;;;;;x
+northern_russia;Северная Россия;;;;;;;;;;;;;x
 moscovian_region;Московия;;;;;;;;;;;;;x
-moscovite;Московитск.;;;;;;;;;;;;;x
+moscovite;Московитская;;;;;;;;;;;;;x
 EVTNAME35158;Settlement Develops;;;;;;;;;;;;;x
 EVTDESC35158;During the last few years, a settlement in one of our provinces developed due to increase in trade passing through. The question now, is what to do with this newly found wealth?;;;;;;;;;;;;;x
 EVTOPTA35158;Increase the tax value.;;;;;;;;;;;;;x
@@ -6630,14 +6630,14 @@ PROV2461;Moissac;;;;;;;;;;;;;
 provence_region;Provence;;;;;;;;;;;;;
 form_occitanian_nation_title;Form Occitanian Nation;;;;;;;;;;;;;x
 form_occitanian_nationdesc;With the key cultural and religious centers of the Oc County, legally in our hands, we now have the opportunity of uniting all Occitanian lands into a single nation to rival the most powerful kingdoms of Europe.;;;;;;;;;;;;;x
-frisian;Frisian;;;;;;;;;;;;;
-swabian;Swabian;;;;;;;;;;;;;
-ripuarian;Ripuarian;;;;;;;;;;;;;
-westphalian;Westphalian;;;;;;;;;;;;;
-ostphalian;Ostphalian;;;;;;;;;;;;;
-rhine-phalz;Rhine-Phalz;;;;;;;;;;;;;
+frisian;Фризская;;;;;;;;;;;;;
+swabian;Швабская;;;;;;;;;;;;;
+ripuarian;Рипуарская;;;;;;;;;;;;;
+westphalian;Вестфальская;;;;;;;;;;;;;
+ostphalian;Остфальская;;;;;;;;;;;;;
+rhine-phalz;Рейн-Пфальцская;;;;;;;;;;;;;
 east_elbian;Markish;;;;;;;;;;;;;
-franconian;Franconian;;;;;;;;;;;;;
+franconian;Франконская;;;;;;;;;;;;;
 barbary_coast_title;Barbary Coast;;;;;;;;;;;;;x
 barbary_coast_desc;Various countries of the Barbary Coast have had long tradition of hosting pirate ships in their ports, willingly or otherwise. The effect of pirates on North African slave trade was immense, but at the same time, tolerating pirates had negative effect on coutnry's stability, as ruling the unruly was somewhat difficult, except during the time of war, when pirates would be otherwise preoccupied.;;;;;;;;;;;;;x
 annex_novgorod_1_title;Annex Nizhny Novgorod;;;;;;;;;;;;;x
@@ -6727,7 +6727,7 @@ polish_kopia;Polish Kopia;;;;;;;;;;;;;x
 polish_kopiaDESCR;Polish Kopia were levied infantrymen provided by wealthy the Polish knight-landowners. Lance formation by nature, they served as support units for various other branches of the army - from infantry to cavalry, they were suited for many different roles.;;;;;;;;;;;;;x
 polish_knights;Polish Knights;;;;;;;;;;;;;x
 polish_knightsDESCR;Unlike contemporary horsemen in the east, both in Rus and Byzantine lands, that relied more on mobility and speed, Polish cavalry, traditionally provided by aristocracy, under influence from the Western Europe, relied primarily on armor and shock. Few armies could maintain formation after the irresistible charge of the Polish Cavalty.;;;;;;;;;;;;;x
-turkish_group;Turkish Group;;;;;;;;;;;;;
+turkish_group;Турецкая группа;;;;;;;;;;;;;
 candarli;Candarli;;;;;;;;;;;;;
 saruhanoglu;Saruhanoglu;;;;;;;;;;;;;
 aydinoglu;Aydinoglu;;;;;;;;;;;;;
@@ -6741,11 +6741,11 @@ PROV2500;Ta'izz;;;;;;;;;;;;;
 PROV2501;Tarim;;;;;;;;;;;;;
 PROV2502;Tayma;;;;;;;;;;;;;
 PROV2503;Yanbu;;;;;;;;;;;;;
-yemen_region;Yemen;;;;;;;;;;;;;
-hedjaz_region;Hedjaz;;;;;;;;;;;;;
-najd_region;Najd;;;;;;;;;;;;;
-bahrein_region;Bahrein;;;;;;;;;;;;;
-oman_region;Oman;;;;;;;;;;;;;
+yemen_region;Йемен;;;;;;;;;;;;;
+hedjaz_region;Хиджаз;;;;;;;;;;;;;
+najd_region;Недж;;;;;;;;;;;;;
+bahrein_region;Бахрейн;;;;;;;;;;;;;
+oman_region;Оман;;;;;;;;;;;;;
 PROV2504;Ibri;;;;;;;;;;;;;
 PROV2505;Al Wusta;;;;;;;;;;;;;
 ERE;Eretna;;;;;;;;;;;;;x
@@ -6905,25 +6905,25 @@ PROV2522;Santa Fe;;;;;;;;;;;;;
 PROV2523;Neuquen;;;;;;;;;;;;;
 PROV2524;Las Heras;;;;;;;;;;;;;
 PROV2525;Esquel;;;;;;;;;;;;;
-moroccan;Moroccan;;;;;;;;;;;;;
-tlemceni;Tlemceni;;;;;;;;;;;;;
-algerian;Algerian;;;;;;;;;;;;;
-mozabite;Mozabite Berber;;;;;;;;;;;;;
-libyan;Libyan;;;;;;;;;;;;;
-tunisian;Tunisian;;;;;;;;;;;;;
-fezzani;Fezzani;;;;;;;;;;;;;
+moroccan;Мороканская;;;;;;;;;;;;;
+tlemceni;Тлемсенская;;;;;;;;;;;;;
+algerian;Алжирская;;;;;;;;;;;;;
+mozabite;Мзабская;;;;;;;;;;;;;
+libyan;Ливийская;;;;;;;;;;;;;
+tunisian;Тунисская;;;;;;;;;;;;;
+fezzani;Феццанская;;;;;;;;;;;;;
 PROV2526;Waddan;;;;;;;;;;;;;
 PROV2527;Zwila;;;;;;;;;;;;;
 PROV2528;Ghat;;;;;;;;;;;;;
 PROV2529;Angad;;;;;;;;;;;;;
 PROV2530;Tebessa;;;;;;;;;;;;;
 PROV2531;Ghdamis;;;;;;;;;;;;;
-FZN;Fezzan;;;;;;;;;;;;;x
-FZN_ADJ;Fezzani;;;;;;;;;;;;;x
-FZN_ADJ2;Fezzani;;;;;;;;;;;;;x
-ALG;Algiers;;;;;;;;;;;;;x
-ALG_ADJ;Algiers;;;;;;;;;;;;;x
-ALG_ADJ2;Algiers;;;;;;;;;;;;;x
+FZN;Феццан;;;;;;;;;;;;;x
+FZN_ADJ;Феццанск.;;;;;;;;;;;;;x
+FZN_ADJ2;Феццанск.;;;;;;;;;;;;;x
+ALG;Алжир;;;;;;;;;;;;;x
+ALG_ADJ;Алжирск.;;;;;;;;;;;;;x
+ALG_ADJ2;Алжирск.;;;;;;;;;;;;;x
 PROV2532;Samarinda;;;;;;;;;;;;;
 PROV2533;Ketapang;;;;;;;;;;;;;
 PROV2534;Dipa;;;;;;;;;;;;;
@@ -6990,9 +6990,9 @@ PROV2551;Seraye;;;;;;;;;;;;;
 PROV2552;Akkele Guzay;;;;;;;;;;;;;
 PROV2553;Gonder;;;;;;;;;;;;;
 PROV2554;Lasta;;;;;;;;;;;;;
-nilo_saharan;Nilo-Saharan;;;;;;;;;;;;;
-cushitic_group;Cushitic;;;;;;;;;;;;;
-ethiopean_group;Ethiopean;;;;;;;;;;;;;
+nilo_saharan;Нило-Сахарская;;;;;;;;;;;;;
+cushitic_group;Кушитская;;;;;;;;;;;;;
+ethiopean_group;Эфиопская;;;;;;;;;;;;;
 tigre;Tigre;;;;;;;;;;;;;
 afar;Afar;;;;;;;;;;;;;
 amhara;Amhara;;;;;;;;;;;;;
@@ -7054,11 +7054,11 @@ hawiya;Hawiya;;;;;;;;;;;;;
 northern_aryan;Northern Aryan;;;;;;;;;;;;;
 pahari;Pahari;;;;;;;;;;;;;
 lahnda;Lahnda;;;;;;;;;;;;;
-indian_persian_group;Persian;;;;;;;;;;;;;
+indian_persian_group;Персидская;;;;;;;;;;;;;
 indian_persian;Persian;;;;;;;;;;;;;
 southern_aryan;Southern Aryan;;;;;;;;;;;;;
 insular_indo_aryan;Insular Indo-Aryan;;;;;;;;;;;;;
-litvin;Litvin;;;;;;;;;;;;;
+litvin;Литвинская;;;;;;;;;;;;;
 bengal_region;Bengal;;;;;;;;;;;;;
 assam_region;Assam;;;;;;;;;;;;;
 dhivehi;Dhivehi;;;;;;;;;;;;;
@@ -7098,7 +7098,7 @@ annex_dorpat_title;Annex Dorpat;;;;;;;;;;;;;x
 annex_dorpat_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 PROV2564;Kota;;;;;;;;;;;;;
 PROV2565;Barmer;;;;;;;;;;;;;
-syrian;Syrian;;;;;;;;;;;;;x
+syrian;Сирийская;;;;;;;;;;;;;x
 NAG;Nagaur;;;;;;;;;;;;;x
 NAG_ADJ;Nagaur's;;;;;;;;;;;;;x
 NAG_ADJ2;Nagaur's;;;;;;;;;;;;;x
@@ -7138,12 +7138,12 @@ PROV2574;Sanggyeong;;;;;;;;;;;;;
 PROV2575;Iman;;;;;;;;;;;;;
 PROV2576;Huining;;;;;;;;;;;;;
 PROV2577;Jilin;;;;;;;;;;;;;
-armenian_group;Armenian;;;;;;;;;;;;;
+armenian_group;Армянская;;;;;;;;;;;;;
 oghuz_turkic_group;Oghuz Turkic;;;;;;;;;;;;;
 TKS;Туркестан;;;;;;;;;;;;;x
 TKS_ADJ;Туркестанск.;;;;;;;;;;;;;x
 TKS_ADJ2;Туркестанск.;;;;;;;;;;;;;x
-moghulistan_region;Moghulistan;;;;;;;;;;;;;
+moghulistan_region;Могулистан;;;;;;;;;;;;;
 despotic_monarchy_LIT;Grand Duchy;;;;;;;;;;;;;x
 despotic_monarchy_LIT_ruler;Grand Duke;;;;;;;;;;;;;x
 despotic_monarchy_LIT_ruler_female;Grand Duchess;;;;;;;;;;;;;x
