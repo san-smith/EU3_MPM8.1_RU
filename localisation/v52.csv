@@ -1,0 +1,60 @@
+HAVE_A_NAVY_SMALLER_THAN2;Total navy size less than §Y$PERC$§W% of the Force Limit. (Less than $SHIPS$ ships);Taille totale de la marine : inférieure à §Y$PERC$§W% de la limite d’effectifs;Flottengröße geringer als §Y$PERC$§W% des Schiffslimit;;Tamaño total de armada menor de §Y$PERC$§W% del límite del ejército;;;;;;;;;
+HAVE_A_NAVY_LARGER_THAN2;Total navy size at least §Y$PERC$§W% of the Force Limit. (At least $SHIPS$ ships);Taille totale de la marine : au moins §Y$PERC$§W% de la limite d’effectifs;Flottenstärke zumindest §Y$PERC$§W% des Schiffslimit;;Tamaño total de armada de al menos §Y$PERC$§W% del límite del ejército;;;;;;;;;
+HAVE_A_ARMY_SMALLER_THAN2;Total army size less than §Y$PERC$§W% of the Force Limit. (Less than $REGIMENTS$ regiments);Taille totale de l’armée : inférieure à §Y$PERC$§W% de la limite d’effectifs;Armeegröße weniger als §Y$PERC$§W% des Truppenlimit;;Tamaño total de armada menor de §Y$PERC$§W% del límite del ejército;;;;;;;;;
+HAVE_A_ARMY_LARGER_THAN2;Total army size at least §Y$PERC$§W% of the Force Limit. (At least $REGIMENTS$ regiments);Taille totale de l’armée : au moins §Y$PERC$§W% de la limite d’effectifs;Armeegröße zumindest §Y$PERC$§W% des Truppenlimit;;Tamaño total de armada de al menos §Y$PERC$§W% del límite del ejército;;;;;;;;;
+UW_NOT_POSSIBLE_TO_ATTACH;There are no friendly units here to attach to.;;;;;;;;;;;;;x
+UW_UNITS_ATTACHED;The following units are attached.;;;;;;;;;;;;;x
+UW_ATTACH_TO;Attach to always follow $NAME$.;;;;;;;;;;;;;x
+UW_DETACH_FROM;Detach from following $NAME$.;;;;;;;;;;;;;x
+UNIT_DETACH;Detach;;;;;;;;;;;;;x
+UNIT_ATTACH;Attach;;;;;;;;;;;;;x
+DIPRELCH_STRAINED_UNION;Cultural differences in Union;;;;;;;;;;;;;x;;
+ottoman_eastern_carabinier;Eastern Carabinier;Carabiniers de l’est;Östliche Karabinieri;;Carabinero oriental;;;;;;;;;x;;;;;;;;;;;;;
+ottoman_eastern_carabinierDESCR;In essence a mounted foot soldier carrying a short musket or rifle also known as a carbine.  Their ability to dismount and fight on foot allowed them great flexibility in the battle.;Par essence, un fantassin monté doté d’un court mousquet ou d’une carabine. Leur aptitude à descendre de leur monture pour combattre à pied leur conférait beaucoup de souplesse au combat.;Im Wesentlichen ein berittener Fußsoldat, bewaffnet mit einer kurzen Muskete oder Gewehr, auch als Karabiner bekannt. Da sie auch absteigen und zu Fuß weiterkämpfen konnten, waren sie im Gefecht äußerst flexibel.;;En la práctica es un soldado de infantería montado que lleva un rifle o mosquete corto denominado carabina.  Su capacidad para desmontar y combatir a pie les daba una gran flexibilidad en la batalla.;;;;;;;;;x;;;;;;;;;;;;;
+ottoman_eastern_skirmisher;Eastern Skirmisher;Francs-tireurs de l’est;Östliche Scharmützler;;Hostigador oriental;;;;;;;;;x;;;;;;;;;;;;;
+ottoman_eastern_skirmisherDESCR;Small and flexible cavalry units constantly in motion and specialised in unpremeditated fighting not held back by slower moving infantry and artillery units.;Petites unités de cavalerie toujours en mouvement et spécialisées dans le combat non prémédité en présence d’unités d’infanterie et d’artillerie plus lentes.;Kleine, flexible Kavallerieeinheiten, die sich ständig in Bewegung befinden. Auf impulsartige Angriffe ohne die Unterstützung langsamerer Infanterie- und Artillerieeinheiten spezialisiert.;;Una unidad de caballería pequeña y flexible que está en continuo movimiento, especializada en ataques y que no se ve frenada por las unidades de infantería o artillería, más lentas.;;;;;;;;;x;;;;;;;;;;;;;
+ottoman_eastern_uhlan;Eastern Uhlan;Uhlans de l’est;Östliche Uhlanen;;Ulano oriental;;;;;;;;;x;;;;;;;;;;;;;
+ottoman_eastern_uhlanDESCR;A light cavalry unit most often equipped with a lance, pistol or sabre. The Uhlans tactical advantage laid in their agility and speed and they were often employed by various European armies;Unité de cavalerie plus souvent équipée de lances, de pistolets ou de sables. Les Uhlans, qui présentaient l’avantage d’être agiles et rapides, étaient fréquents au sein des armées européennes.;Eine leichte Kavallerieeinheit, die meistens mit Lanzen, Pistolen oder Säbeln bewaffnet ist. Der taktische Vorteil der Uhlanen begründet sich in ihrer Wendigkeit und Geschwindigkeit. Deshalb standen sie oft im Sold verschiedener europäischer Armeen.;;Una unidad de caballería ligera que suele ir equipada con una lanza, una pistola o un sable. La ventaja táctica de los ulanos reside en su agilidad y velocidad. Suelen utilizarlos diversos ejércitos europeos.;;;;;;;;;x;;;;;;;;;;;;;
+EVTNAME15000;The Black Sea Trade;;;;;;;;;;;;;x
+EVTDESC15000;Control over the Bosphorus and the Dardanelles straits not only allows us to exact dues on merchant ships passing through, it also puts us in the position of manipulating the supply and distribution of merchandise produced in the area. Our prized export goods won't leave their provinces' busy ports without our direct supervision. Access by foreign merchants will be regulated, so to control prices to our commercial benefit.;;;;;;;;;;;;;x
+EVTOPTA15000;The Black sea is Our sea;;;;;;;;;;;;;x
+EVTNAME15001;Loss of Hegemony in the Black Sea;;;;;;;;;;;;;x
+EVTDESC15001;Without being able to restrict foreign merchants access through the Black Sea straits we have forfeited our strict supervision on the price and distrubtion of goods produced in Black sea area. An almost free trade resume, to our chagrin and to our commercial rivals' satisfaction.;;;;;;;;;;;;;x
+EVTOPTA15001;We shall regain what was once ours;;;;;;;;;;;;;x
+EVTNAME15002;The Baltic Sea Trade;;;;;;;;;;;;;x
+EVTDESC15002;Control over the Sound not only allows us to exact dues on merchant ships passing through, it also puts us in the position of manipulating the supply and distribution of merchandise produced in the area. Our prized export goods won't leave their provinces' busy ports without our direct supervision. Access by foreign merchants will be regulated, so to control prices to our commercial benefit.;;;;;;;;;;;;;x
+EVTOPTA15002;The Baltic sea is Our sea;;;;;;;;;;;;;x
+EVTNAME15003;Loss of Hegemony in the Baltic Sea;;;;;;;;;;;;;x
+EVTDESC15003;Without being able to restrict foreign merchants access through the Kattegat we have forfeited our strict supervision on the price and distrubtion of goods produced in Baltic sea area. An almost free trade resume, to our chagrin and to our commercial rivals' satisfaction.;;;;;;;;;;;;;x
+EVTOPTA15003;We shall regain what was once ours;;;;;;;;;;;;;x
+EVTNAME15004;Sound Dues;;;;;;;;;;;;;x
+EVTDESC15004;The supremacy asserted over the Sound and the two Belts rests firm within the hands of he who owns and controls the Danish isles. Every vessel, with or without cargo, passing into or from the Baltic, is required to pay tolls proportioned to her tonnage.\n\nOur merchants are among the busiest in the region. They are thus particulary susceptible to the mercantile whim of the Sound controller — and they shall continue to remain so until we either reach trade agreements with the latter or support our merchants interests with military action.;;;;;;;;;;;;;x
+EVTOPTA15004;These extortions must be stopped;;;;;;;;;;;;;x
+EVTOPTB15004;We shall pay now, as we have for decades;;;;;;;;;;;;;x
+EVTNAME15005;Sound Dues from $FROMCOUNTRY$;;;;;;;;;;;;;x
+EVTDESC15005;We have ascertained control over the Oresund, the Great and the Little Belt — the three straits connecting the Baltic sea to the North Sea. We are threfore in a suitable position to exact dues on foreign vessels passing through, from and into the Baltic sea. The threat of cargo confiscation, or even the sound of cannons fired from Helsingborg, is generally sufficient to exercise our mercantile rights. We retain the opportunity to exempt from dues those with who we've established trade agreements. That isn't the case for $FROMCOUNTRY$ though — who gracefully obliged to their passage fee.;;;;;;;;;;;;;x
+EVTOPTA15005;Thank you for stopping by, until soon!;;;;;;;;;;;;;x
+EVTNAME15100;Thriving Colonies;;;;;;;;;;;;;x
+EVTNAME15104;Thriving Gold Colonies;;;;;;;;;;;;;x
+EVTDESC15100;Logistical issues and developmental concerns compel us to relieve the fiscal burden on overseas dominions. Exports therefore remain overseas provinces foremost contribution to the state's economic welfare. As citizens in our colonies multiply and as infrastructure improves, locals become able to assure the sufficient provision of subsistence goods. That allows our settlers to dedicate a larger portion of the colonial workforce to increase the production of cash crops, or products, to be exported to the motherland.;;;;;;;;;;;;;x
+EVTOPTA15100;Felicitate our industrious settlers.;;;;;;;;;;;;;x
+EVTNAME15101;Settlements Dwindle Away;;;;;;;;;;;;;x
+EVTDESC15101;Recent demographic changes in $PROVINCENAME$ (or its vicinity to the mainland) have requalified the province's economic relevance.;;;;;;;;;;;;;x
+EVTOPTA15101;Fine.;;;;;;;;;;;;;x
+EVTNAME15204;Unclaimed Victory;;;;;;;;;;;;;x
+EVTDESC15204;A large number of people, both among the populace and in the government's upper ranks, are voicing their concerns over what appears to be a military stalemate. It is evident we have won the war — yet we fail to enforce a peace settlement, so hostilities persist and misery spreads. The $COUNTRY_ADJ$ people and soldiers beg us to resolve this conflict so that they may return to their loved ones — the enemy is beaten, let them have peace.;;;;;;;;;;;;;x
+EVTOPTA15204;We have won the war, we shall win the peace!;;;;;;;;;;;;;x
+baltic_sea_trade;Baltic Sea Trade Exclusive Access;;;;;;;;;;;;;x
+black_sea_trade;Black Sea Trade Exclusive Access;;;;;;;;;;;;;x
+NO_NOMAD_COLONY_AS_VASSAL;You can not colonise nomad territory when you are a vassal.;;;;;;;;;;;;;x
+SHOGUN_DIPLOMACY;Since you're the shogun you will take this action as a representative of §Y$EMPEROR$§! and the action will only influence the relation of §Y$EMPEROR$§!.;;;;;;;;;;;;;x
+HAVE_LESS_THAN_CAVALRY_IN;Have less than $UNITS$ cavalry in $Province$;;;;;;;;;;;;;x
+HAVE_MORE_THAN_CAVALRY_IN;Have at least $UNITS$ cavalry in $Province$;;;;;;;;;;;;;x
+HAVE_LESS_THAN_ARTILLERY_IN;Have less than $UNITS$ artillery in $Province$;;;;;;;;;;;;;x
+HAVE_MORE_THAN_ARTILLERY_IN;Have at least $UNITS$ artillery in $Province$;;;;;;;;;;;;;x
+HAVE_LESS_THAN_BIG_SHIPS_IN;Have less than $UNITS$ big ship in $Province$;;;;;;;;;;;;;x
+HAVE_MORE_THAN_BIG_SHIPS_IN;Have at least $UNITS$ big ship in $Province$;;;;;;;;;;;;;x
+HAVE_LESS_THAN_LIGHT_SHIPS_IN;Have less than $UNITS$ light ship in $Province$;;;;;;;;;;;;;x
+HAVE_MORE_THAN_LIGHT_SHIPS_IN;Have at least $UNITS$ light ship in $Province$;;;;;;;;;;;;;x
+HAVE_LESS_THAN_TRANSPORTS_IN;Have less than $UNITS$ transport in $Province$;;;;;;;;;;;;;x
+HAVE_MORE_THAN_TRANSPORTS_IN;Have at least $UNITS$ transport in $Province$;;;;;;;;;;;;;x

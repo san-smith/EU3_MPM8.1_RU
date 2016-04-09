@@ -1,0 +1,36 @@
+HAVE_MORE_MONOPOLS_THAN;Число монополий в ТЦ больше или равно ;X
+HAVE_LESS_MONOPOLS_THAN;Число монополий в ТЦ меньше ;X
+Blockade;В блокаде;X
+Priority;Приоритет;X
+PP_Colonization_fail;Колонизация провалилась!;X
+PP_SEND;Отправить;X
+Hint;Совет;X
+Next;Дальше;X
+Close;Закрыть;X
+EXIT;Выход;X
+Nation Statistics;Сравнение держав;X
+AUTOSAVING;Идет сохранение;X
+MAP_SAVED;Карта сохранена;X
+SCREENSHOT_TAKEN;Скриншот сделан;X
+Jan;Янв;X
+Feb;Фев;X
+Mar;Мар;X
+Apr;Апр;X
+Jun;Июн;X
+Jul;Июл;X
+Aug;Авг;X
+Sep;Сен;X
+Oct;Окт;X
+Nov;Ноя;X
+Dec;Дек;X
+SUCCEEDED;Успешная колонизация!;X
+YEARLY_CULTURAL_TRADITION_DECAY;Ежегодный спад культурных традиций;X
+NO;Нет;X
+TOTAL;Всего;X
+terrain;Рельеф =;X
+crossing;Водное препятствие =;X
+T;Традиции;X
+P;Престиж;X
+BANK;Нац. банк;X
+integrating_new_core;Интеграция новой провинции;X
+desc_integrating_new_core;Мы интегрируем новую провинцию.;X

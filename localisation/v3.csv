@@ -1,0 +1,78 @@
+TIME_AHEAD;Данная технология стоит нам слишком дорого, поскольку она опережает свое время на следующее число лет: $NUMBER$.;Cette technologie est de $NUMBER$ ans en avance sur son temps, elle est donc plus difficile а atteindre.;Diese Technologie ist ihrer Zeit $NUMBER$ Jahr(e) voraus und daher schwerer zu erforschen.;;Esta tecnologнa estб $NUMBER$ aсos adelantada a su йpoca, por lo que es mбs difнcil de conseguir.;;;;;;;;;x
+CHAT_NONE;Нет;Aucun;Keine;;Ninguno;;;;;;;;;x
+ABANDON_GAME;Отказаться от игры;Abandonner la partie;Spiel beenden;;Salir juego;;;;;;;;;x
+LOCAL_TRADE_INCOME_MODIFIER;Доход от торговли в провинции;Modificateur de revenus du commerce local;Lokaler Handelseinkommenmodifikator;;Modificador de ingresos por comercio local;;;;;;;;;x
+GLOBAL_TRADE_INCOME_MODIFIER;Доход от торговли;Modificateur de revenus du commerce national;Nationaler Handelseinkommenmodifikator;;Modificador de ingresos por comercio nacional;;;;;;;;;x
+UV_MANPOWER;Человек:;Hommes :;Mдnner:;;Hombres:;;;;;;;;;x
+UV_REGIMENTS;Полков:;Rйgiments :;Regimenter:;;Regimientos:;;;;;;;;;x
+CONVERT_RULER_NOT_POSSIBLE_4_IRO;Мы являемся младшим партнером в личной унии.;Vous кtes le membre secondaire d'une union.;Ihr seld Juniorpartner einer Personalunion;;Sois la parte dйbil de una uniуn.;;;;;;;;;x
+CONVERT_RULER_NOT_POSSIBLE_4_DRO;Только старший партнер в личной унии может сделать правителя генералом.;Seul le membre principal de l'union a le plein contrфle du monarque et pourra faire de lui un souverain.;Nur der Seniorpartner einer Personalunion hat volle Kontrolle ьber den Monarchen und kann ihn zu einem Anfьhrer machen.;;Solo la parte fuerte de una uniуn tiene control absoluto sobre el monarca y podrб convertirlo en un gobernante.;;;;;;;;;x
+NOT_BROKEN;Их армии еще не разбиты.;Leurs armйes ne sont encore pas entiиrement battues.;Ihre Armeen sind noch nicht besiegt.;;Sus ejйrcitos aъn no han sido derrotados.;;;;;;;;;x
+conquer_sicily_title;Завоевать Сицилию;Conquйrir la Sicile;Erobert Sizilien;;Conquista Sicilia;;;;;;;;;x
+conquer_sicily_desc;С тех пор как Педро III вытеснил герцогов Анжуйских из Сицилии, это королевство рассматривалось нами как неотъемлемая часть Арагона. Пришла пора вновь заявить о правах на эту территорию.;Depuis que Pierre III a chassй le duc d’Anjou de Sicile, le royaume fait, а nos yeux, partie de l’Aragon. Il est temps de rйaffirmer ce droit.;Seit Peter III den Herzog von Anjou aus Sizilien vertrieben hat, war das Kцnigreich in unseren Augen ein rechtmдЯiger Teil von Aragon. Es ist an der Zeit, dieses Recht nun durchzusetzen.;;Desde que Pedro III echу al Duque de Anjou de Sicilia, el reino ha sido a nuestros ojos una parte legнtima de Aragуn. Es hora de volver a hacer valer esos derechos.;;;;;;;;;x
+EVTDESC6337;"Один из наших местных губернаторов решил, что в результате нашей политики децентрализации он теперь может править самостоятельно, без указаний из центра. Тот факт, что его ""армия"" слишком мала для таких дерзких утверждений, его не слишком беспокоит.";L’un de nos gouverneurs provinciaux a rйalisй que, compte tenu des politiques de dйcentralisation actuelles, il pouvait faire cavalier seul. Le fait que l’armйe qu’il a rйussi а lever s’avиre trop petite pour une telle prйtention ne semble en rien le troubler.;Einer unserer Provinzgouverneure hat sich ausgerechnet, dass er unter den derzeit herrschenden dezentralisierten Zustдnden selber herrschen kцnnte. Die Armee, die er ausheben konnte ist viel zu klein, um solche Ansprьche durchzusetzen, aber ihn scheint das nicht zu stцren.;;Uno de nuestros gobernadores provinciales ha pensado que, dada nuestra actual polнtica de descentralizaciуn, podrнa hacer negocios por su cuenta. El hecho de que el ejйrcito que ha logrado reunir sea demasiado pequeсo para respaldar tal pretensiуn no parece preocuparle demasiado.;;;;;;;;;x
+EVTOPTA6337;Одна-две армии повстанцев - нам не помеха;Une armйe rebelle ou deux constituent une menace;Eine oder zwei Rebellenarmeen sind kein Problem;;Un ejйrcito rebelde o dos no es mбs que una molestia.;;;;;;;;;x
+PW_OUR_SPY_EFF;Наша эффективность:;Notre eff :;Unsere Eff.:;;Nuestra Ef:;;;;;;;;;x
+PW_OUR_SPY_DEF;Наша защита:;Notre dйf :;Unsere Vert.:;;Nuestra Def:;;;;;;;;;x
+PW_THEIR_SPY_EFF;Их эффективность:;Leur eff :;Ihre Eff.:;;Su Ef:;;;;;;;;;x
+PW_THEIR_SPY_DEF;Их защита:;Leur dйf :;Ihre Vert.:;;Su Def:;;;;;;;;;x
+COTLEDGER_COT_STAGNATION_S;Загнивание;Stagnation;Stagnation;;Estancamiento;;;;;;;;;x
+COTLEDGER_COT_STAGNATION_L;Торговые центры постепенно загнивают, если торговый оборот в них слишком маленький, или же слишком мало стран посылают туда своих купцов. Со временем загнивающие центры просто закрываются.;Les centres de commerce stagnent si la valeur totale du commerce est trop faible ou si trop peu de pays y dйpкchent des marchands. Les centres de commerce stagnants finissent par кtre dйtruits.;Handelszentren stagnieren, wenn ihr Gesamthandelswert zu niedrig ist oder zu wenige Nationen Hдndler geschickt haben. Irgendwann werden stagnierende Handelszentren verschwinden.;;Los centros de comercio se estancan si el valor total del comercio es demasiado bajo, o si muy pocos paнses mandan mercaderes allн. Con el tiempo, los centros de comercio estancados son destruidos.;;;;;;;;;x
+IS_NOT_OVERLORD_OF;НЕ является сюзереном державы ;N’est PAS le suzerain de;Ist NICHT Herr ьber;;NO es el soberano de;;;;;;;;;x
+IS_OVERLORD_OF;Является сюзереном державы ;Est le suzerain de;Ist Herr ьber;;Es el soberano de;;;;;;;;;x
+TRIGGER_COUNTRY;Держава;Pays;Nation;;Paнs;;;;;;;;;x
+PROV1775;Гольштейн;Holstein;Holstein;;Holstein;;;;;;;;;x
+PROV1776;Карелия;Carйlie;Karelien;;Karelia;;;;;;;;;x
+PROV1777;Кола;Kola;Kola;;Kola;;;;;;;;;x
+PROV1778;Касимов;Kasimov;Kasimov;;Kasimov;;;;;;;;;x
+PROV1779;Руб-аль-Хали;Rub' al Khali;Rub' al Khali;;Rub' al Khali;;;;;;;;;x
+PROV1780;Коми;Komi;Komi;;Komi;;;;;;;;;x
+PROV1781;Западная Сибирь;Sibйrie occidentale;Westsibirien;;Siberia Occidental;;;;;;;;;x
+PROV1782;Центральная Сибирь;Sibйrie centrale;Zentralsibirien;;Siberia Central;;;;;;;;;x
+PROV1783;Восточная Сибирь;Sibйrie orientale;Ostsibirien;;Siberia Oriental;;;;;;;;;x
+PROV1784;Тянь-Шань;Tian Shan;Tiam Shan;;Tiam Shan;;;;;;;;;x
+PROV1785;Каракорум;Karakoram;Karakorum;;Karakoram;;;;;;;;;x
+PROV1786;Такла-Макан;Taklamakan;Takla Makan;;Takla Makan;;;;;;;;;x
+PROV1787;Гималаи;Himalaya;Himalaya;;Himalaya;;;;;;;;;x
+PROV1788;Аруначал;Arunachal;Arunachal;;Arunachal;;;;;;;;;x
+PROV1789;Маоке;Maoke;Maoke;;Maoke;;;;;;;;;x
+PROV1790;Западная Австралия;Australie occidentale;Westaustralien;;Australia Occidental;;;;;;;;;x
+PROV1791;Центральная Австралия;Australie centrale;Zentralaustralien;;Australia Central;;;;;;;;;x
+PROV1792;Антананариву;Antananarivo;Antananarivo;;Antananarivo;;;;;;;;;x
+PROV1793;Эль-Джуф;El Djouf;El Djouf;;El Djouf;;;;;;;;;x
+PROV1794;Центральная Сахара;Sahara central;Zentralsahara;;Sбhara Central;;;;;;;;;x
+PROV1795;Восточная Сахара;Sahara oriental;Ostsahara;;Sбhara Este;;;;;;;;;x
+PROV1796;Центральная Африка;Afrique centrale;Zentralafrika;;Бfrica Central;;;;;;;;;x
+PROV1797;Внутреннее Конго;Congo intйrieur;Innerer Kongo;;Congo interior;;;;;;;;;x
+PROV1798;Уганда;Ouganda;Uganda;;Uganda;;;;;;;;;x
+PROV1799;Малави;Malawi;Malawi;;Malawi;;;;;;;;;x
+PROV1800;Замбия;Zambie;Sambia;;Zambia;;;;;;;;;x
+PROV1801;Калахари;Kalahari;Kalahari;;Kalahari;;;;;;;;;x
+PROV1802;Северная Амазонка;Nord de l’Amazonas;Nordamazonas;;Amazonas septentrional;;;;;;;;;x
+PROV1803;Южная Амазонка;Sud de l’Amazonas;Sьdamazonas;;Amazonas meridional;;;;;;;;;x
+PROV1804;Гренландия;Groenland;Grцnland;;Groenlandia;;;;;;;;;x
+PROV1805;Квебек;Quйbec;Quйbec;;Quebec;;;;;;;;;x
+PROV1806;Озеро Круглое;Weagamow;Weagamow;;Weagamow;;;;;;;;;x
+PROV1807;Земля Баффина;Baffin;Baffin;;Baffin;;;;;;;;;x
+PROV1808;Большой Бассейн;Grand Bassin;GroЯes Becken;;Gran Cuenca;;;;;;;;;x
+PROV1809;Великие Равнины;Grandes Plaines;GroЯe Ebene;;Grandes Llanuras;;;;;;;;;x
+PROV1810;Аляска;Alaska;Alaska;;Alaska;;;;;;;;;x
+PROV1811;Нунавут;Nunavut;Nunavut;;Nunavut;;;;;;;;;x
+PROV1812;Северо-западные территории;Territoires du Nord-Ouest;Nordwestterritorien;;Territorios del Noroeste;;;;;;;;;x
+PROV1813;Саскачеван;Saskatchewan;Saskatchewan;;Saskatchewan;;;;;;;;;x
+PROV1814;Коламбия;Columbie;Columbia;;Columbia;;;;;;;;;x
+karelian;Карельская;Carйlien;Karelisch;;Karelian;;;;;;;;;x
+BAR;Бар;Bar;Bar;;Bar;;;;;;;;;x
+BAR_ADJ;Барск.;Barroise;Barrisch;;Barroise;;;;;;;;;x
+HSA;Ганза;La Hanse;Die Hanse;;La Hansa;;;;;;;;;x
+HSA_ADJ;Ганзейск.;Hansйatique;Hanseatisch;;Hanseбtico;;;;;;;;;x
+SMO;Смоленск;Smolensk;Smolensk;;Smolensk;;;;;;;;;x
+SMO_ADJ;Смоленск.;Smolenskien;Smolenskisch;;Smolenskian;;;;;;;;;x
+MUR;Муром;Mourom;Murom;;Murom;;;;;;;;;x
+MUR_ADJ;Муромск.;Muromien;Muromisch;;Muromian;;;;;;;;;x
+NZH;Нижний Новгород;Nijni Novgorod;Nizhny Novgorod;;Nizhny Novgorod;;;;;;;;;x
+NZH_ADJ;Нижегородск.;Nijni-Novgorodien;Nizhny Novgorodianisch;;Nizhny Novgorodian;;;;;;;;;x
+VLA;Владимир;Vladimir;Vladimir;;Vladimir;;;;;;;;;x
+VLA_ADJ;Владимирск.;Vladimirien;Vladimiranisch;;Vladimiran;;;;;;;;;x
+WASTELAND;Пустоши;Dйsert;Цdland;;Erial;;;;;;;;;x
+WASTELAND_DESC;Эти земли нельзя ни колонизировать, ни даже пересечь.;Ne peut кtre franchi ou colonisй;Kann nicht durchquert oder kolonisiert werden;;No puede ser atravesado o colonizado;;;;;;;;;x
