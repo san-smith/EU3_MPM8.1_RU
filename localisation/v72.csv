@@ -128,7 +128,7 @@ PROV1915;Êîðñóíü;;;;;;;;;;;;;x
 PROV1916;Áåëãðàä;;;;;;;;;;;;;x
 PROV1917;Øàëêàð;;;;;;;;;;;;;x
 PROV1918;Temes;;;;;;;;;;;;;x
-PROV1919;Konigsboden;;;;;;;;;;;;;x
+PROV1919;Ê¸íèãñáîäåí;;;;;;;;;;;;;x
 PROV1920;Äåáðåöåí;;;;;;;;;;;;;x
 PROV1921;Ëüâîâ;;;;;;;;;;;;;x
 PROV1922;Êîøèöå;;;;;;;;;;;;;x
@@ -149,78 +149,78 @@ PROV1936;Îëîìîóö;;;;;;;;;;;;;x
 PROV1937;Ñîóëå;;;;;;;;;;;;;x
 PROV1938;Ñåìèãàëèÿ;;;;;;;;;;;;;x
 PROV1939;Ïåðíàó;;;;;;;;;;;;;x
-PROV1940;Caux;;;;;;;;;;;;;x
+PROV1940;Êî;;;;;;;;;;;;;x
 PROV1941;Øåðáóð;;;;;;;;;;;;;x
 PROV1942;Aunis;;;;;;;;;;;;;x
-PROV1943;Cahors;;;;;;;;;;;;;x
-PROV1944;Albi;;;;;;;;;;;;;x
-PROV1945;Beziers;;;;;;;;;;;;;x
-PROV1946;Toulon;;;;;;;;;;;;;x
-PROV1947;Marseille;;;;;;;;;;;;;x
-PROV1948;Bigorra;;;;;;;;;;;;;x
-PROV1949;Tours;;;;;;;;;;;;;x
-PROV1950;Valladolid;;;;;;;;;;;;;x
-PROV1951;Cuenca;;;;;;;;;;;;;x
-PROV1952;Jaen;;;;;;;;;;;;;x
-PROV1953;Talavera;;;;;;;;;;;;;x
-PROV1954;Vigo;;;;;;;;;;;;;x
-PROV1955;Lugo;;;;;;;;;;;;;x
-PROV1956;Leon;;;;;;;;;;;;;x
-PROV1957;Zamora;;;;;;;;;;;;;x
-PROV1958;La Rioja;;;;;;;;;;;;;x
-PROV1959;Teruel;;;;;;;;;;;;;x
-PROV1960;Sobrarbe;;;;;;;;;;;;;x
-PROV1961;Lleida;;;;;;;;;;;;;x
-PROV1962;Valencia;;;;;;;;;;;;;x
-PROV1963;Huelva;;;;;;;;;;;;;x
-PROV1964;Beja;;;;;;;;;;;;;x
-PROV1965;Evora;;;;;;;;;;;;;x
-PROV1966;Lamego;;;;;;;;;;;;;x
-PROV1967;Sassari;;;;;;;;;;;;;x
-PROV1968;Siracusa;;;;;;;;;;;;;x
-PROV1969;Salerno;;;;;;;;;;;;;x
-PROV1970;Crotone;;;;;;;;;;;;;x
-PROV1971;Bari;;;;;;;;;;;;;x
-PROV1972;Foggia;;;;;;;;;;;;;x
-PROV1973;Ardabil;;;;;;;;;;;;;x
-PROV1974;Samarra;;;;;;;;;;;;;x
-PROV1975;Al Basrah;;;;;;;;;;;;;x
-PROV1976;Istria;;;;;;;;;;;;;x
-PROV1977;Rijeka;;;;;;;;;;;;;x
-PROV1978;Ramadi;;;;;;;;;;;;;x
-PROV1979;Aqtobe;;;;;;;;;;;;;x
-PROV1980;Birjand;;;;;;;;;;;;;x
-PROV1981;Bosna;;;;;;;;;;;;;x
-PROV1982;Ohrid;;;;;;;;;;;;;x
-PROV1983;Nish;;;;;;;;;;;;;x
-PROV1984;Karagandi;;;;;;;;;;;;;x
-PROV1985;Vidin;;;;;;;;;;;;;x
-PROV1986;Plovdiv;;;;;;;;;;;;;x
-PROV1987;Skopje;;;;;;;;;;;;;x
-PROV1988;Valona;;;;;;;;;;;;;x
-PROV1989;Arta;;;;;;;;;;;;;x
-PROV1990;Urmia;;;;;;;;;;;;;x
-PROV1991;al-Qayrawan;;;;;;;;;;;;;x
-PROV1992;Serres;;;;;;;;;;;;;x
-PROV1993;Albacete;;;;;;;;;;;;;x
-PROV1994;Laval;;;;;;;;;;;;;x
-PROV1995;Blaye;;;;;;;;;;;;;x
-PROV1996;Alanya;;;;;;;;;;;;;x
-PROV1997;Burdur;;;;;;;;;;;;;x
-PROV1998;Mugla;;;;;;;;;;;;;x
-PROV1999;Aydin;;;;;;;;;;;;;x
-PROV2000;Kutahya;;;;;;;;;;;;;x
-PROV2001;Canakkale;;;;;;;;;;;;;x
-PROV2002;Kandari;;;;;;;;;;;;;x
-PROV2003;Eregli;;;;;;;;;;;;;x
-PROV2004;Samsun;;;;;;;;;;;;;x
-PROV2005;Rhizaeum;;;;;;;;;;;;;x
-PROV2006;Karuts;;;;;;;;;;;;;x
-PROV2007;Erzincan;;;;;;;;;;;;;x
-PROV2008;Kozan;;;;;;;;;;;;;x
-PROV2009;Dulkadir;;;;;;;;;;;;;x
-PROV2010;Mardin;;;;;;;;;;;;;x
-PROV2011;Iskenderun;;;;;;;;;;;;;x
+PROV1943;Êàîð;;;;;;;;;;;;;x
+PROV1944;Àëüáè;;;;;;;;;;;;;x
+PROV1945;Áåçüå;;;;;;;;;;;;;x
+PROV1946;Òóëîí;;;;;;;;;;;;;x
+PROV1947;Ìàðñåëü;;;;;;;;;;;;;x
+PROV1948;Áèãîðð;;;;;;;;;;;;;x
+PROV1949;Òóð;;;;;;;;;;;;;x
+PROV1950;Âàëüÿäîëèä;;;;;;;;;;;;;x
+PROV1951;Êóýíêà;;;;;;;;;;;;;x
+PROV1952;Õàýí;;;;;;;;;;;;;x
+PROV1953;Òàëàâåðà;;;;;;;;;;;;;x
+PROV1954;Âèãî;;;;;;;;;;;;;x
+PROV1955;Ëóãî;;;;;;;;;;;;;x
+PROV1956;Ëåîí;;;;;;;;;;;;;x
+PROV1957;Ñàìîðà;;;;;;;;;;;;;x
+PROV1958;Ðèîõà;;;;;;;;;;;;;x
+PROV1959;Òåðóýëü;;;;;;;;;;;;;x
+PROV1960;Ñîáðàðáå;;;;;;;;;;;;;x
+PROV1961;Ëüåéäà;;;;;;;;;;;;;x
+PROV1962;Âàëåíñèÿ;;;;;;;;;;;;;x
+PROV1963;Óýëüâà;;;;;;;;;;;;;x
+PROV1964;Áåæà;;;;;;;;;;;;;x
+PROV1965;Ýâîðà;;;;;;;;;;;;;x
+PROV1966;Ëàìåãó;;;;;;;;;;;;;x
+PROV1967;Ñàññàðè;;;;;;;;;;;;;x
+PROV1968;Ñèðàêóçà;;;;;;;;;;;;;x
+PROV1969;Ñàëåðíî;;;;;;;;;;;;;x
+PROV1970;Êðîòîíå;;;;;;;;;;;;;x
+PROV1971;Áàðè;;;;;;;;;;;;;x
+PROV1972;Ôîäæà;;;;;;;;;;;;;x
+PROV1973;Àðäåáèëü;;;;;;;;;;;;;x
+PROV1974;Ñàìàððà;;;;;;;;;;;;;x
+PROV1975;Áàñðà;;;;;;;;;;;;;x
+PROV1976;Èñòðèÿ;;;;;;;;;;;;;x
+PROV1977;Ðèåêà;;;;;;;;;;;;;x
+PROV1978;Ýð-Ðàìàäè;;;;;;;;;;;;;x
+PROV1979;Àêòîáå;;;;;;;;;;;;;x
+PROV1980;Áèðäæåíä;;;;;;;;;;;;;x
+PROV1981;Áîñíèÿ;;;;;;;;;;;;;x
+PROV1982;Îõðèä;;;;;;;;;;;;;x
+PROV1983;Íèø;;;;;;;;;;;;;x
+PROV1984;Êàðàãàíäà;;;;;;;;;;;;;x
+PROV1985;Âèäèí;;;;;;;;;;;;;x
+PROV1986;Ïëîâäèâ;;;;;;;;;;;;;x
+PROV1987;Ñêîïüå;;;;;;;;;;;;;x
+PROV1988;Âë¸ðà;;;;;;;;;;;;;x
+PROV1989;Àðòà;;;;;;;;;;;;;x
+PROV1990;Óðìèÿ;;;;;;;;;;;;;x
+PROV1991;Êàéðóàí;;;;;;;;;;;;;x
+PROV1992;Ñåððå;;;;;;;;;;;;;x
+PROV1993;Àëüáàñåòå;;;;;;;;;;;;;x
+PROV1994;Ëàâàëü;;;;;;;;;;;;;x
+PROV1995;Áëàé;;;;;;;;;;;;;x
+PROV1996;Àëàíüÿ;;;;;;;;;;;;;x
+PROV1997;Áóðäóð;;;;;;;;;;;;;x
+PROV1998;Ìóãëà;;;;;;;;;;;;;x
+PROV1999;Àéäûí;;;;;;;;;;;;;x
+PROV2000;Êþòàõüÿ;;;;;;;;;;;;;x
+PROV2001;×àíàêêàëå;;;;;;;;;;;;;x
+PROV2002;Êàíäàðè;;;;;;;;;;;;;x
+PROV2003;Ýðåãëè;;;;;;;;;;;;;x
+PROV2004;Ñàìñóí;;;;;;;;;;;;;x
+PROV2005;Ðèçå;;;;;;;;;;;;;x
+PROV2006;Êàðñ;;;;;;;;;;;;;x
+PROV2007;Ýðçèíäæàí;;;;;;;;;;;;;x
+PROV2008;Êîçàí;;;;;;;;;;;;;x
+PROV2009;Äóëêàäèð;;;;;;;;;;;;;x
+PROV2010;Ìàðäèí;;;;;;;;;;;;;x
+PROV2011;Èñêåíäåðóí;;;;;;;;;;;;;x
 PROV2012;Áðàöëàâ;;;;;;;;;;;;;x
 PROV2013;Ïîëòàâà;;;;;;;;;;;;;x
 PROV2014;Êîïà;;;;;;;;;;;;;x
@@ -374,17 +374,17 @@ bosphorous_sound_toll;Bosphorous Sound Toll;;;;;;;;;;;;;x
 desc_bosphorous_sound_toll;Bosphorous Sound Toll;;;;;;;;;;;;;x
 bosphorous_sound_toll_title;Bosphorous Sound Toll;;;;;;;;;;;;;x
 bosphorous_sound_toll_desc;Enact local laws that would allow us to put taxes on Bosphorous Sound Toll.;;;;;;;;;;;;;x
-PROV2063;Euboea;;;;;;;;;;;;;x
-PROV2064;Lesbos;;;;;;;;;;;;;x
-PROV2065;Kefalonia;;;;;;;;;;;;;x
-PROV2066;Lemnos;;;;;;;;;;;;;x
+PROV2063;Ýâáå;;;;;;;;;;;;;x
+PROV2064;Ëåñáîñ;;;;;;;;;;;;;x
+PROV2065;Êåôàëèíèÿ;;;;;;;;;;;;;x
+PROV2066;Ëåìíîñ;;;;;;;;;;;;;x
 PROV2067;Ïàëüìèðà;;;;;;;;;;;;;x
-PROV2068;Kirkuk;;;;;;;;;;;;;x
-PROV2069;Qom;;;;;;;;;;;;;x
-PROV2070;Bandar-Abbas;;;;;;;;;;;;;x
-PROV2071;Lucca;;;;;;;;;;;;;x
-PROV2072;Ravenna;;;;;;;;;;;;;x
-PROV2073;Pavia;;;;;;;;;;;;;x
+PROV2068;Êèðêóê;;;;;;;;;;;;;x
+PROV2069;Êóì;;;;;;;;;;;;;x
+PROV2070;Áåíäåð-Àááàñ;;;;;;;;;;;;;x
+PROV2071;Ëóêêà;;;;;;;;;;;;;x
+PROV2072;Ðàâåííà;;;;;;;;;;;;;x
+PROV2073;Ïàâèÿ;;;;;;;;;;;;;x
 SPO;Spoleto;;;;;;;;;;;;;x
 SPO_ADJ;Spolean;;;;;;;;;;;;;x
 SPO_ADJ2;Spolean;;;;;;;;;;;;;x
@@ -907,7 +907,7 @@ EVTDESC99070;In faith we can find salvation.;;;;;;;;;;;;;x
 EVTOPTA99070;I want to believe.;;;;;;;;;;;;;x
 EVTOPTB99070;Off with your silly superstition!;;;;;;;;;;;;;x
 EVTNAME99071;Textile Production Breakthrough!;;;;;;;;;;;;;x
-EVTDESC99071;One of our textile manufactories produced textile of such great quality, it's starting to attract mechants from all over the region. Perhaps we can learn something from this lucky "mistake".;;;;;;;;;;;;;x
+EVTDESC99071;"One of our textile manufactories produced textile of such great quality, it's starting to attract mechants from all over the region. Perhaps we can learn something from this lucky ""mistake"".";;;;;;;;;;;;;x
 EVTOPTA99071;Good.;;;;;;;;;;;;;x
 textile_production;Textile Production;;;;;;;;;;;;;x
 desc_textile_production;A breakthrough in textile proucing technology. Could lead to increased overall production.;;;;;;;;;;;;;x
@@ -1332,7 +1332,7 @@ enact_the_merchants_act_desc;Enact a special set of laws intended to provide a l
 the_merchants_act;The Merchants Act;;;;;;;;;;;;;x
 desc_the_merchants_act;The basic legal framework designed as transition between feudal age and serfdom to a more modernized society and emerging middle class.;;;;;;;;;;;;;x
 enact_the_trade_act_title;Enact The Trade Act;;;;;;;;;;;;;x
-enact_the_trade_act_desc;Inter-state trade is something relatively new. Even though there is large wealth to be had in trade, only a very few very capable groups of people have been able to reap its full benifits. With this act, we aim to "push" our merchants onto foreign markets by reducing the domestic taxes, thus making them more competitive. Despite the immediate drop of tax income, we expect large benefits over the future decades.;;;;;;;;;;;;;x
+enact_the_trade_act_desc;"Inter-state trade is something relatively new. Even though there is large wealth to be had in trade, only a very few very capable groups of people have been able to reap its full benifits. With this act, we aim to ""push"" our merchants onto foreign markets by reducing the domestic taxes, thus making them more competitive. Despite the immediate drop of tax income, we expect large benefits over the future decades.";;;;;;;;;;;;;x
 the_trade_act;The Merchants Act;;;;;;;;;;;;;x
 desc_the_trade_act;Basic set of laws allowing state to lower its taxation on domestic merchants, leaving them with more money thus making them more competitive.;;;;;;;;;;;;;x
 SEV;Sevilla;;;;;;;;;;;;;x
@@ -1778,18 +1778,18 @@ PROV2137;Èðáèò;;;;;;;;;;;;;x
 KHZ;Khazaria;;;;;;;;;;;;;x
 KHZ_ADJ;Khazarian;;;;;;;;;;;;;x
 KHZ_ADJ2;Khazarian;;;;;;;;;;;;;x
-centralization_decentralization;Öåíòðàëèçàöèÿ vs. Äåöåíòðàëèçàöèÿ;Centralisation v Décentralisation;Zentralisierung vs. Dezentralisierung;Centralizacja kontra decentralizacja;Centralización - Descentralización;Centralizzazione v Decentramento;Centralizáció vagy decentralizáció;Centralizace vs. decentralizace;;;;;;x;
-centralization_decentralization_left;Öåíòðàëèçàöèÿ;Centralisation;Zentralisierung;Centralizacja;Centralización;Centralizzazione ;Centralizáció;Centralizace;;;;;;x;
-centralization_decentralization_right;Äåöåíòðàëèçàöèÿ;Décentralisation;Dezentralisierung;Decentralizacja;Descentralización;Decentramento;Decentralizáció;Decentralizace;;;;;;x;
-aristocracy_plutocracy;Âëàñòü çíàòíûõ vs. Âëàñòü áîãàòûõ;Aristocratie v Ploutocratie;Aristokratie vs. Plutokratie;Arystokracja kontra plutokracja;Aristocracia - Plutocracia;Aristocrazia v Plutocrazia;Arisztokrácia vagy plutokrácia;Aristokracie vs. plutokracie;;;;;;x;
-aristocracy_plutocracy_left;Âëàñòü çíàòíûõ;Aristocratie;Aristokratie;Arystokracja ;Aristocracia;Aristocrazia;Arisztokrácia;Aristokracie;;;;;;x;
-aristocracy_plutocracy_right;Âëàñòü áîãàòûõ;Ploutocratie;Plutokratie;Plutokracja;Plutocracia;Plutocrazia;Plutokrácia;Plutokracie;;;;;;x;
-serfdom_freesubjects;Êðåïîñòíè÷åñòâî vs. Ëè÷íàÿ ñâîáîäà;Servitude v Liberté;Leibeigenschaft vs. Freie Untertanen;Poddañstwo kontra wolni poddani;Servidumbre - Súbditos libres;Servitù v Liberi sudditi;Jobbágyság vagy szabad alattvalók;Nevolnictví vs. svobodníci;;;;;;x;
-serfdom_freesubjects_left;Êðåïîñòíè÷åñòâî;Servitude;Leibeigenschaft;Poddañstwo;Servidumbre;Servitù;Jobbágyság;Nevolnictví;;;;;;x;
-serfdom_freesubjects_right;Ëè÷íàÿ ñâîáîäà;Liberté;Freie Untertanen;Wolni poddani;Súbditos libres;Liberi sudditi;Szabad alattvalók;Svobodníci;;;;;;x;
-mercantilism_freetrade;Ìåðêàíòèëèçì vs. Ñâîáîä. òîðãîâëÿ;Mercantilisme v Libre commerce;Merkantilismus vs. Freihandel;Merkantylizm kontra wolny handel;Mercantilismo - Libre comercio;Mercantilismo v Libero scambio;Merkantilizmus vagy szabadkereskedelem;Merkantilismus vs. volný obchod;;;;;;x;
-mercantilism_freetrade_left;Ìåðêàíòèëèçì;Mercantilisme;Merkantilismus;Merkantylizm;Mercantilismo;Mercantilismo;Merkantilizmus;Merkantilismus;;;;;;x;
-mercantilism_freetrade_right;Ñâîáîä. òîðãîâëÿ;Libre commerce;Freihandel;Wolny handel;Libre comercio;Libero scambio;Szabadkereskedelem;Volný obchod;;;;;;x;
+centralization_decentralization;Öåíòðàëèçàöèÿ vs. Äåöåíòðàëèçàöèÿ;Centralisation v Décentralisation;Zentralisierung vs. Dezentralisierung;Centralizacja kontra decentralizacja;Centralización - Descentralización;Centralizzazione v Decentramento;Centralizáció vagy decentralizáció;Centralizace vs. decentralizace;;;;;;x
+centralization_decentralization_left;Öåíòðàëèçàöèÿ;Centralisation;Zentralisierung;Centralizacja;Centralización;Centralizzazione ;Centralizáció;Centralizace;;;;;;x
+centralization_decentralization_right;Äåöåíòðàëèçàöèÿ;Décentralisation;Dezentralisierung;Decentralizacja;Descentralización;Decentramento;Decentralizáció;Decentralizace;;;;;;x
+aristocracy_plutocracy;Âëàñòü çíàòíûõ vs. Âëàñòü áîãàòûõ;Aristocratie v Ploutocratie;Aristokratie vs. Plutokratie;Arystokracja kontra plutokracja;Aristocracia - Plutocracia;Aristocrazia v Plutocrazia;Arisztokrácia vagy plutokrácia;Aristokracie vs. plutokracie;;;;;;x
+aristocracy_plutocracy_left;Âëàñòü çíàòíûõ;Aristocratie;Aristokratie;Arystokracja ;Aristocracia;Aristocrazia;Arisztokrácia;Aristokracie;;;;;;x
+aristocracy_plutocracy_right;Âëàñòü áîãàòûõ;Ploutocratie;Plutokratie;Plutokracja;Plutocracia;Plutocrazia;Plutokrácia;Plutokracie;;;;;;x
+serfdom_freesubjects;Êðåïîñòíè÷åñòâî vs. Ëè÷íàÿ ñâîáîäà;Servitude v Liberté;Leibeigenschaft vs. Freie Untertanen;Poddañstwo kontra wolni poddani;Servidumbre - Súbditos libres;Servitù v Liberi sudditi;Jobbágyság vagy szabad alattvalók;Nevolnictví vs. svobodníci;;;;;;x
+serfdom_freesubjects_left;Êðåïîñòíè÷åñòâî;Servitude;Leibeigenschaft;Poddañstwo;Servidumbre;Servitù;Jobbágyság;Nevolnictví;;;;;;x
+serfdom_freesubjects_right;Ëè÷íàÿ ñâîáîäà;Liberté;Freie Untertanen;Wolni poddani;Súbditos libres;Liberi sudditi;Szabad alattvalók;Svobodníci;;;;;;x
+mercantilism_freetrade;Ìåðêàíòèëèçì vs. Ñâîáîä. òîðãîâëÿ;Mercantilisme v Libre commerce;Merkantilismus vs. Freihandel;Merkantylizm kontra wolny handel;Mercantilismo - Libre comercio;Mercantilismo v Libero scambio;Merkantilizmus vagy szabadkereskedelem;Merkantilismus vs. volný obchod;;;;;;x
+mercantilism_freetrade_left;Ìåðêàíòèëèçì;Mercantilisme;Merkantilismus;Merkantylizm;Mercantilismo;Mercantilismo;Merkantilizmus;Merkantilismus;;;;;;x
+mercantilism_freetrade_right;Ñâîáîä. òîðãîâëÿ;Libre commerce;Freihandel;Wolny handel;Libre comercio;Libero scambio;Szabadkereskedelem;Volný obchod;;;;;;x
 nomad_settled;Nomad vs Settled;;;;;;;;;;;;;x
 nomad_settled_left;Nomad;;;;;;;;;;;;;x
 nomad_settled_right;Settled;;;;;;;;;;;;;x
@@ -1883,7 +1883,7 @@ EVTNAME99196;Peasants Petition Against the Tax Reform;;;;;;;;;;;;;x
 EVTDESC99196;A large group of peasants from one of our provinces attempted to petition against the tax reform. Silly things, naturally, we had them hanged for high treason.;;;;;;;;;;;;;x
 EVTOPTA99196;Peasants *sigh* will they ever learn?;;;;;;;;;;;;;x
 EVTNAME99197;Peasants Petition Against the Tax Nobles;;;;;;;;;;;;;x
-EVTDESC99197;A large group of peasants from one of our provinces attempted to petition against local nobles. One of our officials kindly explained how the "system" works.;;;;;;;;;;;;;x
+EVTDESC99197;"A large group of peasants from one of our provinces attempted to petition against local nobles. One of our officials kindly explained how the ""system"" works.";;;;;;;;;;;;;x
 EVTOPTA99197;Someone needed to...;;;;;;;;;;;;;x
 EVTNAME99198;Special Noble Righs - Feuding Nobles;;;;;;;;;;;;;x
 EVTDESC99198;As a result of granted Special Noble Rights, our stability dropped due to regional nobles feuding against each others. There are small armies rampaging in the countryside, burning looting and pillaging land beloning to opposed sides.;;;;;;;;;;;;;x
@@ -2178,7 +2178,7 @@ EVTNAME99263;Prestigeous Country - Diplomatic Relations Improved.;;;;;;;;;;;;;x
 EVTDESC99263;One of our nobles on a neighbour's court managed to improve the diplomatic relations between our countries. This would never have happened if they were not impressed by our prestigeous status.;;;;;;;;;;;;;x
 EVTOPTA99263;Wery good.;;;;;;;;;;;;;x
 EVTNAME99264;Prestigeous Country - Manpower Increased.;;;;;;;;;;;;;x
-EVTDESC99264;Impressed by our prestige, the people flock to the amry seeking the life of adventure and excitement. Someone even came up with a slogan "join the army see the word", silly people.;;;;;;;;;;;;;x
+EVTDESC99264;"Impressed by our prestige, the people flock to the amry seeking the life of adventure and excitement. Someone even came up with a slogan ""join the army see the word"", silly people.";;;;;;;;;;;;;x
 EVTOPTA99264;Hey thats kinda catchy.;;;;;;;;;;;;;x
 EVTNAME99239;Insane Ruler - Diplomatic Scandal.;;;;;;;;;;;;;x
 EVTDESC99239;Our mad ruler has insulted a diplomat from a foreign court. As a result relations drop.;;;;;;;;;;;;;x
@@ -2493,7 +2493,7 @@ desc_mongol_religious_tolerance;This modifier represents the traditional open so
 steppe_warfare;Steppe Warfare Tradition;;;;;;;;;;;;;x
 desc_steppe_warfare;Represents the tradition and legacy of many past generations who lived and fought in the Central Asian steppes. Mere survival in steppe requires a whole different mind set and way of doing things - fighting a war in such a terrian is very difficult.;;;;;;;;;;;;;x
 golden_tent;Golden Tent - Zolotaya Orda;;;;;;;;;;;;;x
-desc_golden_tent;The name in English languaghe for the Golden Horde comes from the Russian earliest records describing a steppe people whose greal ruler - Khan - resided in an enormous Golden Tent or yurt. In Russian this yurt was refered to as "Zolotaya Orda" (golden tent) which during centuries remained the accepted name for various Mongol states, and over time developed into word Horde.;;;;;;;;;;;;;x
+desc_golden_tent;"The name in English languaghe for the Golden Horde comes from the Russian earliest records describing a steppe people whose greal ruler - Khan - resided in an enormous Golden Tent or yurt. In Russian this yurt was refered to as ""Zolotaya Orda"" (golden tent) which during centuries remained the accepted name for various Mongol states, and over time developed into word Horde.";;;;;;;;;;;;;x
 nomadic_nobility;Nomadic Nobility;;;;;;;;;;;;;x
 desc_nomadic_nobility;Nomadic lifestyle dictates a whole different set of rules. In such ever moving societies, very few things are set in stone. Without stable a stable system of aristocracy any monarchy - specially the tribal ones - may find it extremely difficult to run things efficiently.;;;;;;;;;;;;;x
 nomadic_society;Nomadic Society;;;;;;;;;;;;;x
@@ -2637,37 +2637,37 @@ EVTDESC99950;The unhappiness of our peasants over the current state of affairs, 
 EVTOPTA99950;Silly peasants...;;;;;;;;;;;;;x
 EVTNAME99951;Act Of Cruelty;;;;;;;;;;;;;x
 EVTDESC99951;While attempting to resolve a local legal matter, one of the minor nobles commited an act of cruelty. Already unhappy peasants gathered into a large crowd demanding justice, so the ring leaders had to be put to sword. Situation is under control - for the time being - but peasants now feel persecuted and still whisper of justice demands.;;;;;;;;;;;;;x
-EVTOPTA99951;Silly peasants...;;;;;;;;;;;;
+EVTOPTA99951;Silly peasants...;;;;;;;;;;;;;
 EVTNAME99952;Cry For Justice;;;;;;;;;;;;;x
 EVTDESC99952;Many of the local peastants decided that they've had enoug of noble customs, and now want to get the justice themselves. Many are leaving their homes to become road bandits, so the entire country side is turning into a war zone. At the same time the nobles are pushing their own agenda to gain even more power over the lower classes.;;;;;;;;;;;;;x
-EVTOPTA99952;Silly peasants...;;;;;;;;;;;;
+EVTOPTA99952;Silly peasants...;;;;;;;;;;;;;
 EVTNAME99953;Harvest Fails;;;;;;;;;;;;;x
 EVTDESC99953;Due to the overall chaos and devastation in the countryside, the harvest fails due to the lack of manpower to work the fields. This is a huge problem, as without grain imports we will soon starve.;;;;;;;;;;;;;x
-EVTOPTA99953;Silly peasants...;;;;;;;;;;;;
+EVTOPTA99953;Silly peasants...;;;;;;;;;;;;;
 EVTNAME99954;Large Rebellion;;;;;;;;;;;;;x
 EVTDESC99954;Due to the current state of chaos and devastation in the country side, some of the local people have taken arms against our goverment. We need to put an end to this once and for all.;;;;;;;;;;;;;x
-EVTOPTA99954;Not again...;;;;;;;;;;;;
+EVTOPTA99954;Not again...;;;;;;;;;;;;;
 EVTNAME99955;Large Rebellion;;;;;;;;;;;;;x
 EVTDESC99955;Due to the current state of chaos and devastation in the country side, some of the local people have taken arms against our goverment. We need to put an end to this once and for all.;;;;;;;;;;;;;x
-EVTOPTA99955;Not again...;;;;;;;;;;;;;;;;
+EVTOPTA99955;Not again...;;;;;;;;;;;;;
 EVTNAME99956;Huge Rebellion;;;;;;;;;;;;;x
 EVTDESC99956;Due to the current state of chaos and devastation in the country side, some of the local people have taken arms against our goverment. We need to put an end to this once and for all.;;;;;;;;;;;;;x
-EVTOPTA99956;Not again...;;;;;;;;;;;;
+EVTOPTA99956;Not again...;;;;;;;;;;;;;
 EVTNAME99957;Huge Rebellion;;;;;;;;;;;;;x
 EVTDESC99957;Due to the current state of chaos and devastation in the country side, some of the local people have taken arms against our goverment. We need to put an end to this once and for all.;;;;;;;;;;;;;x
-EVTOPTA99957;Not again...;;;;;;;;;;;;
+EVTOPTA99957;Not again...;;;;;;;;;;;;;
 EVTNAME99958;Huge Rebellion;;;;;;;;;;;;;x
 EVTDESC99958;Due to the current state of chaos and devastation in the country side, some of the local people have taken arms against our goverment. We need to put an end to this once and for all.;;;;;;;;;;;;;x
-EVTOPTA99958;Not again...;;;;;;;;;;;;
+EVTOPTA99958;Not again...;;;;;;;;;;;;;
 EVTNAME99959;The Old Rights;;;;;;;;;;;;;x
 EVTDESC99959;We just received news that the people have rebelled in one of our provinces because the local nobles had attempted to reintroduce some old laws and customs.;;;;;;;;;;;;;x
-EVTOPTA99959;Send them some help.;;;;;;;;;;;;
+EVTOPTA99959;Send them some help.;;;;;;;;;;;;;
 EVTNAME99960;Noble Schemes;;;;;;;;;;;;;x
 EVTDESC99960;Since they've been granted special favor recently, some of our nobles have siezed the opportunity to grab even more power for themselves and their families.;;;;;;;;;;;;;x
-EVTOPTA99960;The hand that feeds you...;;;;;;;;;;;;
+EVTOPTA99960;The hand that feeds you...;;;;;;;;;;;;;
 EVTNAME99961;Public Support;;;;;;;;;;;;;x
 EVTDESC99961;Since they've been granted special favor recently, many of our nobles are openly supporting the government.;;;;;;;;;;;;;x
-EVTOPTA99961;Quid pro quo.;;;;;;;;;;;;
+EVTOPTA99961;Quid pro quo.;;;;;;;;;;;;;
 annex_ragusa_title;Annex Ragusa;;;;;;;;;;;;;x
 annex_ragusa_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 annex_ragusa_1_title;Annex Ragusa;;;;;;;;;;;;;x
@@ -2686,14 +2686,14 @@ SLT_ADJ2;Ñëóöê.;;;;;;;;;;;;;x
 PROV2138;Óïèòà;;;;;;;;;;;;;x
 annex_slutsk_title;Conquer Slutsk;;;;;;;;;;;;;x
 annex_slutsk_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
-defeat_rebels_mission_title_1;Defeat Rebels;Vaincre les rebelles;Vernichtet die Rebellen;;Derrotar a los rebeldes;;;;;;;;;x;
-defeat_rebels_mission_desc_1;Our country is being ravaged by rebels, we need to make sure we have full control over our country again. Eradicate all rebels!;Notre pays est ravagé par les rebelles et il nous faut veiller à en reprendre le plein contrôle. Éliminez tous les rebelles !;Unsere Nation wird von Rebellen heimgesucht, wir müssen sicherstellen, das wir wieder die völlige Kontrolle über unser Land haben. Löscht alle Rebellen aus!;;El país está siendo devastado por los insurrectos. Debemos asegurarnos de que volvemos a tener completo control sobre nuestro país. ¡Erradiquemos a todos los rebeldes!;;;;;;;;;x;
-defeat_rebels_mission_title_2;Defeat Rebels;Vaincre les rebelles;Vernichtet die Rebellen;;Derrotar a los rebeldes;;;;;;;;;x;
-defeat_rebels_mission_desc_2;Our country is being ravaged by rebels, we need to make sure we have full control over our country again. Eradicate all rebels!;Notre pays est ravagé par les rebelles et il nous faut veiller à en reprendre le plein contrôle. Éliminez tous les rebelles !;Unsere Nation wird von Rebellen heimgesucht, wir müssen sicherstellen, das wir wieder die völlige Kontrolle über unser Land haben. Löscht alle Rebellen aus!;;El país está siendo devastado por los insurrectos. Debemos asegurarnos de que volvemos a tener completo control sobre nuestro país. ¡Erradiquemos a todos los rebeldes!;;;;;;;;;x;
+defeat_rebels_mission_title_1;Defeat Rebels;Vaincre les rebelles;Vernichtet die Rebellen;;Derrotar a los rebeldes;;;;;;;;;x
+defeat_rebels_mission_desc_1;Our country is being ravaged by rebels, we need to make sure we have full control over our country again. Eradicate all rebels!;Notre pays est ravagé par les rebelles et il nous faut veiller à en reprendre le plein contrôle. Éliminez tous les rebelles !;Unsere Nation wird von Rebellen heimgesucht, wir müssen sicherstellen, das wir wieder die völlige Kontrolle über unser Land haben. Löscht alle Rebellen aus!;;El país está siendo devastado por los insurrectos. Debemos asegurarnos de que volvemos a tener completo control sobre nuestro país. ¡Erradiquemos a todos los rebeldes!;;;;;;;;;x
+defeat_rebels_mission_title_2;Defeat Rebels;Vaincre les rebelles;Vernichtet die Rebellen;;Derrotar a los rebeldes;;;;;;;;;x
+defeat_rebels_mission_desc_2;Our country is being ravaged by rebels, we need to make sure we have full control over our country again. Eradicate all rebels!;Notre pays est ravagé par les rebelles et il nous faut veiller à en reprendre le plein contrôle. Éliminez tous les rebelles !;Unsere Nation wird von Rebellen heimgesucht, wir müssen sicherstellen, das wir wieder die völlige Kontrolle über unser Land haben. Löscht alle Rebellen aus!;;El país está siendo devastado por los insurrectos. Debemos asegurarnos de que volvemos a tener completo control sobre nuestro país. ¡Erradiquemos a todos los rebeldes!;;;;;;;;;x
 AUH;Àâñòðî-Âåíãðèÿ;;;;;;;;;;;;;x
 AUH_ADJ;Àâñòðî-Âåíãåðñê.;;;;;;;;;;;;;x
 AUH_ADJ2;Àâñòðî-Âåíãåðñê.;;;;;;;;;;;;;x
-PLC;Ðå÷ü Ïîñïîëèòàÿ;;;;;;;;;;;;x
+PLC;Ðå÷ü Ïîñïîëèòàÿ;;;;;;;;;;;;x;
 PLC_ADJ;Ïîñïîëèòñê.;;;;;;;;;;;;;x
 PLC_ADJ2;Ïîñïîëèòñê.;;;;;;;;;;;;;x
 SCN;Swiss Confederation;;;;;;;;;;;;;x
@@ -2713,32 +2713,32 @@ monastic_art;Monastic Art;;;;;;;;;;;;;x
 desc_monastic_art;Monastic art.;;;;;;;;;;;;;x
 EVTNAME99962;Divine Blessing - Church Donation;;;;;;;;;;;;;x
 EVTDESC99962;Satisfied with the state of religion affairs in our country, a local provincial paroch donates a generous amount of money to the state.;;;;;;;;;;;;;x
-EVTOPTA99962;You don't see this every day.;;;;;;;;;;;;
+EVTOPTA99962;You don't see this every day.;;;;;;;;;;;;;
 EVTNAME99963;Institutional Strugle;;;;;;;;;;;;;x
 EVTDESC99963;A serious crisis is about to errupt between our nobles and members of the Church. To prevent more drastic consequences we must step in and support one side.;;;;;;;;;;;;;x
-EVTOPTA99963;Church is always right.;;;;;;;;;;;;
-EVTOPTB99963;Blue blood all the way.;;;;;;;;;;;;
+EVTOPTA99963;Church is always right.;;;;;;;;;;;;;
+EVTOPTB99963;Blue blood all the way.;;;;;;;;;;;;;
 EVTNAME99964;Divine Blessing - Church Donation;;;;;;;;;;;;;x
 EVTDESC99964;Satisfied with the state of religion affairs in our state, a local provincial paroch donates a generous amount of money to the state.;;;;;;;;;;;;;x
-EVTOPTA99964;You don't see this every day.;;;;;;;;;;;;
+EVTOPTA99964;You don't see this every day.;;;;;;;;;;;;;
 EVTNAME99965;Family Member Canonized;;;;;;;;;;;;;x
 EVTDESC99965;A recently deceased member of our Royal family is proclaimed as saint.;;;;;;;;;;;;;x
-EVTOPTA99965;Thats nice.;;;;;;;;;;;;
+EVTOPTA99965;Thats nice.;;;;;;;;;;;;;
 EVTNAME99966;Monastic Art;;;;;;;;;;;;;x
 EVTDESC99966;Our religion enters the Golden Age of monastic art and literature.;;;;;;;;;;;;;x
-EVTOPTA99966;How lovely.;;;;;;;;;;;;
+EVTOPTA99966;How lovely.;;;;;;;;;;;;;
 EVTNAME99967;Beutiful Icons;;;;;;;;;;;;;x
 EVTDESC99967;The monks in one of our remote monasteries are producing icons so beautiful that countless serfs from all over our country, inspired by the stories of their miraculous properties, are taking the pilgrimage to this holy site.;;;;;;;;;;;;;x
-EVTOPTA99967;Finally, something useful.;;;;;;;;;;;;
+EVTOPTA99967;Finally, something useful.;;;;;;;;;;;;;
 EVTNAME99968;Church Consecrated;;;;;;;;;;;;;x
 EVTDESC99968;A recently built church has been consecrated. During the servise the entire court and noblity saw the royal faimily at their best. Weeks later, everyone will still talk about how good we all looked.;;;;;;;;;;;;;x
-EVTOPTA99968;Clothes - money well spent.;;;;;;;;;;;;
+EVTOPTA99968;Clothes - money well spent.;;;;;;;;;;;;;
 EVTNAME99969;Zealous Preachers;;;;;;;;;;;;;x
 EVTDESC99969;With Churche's support, who could possibly doubt our divine right to rule...;;;;;;;;;;;;;x
-EVTOPTA99969;Amen, A-men!;;;;;;;;;;;;
+EVTOPTA99969;Amen, A-men!;;;;;;;;;;;;;
 EVTNAME99970;Trade Proposal - Refused;;;;;;;;;;;;;x
 EVTDESC99970;Despite being given royal blessing, our merchants have failed to arrange grain export deal with the Westerners, aparently their ruler failed to see the wisdom and benefit to his people from this deal.;;;;;;;;;;;;;x
-EVTOPTA99970;Silly westerners...;;;;;;;;;;;;
+EVTOPTA99970;Silly westerners...;;;;;;;;;;;;;
 angry_mob_tax;Constable Murdered;;;;;;;;;;;;;x
 desc_angry_mob_tax;Angry mod have killed one of the local constables while collecting taxes. As a result our officials are frightened.;;;;;;;;;;;;;x
 tax_vassals;Tax Vassals;;;;;;;;;;;;;x
@@ -2783,57 +2783,57 @@ social_reforms;Social Reforms;;;;;;;;;;;;;x
 desc_social_reforms;Represents reaction to the introduction of social reforms desgined to change the traditional balance of power within our society.;;;;;;;;;;;;;x
 EVTNAME99971;Additional Taxes;;;;;;;;;;;;;x
 EVTDESC99971;Our court of Wards and Liveries wishes to press an additional tax upon our merchants. Should we support or oppose this idea?;;;;;;;;;;;;;x
-EVTOPTA99971;Hell yeah!;;;;;;;;;;;;x
-EVTOPTB99971;Better not.;;;;;;;;;;;;x
+EVTOPTA99971;Hell yeah!;;;;;;;;;;;;x;
+EVTOPTB99971;Better not.;;;;;;;;;;;;x;
 EVTNAME99972;Additional Taxes;;;;;;;;;;;;;x
 EVTDESC99972;Our court of Wards and Liveries wishes to press an additional tax upon our nobles. Should we support or oppose this idea?;;;;;;;;;;;;;x
-EVTOPTA99972;Tax them.;;;;;;;;;;;;x
-EVTOPTB99972;Better not.;;;;;;;;;;;;x
+EVTOPTA99972;Tax them.;;;;;;;;;;;;x;
+EVTOPTB99972;Better not.;;;;;;;;;;;;x;
 EVTNAME99973;Extra Tithes Collected;;;;;;;;;;;;;x
 EVTDESC99973;Our court of Wards and Liveries has managed to collect extra tithes.;;;;;;;;;;;;;x
-EVTOPTA99973;Very good.;;;;;;;;;;;;x
+EVTOPTA99973;Very good.;;;;;;;;;;;;x;
 EVTNAME99974;War Taxes Collected;;;;;;;;;;;;;x
 EVTDESC99974;Our court of Wards and Liveries has managed to collect extra war taxes. The collected sum is substential, and could either be used to support the war efforts, or to help out the economy.;;;;;;;;;;;;;x
-EVTOPTA99974;Collect the money.;;;;;;;;;;;;x
-EVTOPTB99974;Fight the inflation.;;;;;;;;;;;;x
+EVTOPTA99974;Collect the money.;;;;;;;;;;;;x;
+EVTOPTB99974;Fight the inflation.;;;;;;;;;;;;x;
 EVTNAME99975;Constable Murdered;;;;;;;;;;;;;x
 EVTDESC99975;One of our local officials, working for the court of Wards and Liveries, was ambushed and murdered bringing collected taxes back to the capital. A local group of bandits is suspected.;;;;;;;;;;;;;x
-EVTOPTA99975;Damn loafers!;;;;;;;;;;;;x
+EVTOPTA99975;Damn loafers!;;;;;;;;;;;;x;
 EVTNAME99976;Local Commander Becomes Famous;;;;;;;;;;;;;x
 EVTDESC99976;One of the local provincial commanders became famous during the recent military campaign. At first, it was the men under his command, now, everyone across our nation celebrates the hero's name.;;;;;;;;;;;;;x
-EVTOPTA99976;Everyone likes heroes.;;;;;;;;;;;;x
+EVTOPTA99976;Everyone likes heroes.;;;;;;;;;;;;x;
 EVTNAME99977;Poor Pressed Into Service;;;;;;;;;;;;;x
 EVTDESC99977;Our military leaders have ordered local city officials to force poor men without any income into military service. This move will surely bring the badly needed menpower, but it will also lower the quality of our armies. Our people are terrified, whispers of press gangs crusing the streets are causing much turmoil.;;;;;;;;;;;;;x
-EVTOPTA99977;We need every able body!;;;;;;;;;;;;x
+EVTOPTA99977;We need every able body!;;;;;;;;;;;;x;
 EVTNAME99978;Recruitmaster Promoted;;;;;;;;;;;;;x
 EVTDESC99978;One of our offifers has been promoted into Recruitmaster. His efforts could greatly improve the amount of menpower available to our military leaders.;;;;;;;;;;;;;x
-EVTOPTA99978;Damn loafers!;;;;;;;;;;;;x
+EVTOPTA99978;Damn loafers!;;;;;;;;;;;;x;
 german_crusader;Crusader;;;;;;;;;;;;;x
 EVTNAME99979;Royal Guard;;;;;;;;;;;;;x
 EVTDESC99979;Our military leaders, as well as most trusted advisers, have proposed creation of a special body of soldiers, an elite unit tasked only with the protection of the Royal Court. Should we procede, or keep relying on more traditional military organization?;;;;;;;;;;;;;x
-EVTOPTA99979;Form Royal Guard.;;;;;;;;;;;;x
-EVTOPTB99979;Why change something that works?;;;;;;;;;;;;x
+EVTOPTA99979;Form Royal Guard.;;;;;;;;;;;;x;
+EVTOPTB99979;Why change something that works?;;;;;;;;;;;;x;
 EVTNAME99980;Royal Guard Headquarters;;;;;;;;;;;;;x
 EVTDESC99980;Now that we have established Royal Guard, we are asked by its commanders to provide them with headquarters. It was recently proposed that they should be located within our capital. Should we allow this, or seek some other arranagement?;;;;;;;;;;;;;x
-EVTOPTA99980;Keem them close.;;;;;;;;;;;;x
-EVTOPTB99980;Seek another solution.;;;;;;;;;;;;x
+EVTOPTA99980;Keem them close.;;;;;;;;;;;;x;
+EVTOPTB99980;Seek another solution.;;;;;;;;;;;;x;
 EVTNAME99981;Annual Recruitment Fairs;;;;;;;;;;;;;x
 EVTDESC99981;With all the warring going on in our neighbourhood, these days we have many foreign soldiers within our borders. Right now they are mostly drunk mercenaries or good-for-nothing bandits, but they could also be used to fill up the ranks of our own army, if we cough up enough coins. How should we procede?;;;;;;;;;;;;;x
-EVTOPTA99981;Fund these fairs.;;;;;;;;;;;;x
-EVTOPTB99981;That's too expensive.;;;;;;;;;;;;x
+EVTOPTA99981;Fund these fairs.;;;;;;;;;;;;x;
+EVTOPTB99981;That's too expensive.;;;;;;;;;;;;x;
 EVTNAME99982;Mercenary Guild;;;;;;;;;;;;;x
 EVTDESC99982;A group of foreign warriors, who had arrived to one of our provinces looking for employment, have asked us for the permission to establish a mercenary guild. Such a guild could provide great benefits to our military potential, but it should also be kept under close eye. What should our answer be?;;;;;;;;;;;;;x
-EVTOPTA99982;Welcome foreign warriors.;;;;;;;;;;;;x
-EVTOPTB99982;That's too risky.;;;;;;;;;;;;x
+EVTOPTA99982;Welcome foreign warriors.;;;;;;;;;;;;x;
+EVTOPTB99982;That's too risky.;;;;;;;;;;;;x;
 EVTNAME99983;Devasted Province;;;;;;;;;;;;;x
 EVTDESC99983;As a result of chaos in the country side, the infrastructure in one of our provinces fails into disarray.;;;;;;;;;;;;;x
-EVTOPTA99983;Well, that's just perfect...;;;;;;;;;;;;x
+EVTOPTA99983;Well, that's just perfect...;;;;;;;;;;;;x;
 EVTNAME99984;Bandit Guild Established;;;;;;;;;;;;;x
 EVTDESC99984;As a result of chaos and devastation in the country side, a bandit guild was formed in one of our provinces.;;;;;;;;;;;;;x
-EVTOPTA99984;Hunt them down!;;;;;;;;;;;;x
+EVTOPTA99984;Hunt them down!;;;;;;;;;;;;x;
 EVTNAME99985;Local Economy Collapses;;;;;;;;;;;;;x
 EVTDESC99985;A local bandit guild hurts the provincial economy. Our officlas are powerless to stop them.;;;;;;;;;;;;;x
-EVTOPTA99985;Damn bandits!;;;;;;;;;;;;x
+EVTOPTA99985;Damn bandits!;;;;;;;;;;;;x;
 royal_guards_regiments;Royal Guards;;;;;;;;;;;;;x
 desc_royal_guards_regiments;An elite formation of soldiers designed to provide protection to the county's Royal Court.;;;;;;;;;;;;;x
 royal_guards_headquarters;Royal Guards Headquarters;;;;;;;;;;;;;x
@@ -2873,28 +2873,28 @@ grain_thieves;Grain Thieves;;;;;;;;;;;;;x
 desc_grain_thieves;Grain thieves.;;;;;;;;;;;;;x
 EVTNAME99986;Peasants Overworked;;;;;;;;;;;;;x
 EVTDESC99986;We have heard that local nobles in one of our provinces have overworked their serfs during the last season, gaining large amount of wealth. We could attempt to claim some of it, or try to hire some workers to help the poor peasants out.;;;;;;;;;;;;;x
-EVTOPTA99986;Join the fun!;;;;;;;;;;;;x
-EVTOPTB99986;Hire some workerks!;;;;;;;;;;;;x
+EVTOPTA99986;Join the fun!;;;;;;;;;;;;x;
+EVTOPTB99986;Hire some workerks!;;;;;;;;;;;;x;
 EVTNAME99987;Landowners Promote Serfdom;;;;;;;;;;;;;x
 EVTDESC99987;Inspired by our recent open support of serfdom policies, some of the minor nobles and large landowners have started lobbying for even stronger support of serfdom by the government.;;;;;;;;;;;;;x
-EVTOPTA99987;Good idea!;;;;;;;;;;;;x
-EVTOPTB99987;We make our own policies!;;;;;;;;;;;;x
-EVTOPTC99987;Attempt seek another solution.;;;;;;;;;;;;x
+EVTOPTA99987;Good idea!;;;;;;;;;;;;x;
+EVTOPTB99987;We make our own policies!;;;;;;;;;;;;x;
+EVTOPTC99987;Attempt seek another solution.;;;;;;;;;;;;x;
 EVTNAME99988;Craftsmen Promote Freedom;;;;;;;;;;;;;x
 EVTDESC99988;Because of our recent open support of freedom policies, the wealthy merchants and many from the craftsmen guild have started lobbying for further support of freedom by the government.;;;;;;;;;;;;;x
-EVTOPTA99988;Good idea!;;;;;;;;;;;;x
-EVTOPTB99988;We make our own policies!;;;;;;;;;;;;x
-EVTOPTC99988;Attempt seek another solution.;;;;;;;;;;;;x
+EVTOPTA99988;Good idea!;;;;;;;;;;;;x;
+EVTOPTB99988;We make our own policies!;;;;;;;;;;;;x;
+EVTOPTC99988;Attempt seek another solution.;;;;;;;;;;;;x;
 EVTNAME99989;Nobles Demand Serfdom;;;;;;;;;;;;;x
 EVTDESC99989;Opportunistic nobles are demanding concessions that would further increase serdom policies of our state.;;;;;;;;;;;;;x
-EVTOPTA99989;Accept their demands.;;;;;;;;;;;;x
-EVTOPTB99989;Refuse the jackals!;;;;;;;;;;;;x
+EVTOPTA99989;Accept their demands.;;;;;;;;;;;;x;
+EVTOPTB99989;Refuse the jackals!;;;;;;;;;;;;x;
 EVTNAME99990;Grain Thieves Formed;;;;;;;;;;;;;x
 EVTDESC99990;Large group of bandits have settled one of our provinces, intercepting and looting shipments of grain. This is starting to hurt our economy.;;;;;;;;;;;;;x
-EVTOPTA99990;Hunt them down!;;;;;;;;;;;;x
+EVTOPTA99990;Hunt them down!;;;;;;;;;;;;x;
 EVTNAME99991;Bandit Guild Formed;;;;;;;;;;;;;x
 EVTDESC99991;What started as minor group of grain thieves have grown into Bandit Guild, that is rampaging all over the country side. We must do something before this turns into even more trouble.;;;;;;;;;;;;;x
-EVTOPTA99991;Hunt them down!;;;;;;;;;;;;x
+EVTOPTA99991;Hunt them down!;;;;;;;;;;;;x;
 JIN;Jin;;;;;;;;;;;;;x
 JIN_ADJ;Jin;;;;;;;;;;;;;x
 JIN_ADJ2;Jin;;;;;;;;;;;;;x
@@ -2952,67 +2952,67 @@ annex_hansa_desc;We now have the opportunity to press claims on this piece of la
 crusader_sphere;Crusader;;;;;;;;;;;;;x
 EVTNAME99992;Visit To The Foreign Court;;;;;;;;;;;;;x
 EVTDESC99992;A group of our nobles ask for the permission to make a royal visit to a foreign court. We could allow this, and let them handle the diplomatic issues, or we could send our own envoys instead. How should we proceed?;;;;;;;;;;;;;x
-EVTOPTA99992;Let the nobles handle it.;;;;;;;;;;;;x
-EVTOPTB99992;Rather send our own people.;;;;;;;;;;;;x
+EVTOPTA99992;Let the nobles handle it.;;;;;;;;;;;;x;
+EVTOPTB99992;Rather send our own people.;;;;;;;;;;;;x;
 EVTNAME99993;Border Trade;;;;;;;;;;;;;x
 EVTDESC99993;Local border communities from one of our own and a neighbouring province, develop local trade. We could let the locals handle it, or establish our own trading post. How should we proceed?;;;;;;;;;;;;;x
-EVTOPTA99993;Let the locals handle it.;;;;;;;;;;;;x
-EVTOPTB99993;Establish the trading post.;;;;;;;;;;;;x
+EVTOPTA99993;Let the locals handle it.;;;;;;;;;;;;x;
+EVTOPTB99993;Establish the trading post.;;;;;;;;;;;;x;
 EVTNAME99994;Royal Marriage;;;;;;;;;;;;;x
 EVTDESC99994;Should we try to conclude a royal marriage with a culturally close foreign court?;;;;;;;;;;;;;x
-EVTOPTA99994;Do it.;;;;;;;;;;;;x
-EVTOPTB99994;They are not worthy.;;;;;;;;;;;;x
+EVTOPTA99994;Do it.;;;;;;;;;;;;x;
+EVTOPTB99994;They are not worthy.;;;;;;;;;;;;x;
 EVTNAME99995;Royal Envoy Insulted;;;;;;;;;;;;;x
 EVTDESC99995;Our royal envoy at the neighbour's court was insulted. Many nobles and powerful merchants demand action. What should we do?;;;;;;;;;;;;;x
-EVTOPTA99995;Seek reconsiliation.;;;;;;;;;;;;x
-EVTOPTB99995;Seek confrontation.;;;;;;;;;;;;x
+EVTOPTA99995;Seek reconsiliation.;;;;;;;;;;;;x;
+EVTOPTB99995;Seek confrontation.;;;;;;;;;;;;x;
 EVTNAME99996;Arrogant Envoy;;;;;;;;;;;;;x
 EVTDESC99996;Our arrogant envoy at the neighbour's court was imprisoned. Many nobles and powerful merchants demand action. What should we do?;;;;;;;;;;;;;x
-EVTOPTA99996;Demand his release.;;;;;;;;;;;;x
-EVTOPTB99996;Denounce him.;;;;;;;;;;;;x
+EVTOPTA99996;Demand his release.;;;;;;;;;;;;x;
+EVTOPTB99996;Denounce him.;;;;;;;;;;;;x;
 EVTNAME99997;Forging & Scheming;;;;;;;;;;;;;x
 EVTDESC99997;As a smaller neighbour is currently embroiled at war, our capable marshall tells us that we could attempt to forge some documents and scheme our way into their court. What should we do?;;;;;;;;;;;;;x
-EVTOPTA99997;Scheme and force, what else?;;;;;;;;;;;;x
-EVTOPTB99997;Respect their sovereignty.;;;;;;;;;;;;x
+EVTOPTA99997;Scheme and force, what else?;;;;;;;;;;;;x;
+EVTOPTB99997;Respect their sovereignty.;;;;;;;;;;;;x;
 EVTNAME99998;Send Royal Envoys;;;;;;;;;;;;;x
 EVTDESC99998;Should we send royal envoys to a foreign court? We could also establish more permanent diplomatic presence for a small investment.;;;;;;;;;;;;;x
-EVTOPTA99998;Do it.;;;;;;;;;;;;x
-EVTOPTB99998;Fund a more permanent solution.;;;;;;;;;;;;x
+EVTOPTA99998;Do it.;;;;;;;;;;;;x;
+EVTOPTB99998;Fund a more permanent solution.;;;;;;;;;;;;x;
 EVTNAME99999;Royal Hunt;;;;;;;;;;;;;x
 EVTDESC99999;Our Noble ruler has been hunting recently with one our neighbouring rulers. During their adventures, the two had developed great personal relations. As a result our courts are also closer than ever.;;;;;;;;;;;;;x
-EVTOPTA99999;Great!;;;;;;;;;;;;x
+EVTOPTA99999;Great!;;;;;;;;;;;;x;
 EVTNAME97000;Fund The Opposition;;;;;;;;;;;;;x
 EVTDESC97000;Our Marshall wants to fund the opposition made up of minor nobles and disatisfied landowners our neighbour's country. Should we allow this?;;;;;;;;;;;;;x
-EVTOPTA97000;Allow it.;;;;;;;;;;;;x
-EVTOPTB97000;Its too risky.;;;;;;;;;;;;x
+EVTOPTA97000;Allow it.;;;;;;;;;;;;x;
+EVTOPTB97000;Its too risky.;;;;;;;;;;;;x;
 EVTNAME97001;Support For Our Opposition;;;;;;;;;;;;;x
 EVTDESC97001;We have received reports that one of our neighbours is funding opposition within our state. We can handle this without much problem, but such practice should be stopped.;;;;;;;;;;;;;x
-EVTOPTA97001;Hang the foreigners.;;;;;;;;;;;;x
-EVTOPTB97001;Just ignore them.;;;;;;;;;;;;x
+EVTOPTA97001;Hang the foreigners.;;;;;;;;;;;;x;
+EVTOPTB97001;Just ignore them.;;;;;;;;;;;;x;
 EVTNAME97002;Not Worthy;;;;;;;;;;;;;x
-EVTDESC97002;Insult! We heard the news that a foreign court deemed us "not worthy" of a royal marriage!;;;;;;;;;;;;;x
-EVTOPTA97002;Hand the messenger!;;;;;;;;;;;;x
-EVTOPTB97002;We will remember this!;;;;;;;;;;;;x
+EVTDESC97002;"Insult! We heard the news that a foreign court deemed us ""not worthy"" of a royal marriage!";;;;;;;;;;;;;x
+EVTOPTA97002;Hand the messenger!;;;;;;;;;;;;x;
+EVTOPTB97002;We will remember this!;;;;;;;;;;;;x;
 EVTNAME97003;Noble Envoys Arrived;;;;;;;;;;;;;x
 EVTDESC97003;A group of nombles from a neighbour's court just arrived to our capital on a diplomatic mission. How should we handle them?;;;;;;;;;;;;;x
-EVTOPTA97003;Send them gifts.;;;;;;;;;;;;x
-EVTOPTB97003;Remain formal.;;;;;;;;;;;;x
+EVTOPTA97003;Send them gifts.;;;;;;;;;;;;x;
+EVTOPTB97003;Remain formal.;;;;;;;;;;;;x;
 EVTNAME97004;Gifts;;;;;;;;;;;;;x
 EVTDESC97004;Our nobles, who on their own initiaive went on a diplomatic mission, have just returned home with gifts from a foreign court!;;;;;;;;;;;;;x
-EVTOPTA97004;Offer them warm welcome!;;;;;;;;;;;;x
+EVTOPTA97004;Offer them warm welcome!;;;;;;;;;;;;x;
 EVTNAME97005;Border Communities Trade;;;;;;;;;;;;;x
 EVTDESC97005;Local communities develop trade with a neighbouring province, whose owner has recently established a trade post. Should we invest some money into establishing our own trade post, or let the local merchants handle it?;;;;;;;;;;;;;x
-EVTOPTA97005;Make the investment.;;;;;;;;;;;;x
-EVTOPTB97005;Let the locals handle it.;;;;;;;;;;;;x
+EVTOPTA97005;Make the investment.;;;;;;;;;;;;x;
+EVTOPTB97005;Let the locals handle it.;;;;;;;;;;;;x;
 EVTNAME97006;Marriage Proposal;;;;;;;;;;;;;x
 EVTDESC97006;We have been offered a marriage proposal, between ours and a neighbouring royal court. Should we accept this proposal?;;;;;;;;;;;;;x
-EVTOPTA97006;Conclude the marriage.;;;;;;;;;;;;x
-EVTOPTB97006;Refuse politely.;;;;;;;;;;;;x
-EVTOPTC97006;Refuse and insult.;;;;;;;;;;;;x
+EVTOPTA97006;Conclude the marriage.;;;;;;;;;;;;x;
+EVTOPTB97006;Refuse politely.;;;;;;;;;;;;x;
+EVTOPTC97006;Refuse and insult.;;;;;;;;;;;;x;
 EVTNAME97007;Foreign Envoys;;;;;;;;;;;;;x
 EVTDESC97007;We have been approached by the enovys from a foreign court with the proposal of establishing permanent diplomatic relations. We could let them settle in on their own, or offer special accomodations near the palace?;;;;;;;;;;;;;x
-EVTOPTA97007;Welcome them.;;;;;;;;;;;;x
-EVTOPTB97007;Offer them office.;;;;;;;;;;;;x
+EVTOPTA97007;Welcome them.;;;;;;;;;;;;x;
+EVTOPTB97007;Offer them office.;;;;;;;;;;;;x;
 PMW;Ïîìåðàíèÿ-Âîëüãàñò;;;;;;;;;;;;;x
 PMW_ADJ;Ïîìåðàíñê.;;;;;;;;;;;;;x
 PMW_ADJ2;Ïîìåðàíñê.;;;;;;;;;;;;;x
@@ -3025,52 +3025,52 @@ PROV2149;Drijeva;;;;;;;;;;;;;x
 provancan;Provancan;;;;;;;;;;;;;x
 EVTNAME97008;Royal Blood;;;;;;;;;;;;;x
 EVTDESC97008;Our nobles feel both culturally and spiritually close to the court of one of our neighbours. Should we attempt to build upon these feelings of similarity and mutual trust, or remind our nobles that their focus beloing primarily back at home?;;;;;;;;;;;;;x
-EVTOPTA97008;Bring our courts closer.;;;;;;;;;;;;x
-EVTOPTB97008;Have nobles take care of the home.;;;;;;;;;;;;x
+EVTOPTA97008;Bring our courts closer.;;;;;;;;;;;;x;
+EVTOPTB97008;Have nobles take care of the home.;;;;;;;;;;;;x;
 EVTNAME97009;United In Infamy;;;;;;;;;;;;;x
 EVTDESC97009;Waging war and conquering land - by any means, seem to be traits of not only us, but one of our neighbours as well. Feared and shunned by everyone else, should we try to improve relations between our states, or rather focus more on our own standing among other countries?;;;;;;;;;;;;;x
-EVTOPTA97009;Nothing unites men like war.;;;;;;;;;;;;x
-EVTOPTB97009;We should focus on our own repentance.;;;;;;;;;;;;x
+EVTOPTA97009;Nothing unites men like war.;;;;;;;;;;;;x;
+EVTOPTB97009;We should focus on our own repentance.;;;;;;;;;;;;x;
 EVTNAME96000;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96000;One of our neighbouring rulers is a barely capable fool not worthy of respect, lacking personal charisma so much that even their own armies don't recognize any royal authority, while the Elector Princes tell jokes on their behalf. This situation is an embarrassment of the entire Empire and should be ended once and for all.;;;;;;;;;;;;;x
-EVTOPTA96000;Fabricate claims as prelude for an invasion.;;;;;;;;;;;;x
-EVTOPTB96000;Settle this dispuit diplomatically.;;;;;;;;;;;;x
+EVTOPTA96000;Fabricate claims as prelude for an invasion.;;;;;;;;;;;;x;
+EVTOPTB96000;Settle this dispuit diplomatically.;;;;;;;;;;;;x;
 EVTNAME96001;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96001;One of our neighbouring rulers is an illegitimate pretender who only rose to power via brute use of force. Being highly respected and an examplary monarchy, such an unrecognized neighbour, probably even without protection of the Emperor, should be an excellent opportunity for our expansion.;;;;;;;;;;;;;x
-EVTOPTA96001;State our claims and assemble the armies!;;;;;;;;;;;;x
-EVTOPTB96001;Settle this dispute diplomatically.;;;;;;;;;;;;x
+EVTOPTA96001;State our claims and assemble the armies!;;;;;;;;;;;;x;
+EVTOPTB96001;Settle this dispute diplomatically.;;;;;;;;;;;;x;
 EVTNAME96002;Border Dispute;;;;;;;;;;;;;x
 EVTDESC96002;Our neighbour is suffering from a long period of weak government. Such an interior weakness is like an invitation for the opportunistic foreign invasion. Should we try to gain something from this situation?;;;;;;;;;;;;;x
-EVTOPTA96002;Certainly, press our claim!;;;;;;;;;;;;x
-EVTOPTB96002;We settle our disputes with words, not swords.;;;;;;;;;;;;x
+EVTOPTA96002;Certainly, press our claim!;;;;;;;;;;;;x;
+EVTOPTB96002;We settle our disputes with words, not swords.;;;;;;;;;;;;x;
 EVTNAME96003;Electorial Relations;;;;;;;;;;;;;x
 EVTDESC96003;Our loyal advisers tell us that we have an opportunity to improve relations with a fellow Elector state of the Holy Roman Empire, or try to improve relations with the Emperor himself. How should we procede?;;;;;;;;;;;;;x
-EVTOPTA96003;Focus on Elector state.;;;;;;;;;;;;x
-EVTOPTB96003;Our fate is with the Emperor.;;;;;;;;;;;;x
+EVTOPTA96003;Focus on Elector state.;;;;;;;;;;;;x;
+EVTOPTB96003;Our fate is with the Emperor.;;;;;;;;;;;;x;
 EVTNAME96004;Religious Relations;;;;;;;;;;;;;x
 EVTDESC96004;Some of our clerics are proposing a more dynamic foreign policy, one that would rely more on diplomatic relations with other Theocracies within the Holy Roman Empire. Aristocracy, on the other hand, thinks we should stick to the Emperor and enjoy peace and prosperity.;;;;;;;;;;;;;x
-EVTOPTA96004;Listen to the clergy.;;;;;;;;;;;;x
-EVTOPTB96004;Listen to the nobles.;;;;;;;;;;;;x
+EVTOPTA96004;Listen to the clergy.;;;;;;;;;;;;x;
+EVTOPTB96004;Listen to the nobles.;;;;;;;;;;;;x;
 EVTNAME96005;Theocratic Submission;;;;;;;;;;;;;x
 EVTDESC96005;Rome demands that we submit to the Ultimate Authority of the Mother Church and political powers in Vatican. If we accept this, we will in essence welcome the Holy See into our political life, granting future Popes right to tell us what to do on all levels, but if we refuse, we could potentially suffer great consequences both within Holy Roman Empire and by the hands of our fellow Catholics.;;;;;;;;;;;;;x
-EVTOPTA96005;Pope rules the Earth.;;;;;;;;;;;;x
-EVTOPTB96005;Our state, our rules!;;;;;;;;;;;;x
+EVTOPTA96005;Pope rules the Earth.;;;;;;;;;;;;x;
+EVTOPTB96005;Our state, our rules!;;;;;;;;;;;;x;
 EVTNAME96006;Clergy Gains Power;;;;;;;;;;;;;x
 EVTDESC96006;As a result of our affiliation with the Pope, many members of the clergy have gained substential amounts of power within our state. As a result they are now demanding more conservative policies that would be inlign with Holy See.;;;;;;;;;;;;;x
-EVTOPTA96006;Accept Clerical Suppremacy.;;;;;;;;;;;;x
-EVTOPTB96006;Oh, hell no!;;;;;;;;;;;;x
+EVTOPTA96006;Accept Clerical Suppremacy.;;;;;;;;;;;;x;
+EVTOPTB96006;Oh, hell no!;;;;;;;;;;;;x;
 EVTNAME96007;Pope Demands More Power;;;;;;;;;;;;;x
 EVTDESC96007;As a result of our affiliation with the Pope, Holy See has requested that we adjust our decentralization policies allowing more control from the Vatican over our possessions.;;;;;;;;;;;;;x
-EVTOPTA96007;Accept Papal Suppremacy.;;;;;;;;;;;;x
-EVTOPTB96007;Take you hands off my gold!;;;;;;;;;;;;x
+EVTOPTA96007;Accept Papal Suppremacy.;;;;;;;;;;;;x;
+EVTOPTB96007;Take you hands off my gold!;;;;;;;;;;;;x;
 EVTNAME96008;Pope Demands More Power;;;;;;;;;;;;;x
 EVTDESC96008;As a result of our affiliation with the Pope, Holy See has requested that we adjust our serfdom policies in order of preventing individuals, as well as unruly preachers, from underminding the authority of the Mother Church by spreading unorthodox ideas and heresies.;;;;;;;;;;;;;x
-EVTOPTA96008;Accept Papal Suppremacy.;;;;;;;;;;;;x
-EVTOPTB96008;We rule this state!;;;;;;;;;;;;x
+EVTOPTA96008;Accept Papal Suppremacy.;;;;;;;;;;;;x;
+EVTOPTB96008;We rule this state!;;;;;;;;;;;;x;
 EVTNAME96009;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96009;One of our neighbouring rulers has terrible relations with the Emperor, unlike us. Should we try to use our favor with the Emrperor to try to fabricate some claims and expand our possessitions?;;;;;;;;;;;;;x
-EVTOPTA96009;Fabricate claims!;;;;;;;;;;;;x
-EVTOPTB96009;Settle this dispuit diplomatically.;;;;;;;;;;;;x
+EVTOPTA96009;Fabricate claims!;;;;;;;;;;;;x;
+EVTOPTB96009;Settle this dispuit diplomatically.;;;;;;;;;;;;x;
 higher_authority;Higher Authority;;;;;;;;;;;;;x
 desc_higher_authority;Submit to the authority of the Pope.;;;;;;;;;;;;;x
 pope_refused;Pope Refused;;;;;;;;;;;;;x
@@ -3086,7 +3086,7 @@ annex_pommeraniaswolgast_title;Annex Pomerania-Wolgast;;;;;;;;;;;;;x
 annex_pommeraniaswolgast_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 EVTNAME96010;Bureaucracy Spreads;;;;;;;;;;;;;x
 EVTDESC96010;Bureacracy spreads to one of our provinces!;;;;;;;;;;;;;x
-EVTOPTA96010;Great!;;;;;;;;;;;;x
+EVTOPTA96010;Great!;;;;;;;;;;;;x;
 VIA;Âÿòêà;;;;;;;;;;;;;x
 VIA_ADJ;Âÿòñê.;;;;;;;;;;;;;x
 VIA_ADJ2;Âÿòñê.;;;;;;;;;;;;;x
@@ -3097,86 +3097,86 @@ form_pommerania_desc;Form Pomeranian nation.;;;;;;;;;;;;;x
 form_pommerania_title;Form Pomeranian Nation;;;;;;;;;;;;;x
 EVTNAME96011;Local Economy Improves;;;;;;;;;;;;;x
 EVTDESC96011;Tax reform produces results: a tax value in one of out provinces rises.;;;;;;;;;;;;;x
-EVTOPTA96011;Great news!;;;;;;;;;;;;x
+EVTOPTA96011;Great news!;;;;;;;;;;;;x;
 EVTNAME96012;Local Economy Improves;;;;;;;;;;;;;x
 EVTDESC96012;Tax reform produces results: a tax value in one of out provinces rises.;;;;;;;;;;;;;x
-EVTOPTA96012;Great news!;;;;;;;;;;;;x
+EVTOPTA96012;Great news!;;;;;;;;;;;;x;
 EVTNAME96013;Local Economy Improves;;;;;;;;;;;;;x
 EVTDESC96013;Tax reform produces results: a tax value in one of out provinces rises.;;;;;;;;;;;;;x
-EVTOPTA96013;Great news!;;;;;;;;;;;;x
+EVTOPTA96013;Great news!;;;;;;;;;;;;x;
 pomor;Pomor;;;;;;;;;;;;;x
 EVTNAME96014;Imperial Border Dispute;;;;;;;;;;;;;x
-EVTDESC96014;One of the incompetent neighbouring rulers is a laughing stock of the entire Holy Roman Empire. It is our duty as the Elector state of the Empire to put an end to this so-called "independence" once and for all!;;;;;;;;;;;;;x
-EVTOPTA96014;Press the claim!;;;;;;;;;;;;x
-EVTOPTB96014;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTDESC96014;"One of the incompetent neighbouring rulers is a laughing stock of the entire Holy Roman Empire. It is our duty as the Elector state of the Empire to put an end to this so-called ""independence"" once and for all!";;;;;;;;;;;;;x
+EVTOPTA96014;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB96014;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME96015;Imperial Border Dispute;;;;;;;;;;;;;x
-EVTDESC96015;One of the incompetent neighbouring rulers is a laughing stock of the entire Holy Roman Empire. It is within our power to gain a legitimate claim to their throne and end their so-called "independence" once and for all!;;;;;;;;;;;;;x
-EVTOPTA96015;Press the claim!;;;;;;;;;;;;x
-EVTOPTB96015;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTDESC96015;"One of the incompetent neighbouring rulers is a laughing stock of the entire Holy Roman Empire. It is within our power to gain a legitimate claim to their throne and end their so-called ""independence"" once and for all!";;;;;;;;;;;;;x
+EVTOPTA96015;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB96015;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME96016;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96016;One of our neighbours is suffering from very low prestige among their rival countries. This is seen as a sign of weakness by many, surely it is only a question of time before someone makes a claim.;;;;;;;;;;;;;x
-EVTOPTA96016;Better us than someone else!;;;;;;;;;;;;x
-EVTOPTB96016;We have chosen the path of peace.;;;;;;;;;;;;x
+EVTOPTA96016;Better us than someone else!;;;;;;;;;;;;x;
+EVTOPTB96016;We have chosen the path of peace.;;;;;;;;;;;;x;
 EVTNAME96017;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96017;One of our beligerant neighbours, currently embroiled at war, is suffering from very low prestige. This is seen as a sign of weakness by many, our advisers tell us that it is only a question of time before someone takes the chance and presses the claim. How should we procede?;;;;;;;;;;;;;x
-EVTOPTA96017;Better us than someone else!;;;;;;;;;;;;x
-EVTOPTB96017;We have chosen the path of peace.;;;;;;;;;;;;x
+EVTOPTA96017;Better us than someone else!;;;;;;;;;;;;x;
+EVTOPTB96017;We have chosen the path of peace.;;;;;;;;;;;;x;
 EVTNAME96018;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96018;One of our incapable neighbours is locked in a prolonged war. Our loyal advisers are telling us to seize the opportunity and make a claim on their holdings. What should we do?;;;;;;;;;;;;;x
-EVTOPTA96018;Carpe diem!;;;;;;;;;;;;x
-EVTOPTB96018;Let them live in peace.;;;;;;;;;;;;x
+EVTOPTA96018;Carpe diem!;;;;;;;;;;;;x;
+EVTOPTB96018;Let them live in peace.;;;;;;;;;;;;x;
 EVTNAME96019;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96019;One of our neighbouring rulers is suffering from very low legitimacy, which is starting to make many question their right to rule. With this whole mess, some are suggesting that if we were to press a claim, it would be accepted as legitimate one, by the most. What should we do?;;;;;;;;;;;;;x
-EVTOPTA96019;Press the claim!;;;;;;;;;;;;x
-EVTOPTB96019;Respect your fellow ruler.;;;;;;;;;;;;x
+EVTOPTA96019;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB96019;Respect your fellow ruler.;;;;;;;;;;;;x;
 EVTNAME96020;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96020;One of our neighbouring rulers is suffering from very low legitimacy, which is starting to make many question their right to rule. With this whole mess, some are suggesting that if we were to press a claim, it would be accepted as legitimate one, by the most. What should we do?;;;;;;;;;;;;;x
-EVTOPTA96020;Press the claim!;;;;;;;;;;;;x
-EVTOPTB96020;Respect your fellow ruler.;;;;;;;;;;;;x
+EVTOPTA96020;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB96020;Respect your fellow ruler.;;;;;;;;;;;;x;
 EVTNAME96021;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96021;One of our neighbouring rulers is having a great deal of problems with their foreign relations, specially those within Holy Roman Empire. Many suspect this to be the case of combination of incapable officials and foreign interference. In either case, we can use this opportunity to lay a claim to their holdings which would be recognized as legitimate by many.;;;;;;;;;;;;;x
-EVTOPTA96021;Press the claim!;;;;;;;;;;;;x
-EVTOPTB96021;Respect your neighbour's independence.;;;;;;;;;;;;x
+EVTOPTA96021;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB96021;Respect your neighbour's independence.;;;;;;;;;;;;x;
 EVTNAME96022;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96022;One of our neighbouring countries is currently embroiled in a war that they are clearly losing. This is a rare opportunity or weakness we should take an advantage of, before someone else does.;;;;;;;;;;;;;x
-EVTOPTA96022;Press the claim!;;;;;;;;;;;;x
-EVTOPTB96022;Respect your neighbour's independence.;;;;;;;;;;;;x
+EVTOPTA96022;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB96022;Respect your neighbour's independence.;;;;;;;;;;;;x;
 EVTNAME76000;Grain Merchants;;;;;;;;;;;;;x
 EVTDESC76000;Local authorities from $PROVINCENAME$, are ask us for guidance: recently they have been approached by wealthy merchants belonging to two different guilds, one wishing to export the grain, other to develop local market. What should we tell them?;;;;;;;;;;;;;x
-EVTOPTA76000;Focus on the local economy.;;;;;;;;;;;;x
-EVTOPTB76000;Exporting goods has the hugest priority.;;;;;;;;;;;;x
+EVTOPTA76000;Focus on the local economy.;;;;;;;;;;;;x;
+EVTOPTB76000;Exporting goods has the hugest priority.;;;;;;;;;;;;x;
 EVTNAME76001;Grain Export - Payoff;;;;;;;;;;;;;x
 EVTDESC76001;Our wise choice to specialize one of our grain provinces into grain exporter has finally payed off. Again, their officials are asking for guideance, as the recent wealth could be used to further improve the provincial economy or, with small investment from our end, make large scale investment for the coming decades.;;;;;;;;;;;;;x
-EVTOPTA76001;Improve the local economy even more.;;;;;;;;;;;;x
-EVTOPTB76001;Make the investment.;;;;;;;;;;;;x
+EVTOPTA76001;Improve the local economy even more.;;;;;;;;;;;;x;
+EVTOPTB76001;Make the investment.;;;;;;;;;;;;x;
 EVTNAME76002;Prosperous Province;;;;;;;;;;;;;x
 EVTDESC76002;Recent grain business development pays off for all involved parties.;;;;;;;;;;;;;x
-EVTOPTA76002;Gold is good.;;;;;;;;;;;;x
+EVTOPTA76002;Gold is good.;;;;;;;;;;;;x;
 EVTNAME76003;Rich Province;;;;;;;;;;;;;x
 EVTDESC76003;Recent grain business development pays off for all involved parties.;;;;;;;;;;;;;x
-EVTOPTA76003;Gold is good.;;;;;;;;;;;;x
+EVTOPTA76003;Gold is good.;;;;;;;;;;;;x;
 EVTNAME76004;Rich Province;;;;;;;;;;;;;x
 EVTDESC76004;Recent grain business development pays off extra profits for all involved investors.;;;;;;;;;;;;;x
-EVTOPTA76004;Gold is good.;;;;;;;;;;;;x
+EVTOPTA76004;Gold is good.;;;;;;;;;;;;x;
 EVTNAME76005;Marketplace Built;;;;;;;;;;;;;x
 EVTDESC76005;Recent grain business development leads to construction of a marketplace by the local merchant guild. This act was seen as gratitude for the government's exceptional focus on national trade policies.;;;;;;;;;;;;;x
-EVTOPTA76005;Blessed merchants.;;;;;;;;;;;;x
+EVTOPTA76005;Blessed merchants.;;;;;;;;;;;;x;
 EVTNAME76006;Marketplace Built;;;;;;;;;;;;;x
 EVTDESC76006;Inspired by the merchant guild who built a marketplace in a neighbouring province, another guild under our national focus decides to the same.;;;;;;;;;;;;;x
-EVTOPTA76006;How wonderful.;;;;;;;;;;;;x
+EVTOPTA76006;How wonderful.;;;;;;;;;;;;x;
 EVTNAME76007;Marketplace Built;;;;;;;;;;;;;x
 EVTDESC76007;Inspired by the merchant guild who built a marketplace in a neighbouring province, another guild far away from our national focus decides to the same.;;;;;;;;;;;;;x
-EVTOPTA76007;How nice.;;;;;;;;;;;;x
+EVTOPTA76007;How nice.;;;;;;;;;;;;x;
 EVTNAME76008;Inspired Peasants;;;;;;;;;;;;;x
 EVTDESC76008;Inspired by tales of holy warriors of the past, told by local priests, our peasants on their own initiative gathered large sum of gold to help fund our current war.;;;;;;;;;;;;;x
-EVTOPTA76008;Blessed are the poor!;;;;;;;;;;;;x
+EVTOPTA76008;Blessed are the poor!;;;;;;;;;;;;x;
 EVTNAME76009;Local Harvest Fails;;;;;;;;;;;;;x
 EVTDESC76009;The current state of war has bled all able men, and as a result harvest fails in one of our provinces.;;;;;;;;;;;;;x
-EVTOPTA76009;Oh well.;;;;;;;;;;;;x
-EVTOPTB76009;Attempt to fix the situation.;;;;;;;;;;;;x
+EVTOPTA76009;Oh well.;;;;;;;;;;;;x;
+EVTOPTB76009;Attempt to fix the situation.;;;;;;;;;;;;x;
 EVTNAME76010;Excellent Agriculture;;;;;;;;;;;;;x
 EVTDESC76010;Local merchants in one of our provinces have managed to improve agriculture so much that their trade income has attracted merchants from all over our country. Extra trade is also brining extra profits.;;;;;;;;;;;;;x
-EVTOPTA76010;Mmmm money.;;;;;;;;;;;;x
+EVTOPTA76010;Mmmm money.;;;;;;;;;;;;x;
 good_local_harvest;Excellent Local Harvest;;;;;;;;;;;;;x
 desc_good_local_harvest;Excellent local harvest.;;;;;;;;;;;;;x
 grain_export_boom;Grain Export Expands;;;;;;;;;;;;;x
@@ -3185,80 +3185,80 @@ local_harvest_fails;Local Harvest Fails;;;;;;;;;;;;;x
 desc_local_harvest_fails;Local harvest fails.;;;;;;;;;;;;;x
 EVTNAME95000;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95000;Lack of accurate maps and recognized country borders has created an opportunity for us to fabricate a claim on a piece of land inhabited by people with strong cultural ties to us, currently owned by our neighbour. Doing so will hurt the diplomatic relations, but on the other hand, claiming new land will make us more powerful. What should we do?;;;;;;;;;;;;;x
-EVTOPTA95000;Press claim, of course.;;;;;;;;;;;;x
-EVTOPTB95000;Settle issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95000;Press claim, of course.;;;;;;;;;;;;x;
+EVTOPTB95000;Settle issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95001;Cultural Dispute;;;;;;;;;;;;;x
 EVTDESC95001;Our loyal advisers tell us that we may attempt to lay claims to a province inhabited by people of simlar cultural customs to our own. Aparently, our dominion over their land is more preferable to that of a foreign ruler with strange customs and different traditions. What should we do?;;;;;;;;;;;;;x
-EVTOPTA95001;Press claim, liberate "our" people.;;;;;;;;;;;;x
-EVTOPTB95001;Settle issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95001;"Press claim, liberate ""our"" people.";;;;;;;;;;;;x;
+EVTOPTB95001;Settle issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95002;Cultural Dispute;;;;;;;;;;;;;x
 EVTDESC95002;Our loyal advisers tell us that we may attempt to lay claims to a province inhabited by our people currently held by a ruler of similar cultural traditions. How should we procede?;;;;;;;;;;;;;x
-EVTOPTA95002;Press claim, free our people!;;;;;;;;;;;;x
-EVTOPTB95002;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95002;Press claim, free our people!;;;;;;;;;;;;x;
+EVTOPTB95002;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95003;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95003;We now have the opportunity to claim a province held by one of our culturally close but weaker neighbours. Attempting to unite our culture under rule of one state could be seen as threat by courts both near - and far away from us. What should we do?;;;;;;;;;;;;;x
-EVTOPTA95003;Press claim, unite our people!;;;;;;;;;;;;x
-EVTOPTB95003;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95003;Press claim, unite our people!;;;;;;;;;;;;x;
+EVTOPTB95003;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95004;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95004;Our nobles inform us that our neighbouring ruler is a person barely worth the title and position, incapable of inspiring loyalty even in those closest around them. This situation could be siezed as an opportunity to fabricate claim on their land and unite both lands under our rule once and for all. What should we do?;;;;;;;;;;;;;x
-EVTOPTA95004;Scheme our way into their court.;;;;;;;;;;;;x
-EVTOPTB95004;We should respect their independence.;;;;;;;;;;;;x
+EVTOPTA95004;Scheme our way into their court.;;;;;;;;;;;;x;
+EVTOPTB95004;We should respect their independence.;;;;;;;;;;;;x;
 EVTNAME95005;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95005;Our loyal advisers inform us that one of the neighbouring rulers is suffering from a very low reputation due to their hostile and aggressive policies toward their neighbour. Because of our excellent foreign diplomacy, we could press claim on their land, and nobody would really mind. Should we do it?;;;;;;;;;;;;;x
-EVTOPTA95005;Naturally.;;;;;;;;;;;;x
-EVTOPTB95005;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95005;Naturally.;;;;;;;;;;;;x;
+EVTOPTB95005;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95006;Legitimacy Dispute;;;;;;;;;;;;;x
 EVTDESC95006;One of our noble neighbours is suffering from a rather low ruler's legitimacy, deteriorated most likely as result of recent wars and court scheming. In any case, this is an opportunity for us to press claim on their land, one that nobody could dispute. Should we do it?;;;;;;;;;;;;;x
-EVTOPTA95006;Of course.;;;;;;;;;;;;x
-EVTOPTB95006;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95006;Of course.;;;;;;;;;;;;x;
+EVTOPTB95006;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95007;Legitimacy Dispute;;;;;;;;;;;;;x
 EVTDESC95007;One of our noble neighbours is suffering from a rather low ruler's legitimacy, deteriorated as result of disasterious ongoing wars. This is seen, by many, as an opportunity for us to press claim on their land, one that nobody could dispute. Should we do it?;;;;;;;;;;;;;x
-EVTOPTA95007;Of course.;;;;;;;;;;;;x
-EVTOPTB95007;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95007;Of course.;;;;;;;;;;;;x;
+EVTOPTB95007;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95008;Prestigeous Dispute;;;;;;;;;;;;;x
 EVTDESC95008;One of our rival neighbours is suffering from a rather low state prestige, which is causing other foreign powers around us, as well many within their own state, to think less of their government every day. Should we attemt to press a claim their land?;;;;;;;;;;;;;x
-EVTOPTA95008;Of course.;;;;;;;;;;;;x
-EVTOPTB95008;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95008;Of course.;;;;;;;;;;;;x;
+EVTOPTB95008;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95009;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95009;One of our rival neighbours is suffering from low state stability. Should we press claim on their land?;;;;;;;;;;;;;x
-EVTOPTA95009;Of course.;;;;;;;;;;;;x
-EVTOPTB95009;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95009;Of course.;;;;;;;;;;;;x;
+EVTOPTB95009;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95010;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95010;One of our rival neighbours is suffering from horrible war losing one battle after another. Some are suggesting that we take this opportunity and clam their land. Should we do it?;;;;;;;;;;;;;x
-EVTOPTA95010;Naturally.;;;;;;;;;;;;x
-EVTOPTB95010;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95010;Naturally.;;;;;;;;;;;;x;
+EVTOPTB95010;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95011;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95011;One of our rival neighbours is suffering from horrible war losing one battle after another. Some are suggesting that we take this opportunity and clam their land. Should we do it?;;;;;;;;;;;;;x
-EVTOPTA95011;Naturally.;;;;;;;;;;;;x
-EVTOPTB95011;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95011;Naturally.;;;;;;;;;;;;x;
+EVTOPTB95011;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95012;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95012;One of our rival neighbours is suffering from horrible war losing one battle after another. Some are suggesting that we take this opportunity and clam their land. Should we do it?;;;;;;;;;;;;;x
-EVTOPTA95012;Naturally.;;;;;;;;;;;;x
-EVTOPTB95012;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95012;Naturally.;;;;;;;;;;;;x;
+EVTOPTB95012;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95013;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95013;Warriors from a foreign Knightly Order have conquered lands inhabited by our people. There are many, both here at home and abroad, who say we should make claim to these lands, and liberate our people from the foreign rule. However, these Knights are a serious fighting force, one that should not be taken lightly. What should we do?;;;;;;;;;;;;;x
-EVTOPTA95013;We must set our people free!;;;;;;;;;;;;x
-EVTOPTB95013;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95013;We must set our people free!;;;;;;;;;;;;x;
+EVTOPTB95013;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95014;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95014;Warriors from a foreign Knightly Order have conquered lands inhabited by people culturally close to our own. It is rumoured that if we were to press a claim on their land, their nobility as well as peasants, would support it. Aparently they would all prefer our rule to that of the foreigners. How should we procede?;;;;;;;;;;;;;x
-EVTOPTA95014;Press the claim!;;;;;;;;;;;;x
-EVTOPTB95014;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95014;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB95014;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95015;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95015;One of our neighbours is suffering from weak government, horrible administration and a total lack of political vision. Should we take an advantage of this situation and make a claim on their lands, surely in this state of apathy, nobody could deny us?;;;;;;;;;;;;;x
-EVTOPTA95015;Press the claim!;;;;;;;;;;;;x
-EVTOPTB95015;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95015;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB95015;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95016;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95016;One of our neighbours is suffering from weak government, horrible administration and a total lack of political vision. Should we take an advantage of this situation and make a claim on their lands, surely in this state of apathy, nobody could deny us?;;;;;;;;;;;;;x
-EVTOPTA95016;Press the claim!;;;;;;;;;;;;x
-EVTOPTB95016;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95016;Press the claim!;;;;;;;;;;;;x;
+EVTOPTB95016;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95017;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95017;Claiming to have been led by Divine Intervention, our Marshall managed to forge certain documents and maps that would allow us to claim land owned by one of our rivals with very little respect for religious matters. Should we make these documents public?;;;;;;;;;;;;;x
-EVTOPTA95017;Deus Lo Vut!;;;;;;;;;;;;x
-EVTOPTB95017;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95017;Deus Lo Vut!;;;;;;;;;;;;x;
+EVTOPTB95017;Settle this issue diplomatically.;;;;;;;;;;;;x;
 EVTNAME95018;Boundary Dispute;;;;;;;;;;;;;x
 EVTDESC95018;One of our neighbours is suffering from failing administration. Their country is falling apart, as most institutions are slowly slipping away from their control. If we were to press our claim now, there would be no one left in their country strong enough to oppose us. Should we do this?;;;;;;;;;;;;;x
-EVTOPTA95018;Wolf does not make peace with sheep!;;;;;;;;;;;;x
-EVTOPTB95018;Settle this issue diplomatically.;;;;;;;;;;;;x
+EVTOPTA95018;Wolf does not make peace with sheep!;;;;;;;;;;;;x;
+EVTOPTB95018;Settle this issue diplomatically.;;;;;;;;;;;;x;
 failing_administration;Failing Administration;;;;;;;;;;;;;x
 desc_failing_administration;Failing administration.;;;;;;;;;;;;;x
 failing_wards_and_liveries;Failing Wards and Liveries;;;;;;;;;;;;;x
@@ -3313,81 +3313,81 @@ russia_pays_tribute;Russia Subjugated;;;;;;;;;;;;;x
 desc_russia_pays_tribute;Russia subjugated.;;;;;;;;;;;;;x
 EVTNAME81000;Time of Troubles;;;;;;;;;;;;;x
 EVTDESC81000;Beginning in $YEAR$, $COUNTRY$ faced almost a decade of utter chaos slowly consuming the country from within and bringing it to the verge of collapse. Our nation is struggling both socially and economically as famine and war plague our nation and the growing opposition against the aristocracy and church has resulted in a series of rebellions and assassination attempts against the monarch.;;;;;;;;;;;;;x
-EVTOPTA81000;Dire times are ahead of us!;;;;;;;;;;;;x
+EVTOPTA81000;Dire times are ahead of us!;;;;;;;;;;;;x;
 EVTNAME81001;Powerful Noble;;;;;;;;;;;;;x
 EVTDESC81001;A powerful nobled had siezed lands that rightfully belong to the Church. This act happened without serious consequences during or immediately after, however some are concerned about noble's boldness.;;;;;;;;;;;;;x
-EVTOPTA81001;Jackals and thieves!;;;;;;;;;;;;x
+EVTOPTA81001;Jackals and thieves!;;;;;;;;;;;;x;
 EVTNAME81002;Church Demands Protection;;;;;;;;;;;;;x
 EVTDESC81002;Feeling threatened by the increasing state instability, our Church asks us for protection against further trespasses against its clergy as well as property.;;;;;;;;;;;;;x
-EVTOPTA81002;Make public commitments.;;;;;;;;;;;;x
-EVTOPTB81002;Let the hooded fools fend for themselves!;;;;;;;;;;;;x
+EVTOPTA81002;Make public commitments.;;;;;;;;;;;;x;
+EVTOPTB81002;Let the hooded fools fend for themselves!;;;;;;;;;;;;x;
 EVTNAME81003;Church Denounces Ruler;;;;;;;;;;;;;x
 EVTDESC81003;Having refused to protect the Church, we have incurred wrath of the God's representatives on Earth. As a result our legitimacy to the throne is severely shaken.;;;;;;;;;;;;;x
-EVTOPTA81003;Cursed priests!;;;;;;;;;;;;x
+EVTOPTA81003;Cursed priests!;;;;;;;;;;;;x;
 EVTNAME81004;Church Denounces Ruler;;;;;;;;;;;;;x
 EVTDESC81004;Having refused to protect the Church, we have incurred wrath of the God almighty! Priests are spreading rumors about horrors of hell that awaits all those who oppose the will of the Church!;;;;;;;;;;;;;x
-EVTOPTA81004;Stop them!;;;;;;;;;;;;x
+EVTOPTA81004;Stop them!;;;;;;;;;;;;x;
 EVTNAME81005;Church Incite Rebellion;;;;;;;;;;;;;x
 EVTDESC81005;Having refused to protect the Church, we have incurred wrath of the clergy. Zealous prechers have persuaded people in one of our provinces to take arms against our most serene government!;;;;;;;;;;;;;x
-EVTOPTA81005;Blasphemy!;;;;;;;;;;;;x
+EVTOPTA81005;Blasphemy!;;;;;;;;;;;;x;
 EVTNAME81006;Church Incite Rebellion;;;;;;;;;;;;;x
 EVTDESC81006;Having refused to protect the Church, we have incurred wrath of the entire clergy as well as many of our nobles, some of whome hold critical posts in our government. Inspired by zealous preachers, many have taken arms against us, in what is quickly turning into a Holy War against the state!;;;;;;;;;;;;;x
-EVTOPTA81006;Doh!;;;;;;;;;;;;x
+EVTOPTA81006;Doh!;;;;;;;;;;;;x;
 EVTNAME81007;Church Incite Rebellion;;;;;;;;;;;;;x
 EVTDESC81007;Having refused to protect the Church, we have incurred wrath of the entire clergy as well as many of our nobles, some of whome hold critical posts in our government. Inspired by zealous preachers, many have taken arms against us, in what is quickly turning into a Holy War against the state!;;;;;;;;;;;;;x
-EVTOPTA81007;Oh damnit!;;;;;;;;;;;;x
+EVTOPTA81007;Oh damnit!;;;;;;;;;;;;x;
 EVTNAME81008;Church Incite Rebellion;;;;;;;;;;;;;x
 EVTDESC81008;Having refused to protect the Church, we have incurred wrath of the entire clergy as well as many of our nobles, some of whome hold critical posts in our government. Inspired by zealous preachers, many have taken arms against us, in what is quickly turning into a Holy War against the state!;;;;;;;;;;;;;x
-EVTOPTA81008;Damn fools!;;;;;;;;;;;;x
+EVTOPTA81008;Damn fools!;;;;;;;;;;;;x;
 EVTNAME81009;Nobles Support the Government;;;;;;;;;;;;;x
 EVTDESC81009;Having refused to protect the Church, we have secured support of many nobles!;;;;;;;;;;;;;x
-EVTOPTA81009;How nice.;;;;;;;;;;;;x
+EVTOPTA81009;How nice.;;;;;;;;;;;;x;
 EVTNAME81010;Nobles Collect Donation;;;;;;;;;;;;;x
 EVTDESC81010;Having refused to protect the Church, we have secured support of nobility. As a token of gratitude, they have collected a generous donation that would help us fight all those who oppose our wisdom!;;;;;;;;;;;;;x
-EVTOPTA81010;Thank them.;;;;;;;;;;;;x
+EVTOPTA81010;Thank them.;;;;;;;;;;;;x;
 EVTNAME81011;Right to Rule?;;;;;;;;;;;;;x
 EVTDESC81011;Suffering from conflicts, both internal and external, many are questioning the current dynasty's right to rule.;;;;;;;;;;;;;x
-EVTOPTA81011;Silly fools!;;;;;;;;;;;;x
+EVTOPTA81011;Silly fools!;;;;;;;;;;;;x;
 EVTNAME81012;Fit to Rule?;;;;;;;;;;;;;x
 EVTDESC81012;As a result of current state instability, there are some who question weather our liege is fit to rule.;;;;;;;;;;;;;x
-EVTOPTA81012;Ouch.;;;;;;;;;;;;x
+EVTOPTA81012;Ouch.;;;;;;;;;;;;x;
 EVTNAME81013;Monarchy? What's the Point?;;;;;;;;;;;;;x
 EVTDESC81013;We are informed about nasty whispers circulating the court: aparently some nobles are questioning the very purpose of monarchy! Who could possibly be so blind, to be willing to entrust the future of our people - to our people... Trully such a notion is a complete nonsens!;;;;;;;;;;;;;x
-EVTOPTA81013;Agreed.;;;;;;;;;;;;x
+EVTOPTA81013;Agreed.;;;;;;;;;;;;x;
 EVTNAME81014;Diplomatic Insult;;;;;;;;;;;;;x
 EVTDESC81014;Encouraged by our current weakness, a rivaling ruler makes a nasty remark on behalf of our noble liege.;;;;;;;;;;;;;x
-EVTOPTA81014;Outrageous!;;;;;;;;;;;;x
+EVTOPTA81014;Outrageous!;;;;;;;;;;;;x;
 EVTNAME81015;Diplomatic Insult;;;;;;;;;;;;;x
 EVTDESC81015;A neighbouring ruler refused to negotiate with our envoys on a routine diplomatic mission. Us being unable to respond is seen as a sign of weakness.;;;;;;;;;;;;;x
-EVTOPTA81015;Outrageous!;;;;;;;;;;;;x
+EVTOPTA81015;Outrageous!;;;;;;;;;;;;x;
 EVTNAME83000;Foreign Relations;;;;;;;;;;;;;x
 EVTDESC83000;Vicious rumors abour our royal family spread to another court via royal marriage.;;;;;;;;;;;;;x
-EVTOPTA83000;Lies!;;;;;;;;;;;;x
+EVTOPTA83000;Lies!;;;;;;;;;;;;x;
 EVTNAME83001;Foreign Relations;;;;;;;;;;;;;x
 EVTDESC83001;Vicious rumors abour our royal family spread to another court by the travelling nobles.;;;;;;;;;;;;;x
-EVTOPTA83001;Bad news.;;;;;;;;;;;;x
+EVTOPTA83001;Bad news.;;;;;;;;;;;;x;
 EVTNAME83002;Papal Relations;;;;;;;;;;;;;x
 EVTDESC83002;Vicious rumors abour our royal family reach the Holy See. It seems, Pope is disappointed in us.;;;;;;;;;;;;;x
-EVTOPTA83002;Bad news.;;;;;;;;;;;;x
+EVTOPTA83002;Bad news.;;;;;;;;;;;;x;
 EVTNAME83003;Adviser Resigns;;;;;;;;;;;;;x
 EVTDESC83003;One of our loyal advisers resigned his office today. We believe those vicious rumors against our most noble royal family, is the reason for this sudden act.;;;;;;;;;;;;;x
-EVTOPTA83003;Bad news.;;;;;;;;;;;;x
-EVTOPTB83003;Hell no, he doesn't.;;;;;;;;;;;;x
+EVTOPTA83003;Bad news.;;;;;;;;;;;;x;
+EVTOPTB83003;Hell no, he doesn't.;;;;;;;;;;;;x;
 EVTNAME83004;Coup D'eta;;;;;;;;;;;;;x
 EVTDESC83004;One of our loyal advisers attempted to organize and lead a coup! Thank heavens they only got to the palace gate where our brave guardsmen cut them to pieces. Nevertheless, this was a huge blow on our authority.;;;;;;;;;;;;;x
-EVTOPTA83004;Bad news.;;;;;;;;;;;;x
+EVTOPTA83004;Bad news.;;;;;;;;;;;;x;
 EVTNAME83005;Heir Discredited;;;;;;;;;;;;;x
 EVTDESC83005;Stories appear raising questions about our heir's moral integrity and virtue, making their rightful claim to the throne seem weaker than it is.;;;;;;;;;;;;;x
-EVTOPTA83005;Horrible.;;;;;;;;;;;;x
+EVTOPTA83005;Horrible.;;;;;;;;;;;;x;
 EVTNAME83006;Moral Integrity;;;;;;;;;;;;;x
 EVTDESC83006;A Bishop, former friend of our liege and ruler of a friendly theocracy has denounced us. Aparently he was deeply disappointed in our moral integrity, all because of these vicious rumors.;;;;;;;;;;;;;x
-EVTOPTA83006;True friends are hard to find.;;;;;;;;;;;;x
+EVTOPTA83006;True friends are hard to find.;;;;;;;;;;;;x;
 EVTNAME83007;Coup Succeds;;;;;;;;;;;;;x
 EVTDESC83007;A group of conspirators led a successful palace coup. The former ruler was cought in bedchaimber on sleep, and was quickly put to death. This will have severe consequences both on internal and external level.;;;;;;;;;;;;;x
-EVTOPTA83007;It's an evil world.;;;;;;;;;;;;x
+EVTOPTA83007;It's an evil world.;;;;;;;;;;;;x;
 EVTNAME83008;Heir Assassinated;;;;;;;;;;;;;x
 EVTDESC83008;A group of conspirators have managed to assassinate our favorite heir! They were all caught and executed immediately after their dark deed, however the damage is done. We are officially in state of mourning until the next heir is appointed.;;;;;;;;;;;;;x
-EVTOPTA83008;Monsters!;;;;;;;;;;;;x
+EVTOPTA83008;Monsters!;;;;;;;;;;;;x;
 turkmenistan;Turkmenistan;;;;;;;;;;;;;x
 uzbekhistan;Uzbekhistan;;;;;;;;;;;;;x
 MZN;Ìàçåíäåðàí;;;;;;;;;;;;;x
@@ -3403,457 +3403,457 @@ form_turkestan_nation_title;Form Turkestan Nation;;;;;;;;;;;;;x
 form_turkestan_nation_desc;Unite various Turkic tribes into a single, powerful nation.;;;;;;;;;;;;;x
 EVTNAME81017;Heir Assassinated;;;;;;;;;;;;;x
 EVTDESC81017;Our beloved heir was assassinated, to make things even worse, we have no idea who do it!;;;;;;;;;;;;;x
-EVTOPTA81017;Mourn the loss.;;;;;;;;;;;;x
+EVTOPTA81017;Mourn the loss.;;;;;;;;;;;;x;
 EVTNAME81018;Heir Assassinated;;;;;;;;;;;;;x
 EVTDESC81018;Our beloved heir was assassinated, to make things even worse the culprits have escaped!;;;;;;;;;;;;;x
-EVTOPTA81018;Hunt them down!;;;;;;;;;;;;x
+EVTOPTA81018;Hunt them down!;;;;;;;;;;;;x;
 EVTNAME81019;Heir Assassinated;;;;;;;;;;;;;x
 EVTDESC81019;Our most noble and curageous heir was assassinated! As he was leading troops through a narrow valley, his colum got ambushed by cowardly assassins.;;;;;;;;;;;;;x
-EVTOPTA81019;Horrible, just horrible!;;;;;;;;;;;;x
+EVTOPTA81019;Horrible, just horrible!;;;;;;;;;;;;x;
 EVTNAME81020;Ruler Blackmailed;;;;;;;;;;;;;x
 EVTDESC81020;Members of the royal family are demanding that we lower the crown authority granting them more power, or they will refuse to recognize our heir!;;;;;;;;;;;;;x
-EVTOPTA81020;Accept their demands.;;;;;;;;;;;;x
-EVTOPTB81020;Hell no!;;;;;;;;;;;;x
+EVTOPTA81020;Accept their demands.;;;;;;;;;;;;x;
+EVTOPTB81020;Hell no!;;;;;;;;;;;;x;
 EVTNAME81021;Heir Discredited;;;;;;;;;;;;;x
 EVTDESC81021;An elder member of our royal faimily has denounced the current heir as rightful claimant to the throne!;;;;;;;;;;;;;x
-EVTOPTA81021;Ignore th...;;;;;;;;;;;;x
+EVTOPTA81021;Ignore th...;;;;;;;;;;;;x;
 EVTNAME81022;Public Humiliation;;;;;;;;;;;;;x
 EVTDESC81022;On a public meeting between lower nobles and powerful merchants, our heir has managed to forget parts of important ceremony, causing many to laugh at their lack of princely manners.;;;;;;;;;;;;;x
-EVTOPTA81022;Hopefully this will be a lesson.;;;;;;;;;;;;x
+EVTOPTA81022;Hopefully this will be a lesson.;;;;;;;;;;;;x;
 EVTNAME81023;Like Father Like Son?;;;;;;;;;;;;;x
 EVTDESC81023;Due to our ruler's lack of complete and unquestionable legitimacy to rule, which is seen as a sign of disrespect of customs by the traditionalists, many wonder if the current heir to the throne will be just the same.;;;;;;;;;;;;;x
-EVTOPTA81023;Only time will tell.;;;;;;;;;;;;x
+EVTOPTA81023;Only time will tell.;;;;;;;;;;;;x;
 EVTNAME81024;Uprising;;;;;;;;;;;;;x
 EVTDESC81024;Fed up with bad government policies and our ruler's current lack of legitimacy, people in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81024;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81024;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81025;Uprising;;;;;;;;;;;;;x
 EVTDESC81025;Fed up with bad government policies and current instability caused by Time of Troubles, people in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81025;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81025;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81026;Uprising;;;;;;;;;;;;;x
 EVTDESC81026;Fed up with bad government policies and current state of war, people in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81026;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81026;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81027;Uprising;;;;;;;;;;;;;x
 EVTDESC81027;Fed up with our ruler's inability to govern the lands, people in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81027;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81027;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81028;Uprising;;;;;;;;;;;;;x
 EVTDESC81028;Fed up with our ruler's inability to govern the lands, people in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81028;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81028;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81029;Uprising;;;;;;;;;;;;;x
 EVTDESC81029;Fed up with our ruler's inability to govern the lands, people in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81029;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81029;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81030;Peasant Uprising;;;;;;;;;;;;;x
 EVTDESC81030;Fed up with harsh living conditions, as well as heavy burden caused by serfdom policies of our state, peasants in one of our provinces have taken arms against us.;;;;;;;;;;;;;x
-EVTOPTA81030;We will crush them.;;;;;;;;;;;;x
+EVTOPTA81030;We will crush them.;;;;;;;;;;;;x;
 EVTNAME81031;Stability Returns;;;;;;;;;;;;;x
 EVTDESC81031;Finally, under brilliant administrative guideance of our most capable ruler, the infamous Time of Troubles is over.;;;;;;;;;;;;;x
-EVTOPTA81031;It was about time...;;;;;;;;;;;;x
+EVTOPTA81031;It was about time...;;;;;;;;;;;;x;
 EVTNAME81032;Stability Returns;;;;;;;;;;;;;x
 EVTDESC81032;Finally, under brilliant military guideance, as well as huge military success of our glorious armies, the infamous Time of Troubles is over.;;;;;;;;;;;;;x
-EVTOPTA81032;Not a moment too soon.;;;;;;;;;;;;x
+EVTOPTA81032;Not a moment too soon.;;;;;;;;;;;;x;
 EVTNAME79000;True Virtue;;;;;;;;;;;;;x
-EVTDESC79000;A monk, living outside the city gates, in very humble conditions, becomes famous, and a great source of inspiration for our people.;;;;;;;;;;;;x
-EVTOPTA79000;Real values are hard to find these days.;;;;;;;;;;;;x
+EVTDESC79000;A monk, living outside the city gates, in very humble conditions, becomes famous, and a great source of inspiration for our people.;;;;;;;;;;;;x;
+EVTOPTA79000;Real values are hard to find these days.;;;;;;;;;;;;x;
 EVTNAME79001;Virtous Monk;;;;;;;;;;;;;x
-EVTDESC79001;In his speaches to the masses, our Virtous Monk praises the gvernment's efforts to rule people in God's name.;;;;;;;;;;;;x
-EVTOPTA79001;How sweet.;;;;;;;;;;;;x
+EVTDESC79001;In his speaches to the masses, our Virtous Monk praises the gvernment's efforts to rule people in God's name.;;;;;;;;;;;;x;
+EVTOPTA79001;How sweet.;;;;;;;;;;;;x;
 EVTNAME79002;Virtous Monk;;;;;;;;;;;;;x
-EVTDESC79002;In his speaches to the masses, our Virtous Monk praises the our most noble war efforts and glorious efforts of our heroes whi fight to protect the Church and State.;;;;;;;;;;;;x
-EVTOPTA79002;A gift from God.;;;;;;;;;;;;x
+EVTDESC79002;In his speaches to the masses, our Virtous Monk praises the our most noble war efforts and glorious efforts of our heroes whi fight to protect the Church and State.;;;;;;;;;;;;x;
+EVTOPTA79002;A gift from God.;;;;;;;;;;;;x;
 EVTNAME79003;Virtous Monk;;;;;;;;;;;;;x
-EVTDESC79003;In his speaches to the masses, our Virtous Monk persuades the people of all clases to make personal sacriface in the name of God, and donate as much money as they can, to help the state fight its wars. The sum of gold, silver and other gifts collected shocked everyone.;;;;;;;;;;;;x
-EVTOPTA79003;A gift from God.;;;;;;;;;;;;x
+EVTDESC79003;In his speaches to the masses, our Virtous Monk persuades the people of all clases to make personal sacriface in the name of God, and donate as much money as they can, to help the state fight its wars. The sum of gold, silver and other gifts collected shocked everyone.;;;;;;;;;;;;x;
+EVTOPTA79003;A gift from God.;;;;;;;;;;;;x;
 EVTNAME79062;Virtous Monk;;;;;;;;;;;;;x
-EVTDESC79062;In his speaches to the masses, our Virtous Monk spoke of the ruler's Dive Right to rule the lands.;;;;;;;;;;;;x
-EVTOPTA79062;A gift from God.;;;;;;;;;;;;x
+EVTDESC79062;In his speaches to the masses, our Virtous Monk spoke of the ruler's Dive Right to rule the lands.;;;;;;;;;;;;x;
+EVTOPTA79062;A gift from God.;;;;;;;;;;;;x;
 EVTNAME79004;Virtous Ruler;;;;;;;;;;;;;x
-EVTDESC79004;During a service, our Patriarch spoke of the ruler's most virtous character.;;;;;;;;;;;;x
-EVTOPTA79004;What would we do without Church.;;;;;;;;;;;;x
+EVTDESC79004;During a service, our Patriarch spoke of the ruler's most virtous character.;;;;;;;;;;;;x;
+EVTOPTA79004;What would we do without Church.;;;;;;;;;;;;x;
 EVTNAME79005;Patriarch Falls Ill;;;;;;;;;;;;;x
-EVTDESC79005;We have just received word that our beloved Patriarch has fallen ill.;;;;;;;;;;;;x
-EVTOPTA79005;We will pray for his health.;;;;;;;;;;;;x
+EVTDESC79005;We have just received word that our beloved Patriarch has fallen ill.;;;;;;;;;;;;x;
+EVTOPTA79005;We will pray for his health.;;;;;;;;;;;;x;
 EVTNAME79006;Patriarch Dies;;;;;;;;;;;;;x
-EVTDESC79006;Our entire country is in the state of shock. Our beloved Patriarch, who had recently taken ill, dies. All public celebrations and ceremonies have been canceled, all Russian people are mourning.;;;;;;;;;;;;x
-EVTOPTA79006;Me he rest in peace.;;;;;;;;;;;;x
+EVTDESC79006;Our entire country is in the state of shock. Our beloved Patriarch, who had recently taken ill, dies. All public celebrations and ceremonies have been canceled, all Russian people are mourning.;;;;;;;;;;;;x;
+EVTOPTA79006;Me he rest in peace.;;;;;;;;;;;;x;
 EVTNAME79007;More Power to the Church;;;;;;;;;;;;;x
-EVTDESC79007;Disatisfied by our state's utter lack of understanding and appreciation of the traditional ways of our people, Patriarch publically demanded more power for the Church.;;;;;;;;;;;;x
-EVTOPTA79007;We shall obey.;;;;;;;;;;;;x
-EVTOPTB79007;God is God, state is state.;;;;;;;;;;;;x
+EVTDESC79007;Disatisfied by our state's utter lack of understanding and appreciation of the traditional ways of our people, Patriarch publically demanded more power for the Church.;;;;;;;;;;;;x;
+EVTOPTA79007;We shall obey.;;;;;;;;;;;;x;
+EVTOPTB79007;God is God, state is state.;;;;;;;;;;;;x;
 EVTNAME79008;Submission to Constantinople;;;;;;;;;;;;;x
-EVTDESC79008;We have received envoys from the Most Holiest City of Cities, Constantinople, carrying letter from the Patriarch, who demands our submission to his authority, as well as certain political rights inside our domain.;;;;;;;;;;;;x
-EVTOPTA79008;Submit and send gifts.;;;;;;;;;;;;x
-EVTOPTB79008;Remind the Greek that he is far away.;;;;;;;;;;;;x
+EVTDESC79008;We have received envoys from the Most Holiest City of Cities, Constantinople, carrying letter from the Patriarch, who demands our submission to his authority, as well as certain political rights inside our domain.;;;;;;;;;;;;x;
+EVTOPTA79008;Submit and send gifts.;;;;;;;;;;;;x;
+EVTOPTB79008;Remind the Greek that he is far away.;;;;;;;;;;;;x;
 EVTNAME79009;A Great Man From Constantinople;;;;;;;;;;;;;x
-EVTDESC79009;A man of great skill and renown arrived from Constantinople.;;;;;;;;;;;;x
-EVTOPTA79009;We enjy Greek Drama so much.;;;;;;;;;;;;x
+EVTDESC79009;A man of great skill and renown arrived from Constantinople.;;;;;;;;;;;;x;
+EVTOPTA79009;We enjy Greek Drama so much.;;;;;;;;;;;;x;
 EVTNAME79010;Constantinople Falls!;;;;;;;;;;;;;x
-EVTDESC79010;Constantinople, the holiest place of Orthodox Christians is now in our hands. This will cause great upheval all across the Christendom weaking them in every way.;;;;;;;;;;;;x
-EVTOPTA79010;Good.;;;;;;;;;;;;x
+EVTDESC79010;Constantinople, the holiest place of Orthodox Christians is now in our hands. This will cause great upheval all across the Christendom weaking them in every way.;;;;;;;;;;;;x;
+EVTOPTA79010;Good.;;;;;;;;;;;;x;
 EVTNAME79063;Constantinople Falls!;;;;;;;;;;;;;x
-EVTDESC79063;Whole Christendom - and specially the Orthodox Christians - stand still in shock as they receive news that the most holiest place on Earth after Jerusalem - Constantinople - a city of Constantine the Great falls into the hands of conquerors and unbelievers!;;;;;;;;;;;;x
-EVTOPTA79063;God help us.;;;;;;;;;;;;x
+EVTDESC79063;Whole Christendom - and specially the Orthodox Christians - stand still in shock as they receive news that the most holiest place on Earth after Jerusalem - Constantinople - a city of Constantine the Great falls into the hands of conquerors and unbelievers!;;;;;;;;;;;;x;
+EVTOPTA79063;God help us.;;;;;;;;;;;;x;
 EVTNAME79011;First Orthodox Bible Printed;;;;;;;;;;;;;x
-EVTDESC79011;A great achievement! The first Orthodox Bible is printed, which will bring great prestige to our people.;;;;;;;;;;;;x
-EVTOPTA79011;Wonderful.;;;;;;;;;;;;x
+EVTDESC79011;A great achievement! The first Orthodox Bible is printed, which will bring great prestige to our people.;;;;;;;;;;;;x;
+EVTOPTA79011;Wonderful.;;;;;;;;;;;;x;
 EVTNAME79012;Boyars Demand Old Laws;;;;;;;;;;;;;x
-EVTDESC79012;Boyars demand that we adjust our state's serfdom policies more in lign of the more traditional times.;;;;;;;;;;;;x
-EVTOPTA79012;We have no choice but to accept.;;;;;;;;;;;;x
-EVTOPTB79012;I rule this state, not some bearded men!;;;;;;;;;;;;x
+EVTDESC79012;Boyars demand that we adjust our state's serfdom policies more in lign of the more traditional times.;;;;;;;;;;;;x;
+EVTOPTA79012;We have no choice but to accept.;;;;;;;;;;;;x;
+EVTOPTB79012;I rule this state, not some bearded men!;;;;;;;;;;;;x;
 EVTNAME79013;Boyars Demand Old Laws;;;;;;;;;;;;;x
-EVTDESC79013;Boyars are disatisfied with our increasing centralized policies. They speak of the old times when they had all the power and demand that we submit to the tradition of our people.;;;;;;;;;;;;x
-EVTOPTA79013;Grant them some conessions.;;;;;;;;;;;;x
-EVTOPTB79013;I rule this state, not some bearded men!;;;;;;;;;;;;x
+EVTDESC79013;Boyars are disatisfied with our increasing centralized policies. They speak of the old times when they had all the power and demand that we submit to the tradition of our people.;;;;;;;;;;;;x;
+EVTOPTA79013;Grant them some conessions.;;;;;;;;;;;;x;
+EVTOPTB79013;I rule this state, not some bearded men!;;;;;;;;;;;;x;
 EVTNAME79014;Boyars Demand Old Laws;;;;;;;;;;;;;x
-EVTDESC79014;Boyars are disatisfied with our decreasing trust in aristocracy. We are reminded that it preceisly aristocracy that enables us to rule and administer our lands.;;;;;;;;;;;;x
-EVTOPTA79014;Of course, they are right.;;;;;;;;;;;;x
-EVTOPTB79014;I rule this state, not some bearded men!;;;;;;;;;;;;x
+EVTDESC79014;Boyars are disatisfied with our decreasing trust in aristocracy. We are reminded that it preceisly aristocracy that enables us to rule and administer our lands.;;;;;;;;;;;;x;
+EVTOPTA79014;Of course, they are right.;;;;;;;;;;;;x;
+EVTOPTB79014;I rule this state, not some bearded men!;;;;;;;;;;;;x;
 EVTNAME79015;Boyar Trobules;;;;;;;;;;;;;x
-EVTDESC79015;Emboldened by the current state of instability, Boyars manipulate the will of a deceased landowner and divide the land and property among themselves.;;;;;;;;;;;;x
-EVTOPTA79015;Let them, what do i care.;;;;;;;;;;;;x
-EVTOPTB79015;Put them in line!;;;;;;;;;;;;x
+EVTDESC79015;Emboldened by the current state of instability, Boyars manipulate the will of a deceased landowner and divide the land and property among themselves.;;;;;;;;;;;;x;
+EVTOPTA79015;Let them, what do i care.;;;;;;;;;;;;x;
+EVTOPTB79015;Put them in line!;;;;;;;;;;;;x;
 EVTNAME79016;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79016;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79016;Finally something good.;;;;;;;;;;;;x
+EVTDESC79016;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79016;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79017;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79017;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79017;Finally something good.;;;;;;;;;;;;x
+EVTDESC79017;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79017;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79018;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79018;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79018;Finally something good.;;;;;;;;;;;;x
+EVTDESC79018;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79018;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79019;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79019;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79019;Finally something good.;;;;;;;;;;;;x
+EVTDESC79019;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79019;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79020;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79020;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79020;Finally something good.;;;;;;;;;;;;x
+EVTDESC79020;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79020;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79021;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79021;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79021;Finally something good.;;;;;;;;;;;;x
+EVTDESC79021;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79021;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79022;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79022;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79022;Finally something good.;;;;;;;;;;;;x
+EVTDESC79022;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79022;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79023;Boyars Support the Ruler;;;;;;;;;;;;;x
-EVTDESC79023;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x
-EVTOPTA79023;Finally something good.;;;;;;;;;;;;x
+EVTDESC79023;As a sign of gratitude for their numerous privileges, our boyars show public support for the current government.;;;;;;;;;;;;x;
+EVTOPTA79023;Finally something good.;;;;;;;;;;;;x;
 EVTNAME79024;Boyars Assassinate the Hier!;;;;;;;;;;;;;x
-EVTDESC79024;Unhappy with our policies, a group of murderous Boyars ambushed and murder our beloved heir.;;;;;;;;;;;;x
-EVTOPTA79024;Tragedy!;;;;;;;;;;;;x
+EVTDESC79024;Unhappy with our policies, a group of murderous Boyars ambushed and murder our beloved heir.;;;;;;;;;;;;x;
+EVTOPTA79024;Tragedy!;;;;;;;;;;;;x;
 EVTNAME79025;Boyars Appoint a new Hier;;;;;;;;;;;;;x
-EVTDESC79025;Because of our inability to produce a legal heir, Boyars choose one themselves.;;;;;;;;;;;;x
-EVTOPTA79025;Excellent, just what we needed!;;;;;;;;;;;;x
-EVTOPTB79025;I'd rather not owe them any favors.;;;;;;;;;;;;x
+EVTDESC79025;Because of our inability to produce a legal heir, Boyars choose one themselves.;;;;;;;;;;;;x;
+EVTOPTA79025;Excellent, just what we needed!;;;;;;;;;;;;x;
+EVTOPTB79025;I'd rather not owe them any favors.;;;;;;;;;;;;x;
 EVTNAME79026;Boyars Demand More Power;;;;;;;;;;;;;x
-EVTDESC79026;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x
-EVTOPTA79026;They have earned it.;;;;;;;;;;;;x
-EVTOPTB79026;To hell with them!.;;;;;;;;;;;;x
+EVTDESC79026;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x;
+EVTOPTA79026;They have earned it.;;;;;;;;;;;;x;
+EVTOPTB79026;To hell with them!.;;;;;;;;;;;;x;
 EVTNAME79027;Boyars Demand More Power;;;;;;;;;;;;;x
-EVTDESC79027;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x
-EVTOPTA79027;They have earned it.;;;;;;;;;;;;x
-EVTOPTB79027;To hell with them!.;;;;;;;;;;;;x
+EVTDESC79027;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x;
+EVTOPTA79027;They have earned it.;;;;;;;;;;;;x;
+EVTOPTB79027;To hell with them!.;;;;;;;;;;;;x;
 EVTNAME79028;Boyars Demand More Power;;;;;;;;;;;;;x
-EVTDESC79028;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x
-EVTOPTA79028;They have earned it.;;;;;;;;;;;;x
-EVTOPTB79028;To hell with them!.;;;;;;;;;;;;x
+EVTDESC79028;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x;
+EVTOPTA79028;They have earned it.;;;;;;;;;;;;x;
+EVTOPTB79028;To hell with them!.;;;;;;;;;;;;x;
 EVTNAME79029;Boyars Demand More Power;;;;;;;;;;;;;x
-EVTDESC79029;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x
-EVTOPTA79029;They have earned it.;;;;;;;;;;;;x
-EVTOPTB79029;To hell with them!.;;;;;;;;;;;;x
+EVTDESC79029;Having helped with last heir appointment, Boyars now demand more power in our government.;;;;;;;;;;;;x;
+EVTOPTA79029;They have earned it.;;;;;;;;;;;;x;
+EVTOPTB79029;To hell with them!.;;;;;;;;;;;;x;
 EVTNAME79030;Diplomatic Insult;;;;;;;;;;;;;x
-EVTDESC79030;A group of Boyars zealously defending our traditions, insulted a western diplomact, which had caused relations between our countries to drop.;;;;;;;;;;;;x
-EVTOPTA79030;Just what we needed.;;;;;;;;;;;;x
+EVTDESC79030;A group of Boyars zealously defending our traditions, insulted a western diplomact, which had caused relations between our countries to drop.;;;;;;;;;;;;x;
+EVTOPTA79030;Just what we needed.;;;;;;;;;;;;x;
 EVTNAME79031;Diplomat Murdered;;;;;;;;;;;;;x
-EVTDESC79031;A group of Boyars zealously defending our traditions, murdered a western diplomat! This was seen as a great act of barbarism, devastating our relations with entire Western world.;;;;;;;;;;;;x
-EVTOPTA79031;Horrible, punish the culprits!;;;;;;;;;;;;x
+EVTDESC79031;A group of Boyars zealously defending our traditions, murdered a western diplomat! This was seen as a great act of barbarism, devastating our relations with entire Western world.;;;;;;;;;;;;x;
+EVTOPTA79031;Horrible, punish the culprits!;;;;;;;;;;;;x;
 EVTNAME79032;Weak Government;;;;;;;;;;;;;x
-EVTDESC79032;Powerful Boyars scheming and medling into all sorts of government business and administration led to Weak Government. This is a very bad thing as many will seek to take advantage of our weakness.;;;;;;;;;;;;x
-EVTOPTA79032;There's just no end with these fools...;;;;;;;;;;;;x
+EVTDESC79032;Powerful Boyars scheming and medling into all sorts of government business and administration led to Weak Government. This is a very bad thing as many will seek to take advantage of our weakness.;;;;;;;;;;;;x;
+EVTOPTA79032;There's just no end with these fools...;;;;;;;;;;;;x;
 EVTNAME79033;Bad Discipline;;;;;;;;;;;;;x
-EVTDESC79033;Powerful Boyars scheming and medling into all sorts of military affairs led to Bad Discipline. Many of our proffessional soldiers and, even more importantly - officers, are resigning from their posts as morale and over-all readyness of the army is devastated.;;;;;;;;;;;;x
-EVTOPTA79033;Boyars...*SIGH*.;;;;;;;;;;;;x
+EVTDESC79033;Powerful Boyars scheming and medling into all sorts of military affairs led to Bad Discipline. Many of our proffessional soldiers and, even more importantly - officers, are resigning from their posts as morale and over-all readyness of the army is devastated.;;;;;;;;;;;;x;
+EVTOPTA79033;Boyars...*SIGH*.;;;;;;;;;;;;x;
 EVTNAME79034;Duma Demands More Power;;;;;;;;;;;;;x
-EVTDESC79034;Boyar Duma demands more power.;;;;;;;;;;;;x
-EVTOPTA79034;Certainly.;;;;;;;;;;;;x
-EVTOPTB79034;Hell no, they already have plenty.;;;;;;;;;;;;x
+EVTDESC79034;Boyar Duma demands more power.;;;;;;;;;;;;x;
+EVTOPTA79034;Certainly.;;;;;;;;;;;;x;
+EVTOPTB79034;Hell no, they already have plenty.;;;;;;;;;;;;x;
 EVTNAME79035;Duma Supports War Efforts;;;;;;;;;;;;;x
-EVTDESC79035;Members of Boyar Duma have spoken publically about support of our war efforts.;;;;;;;;;;;;x
-EVTOPTA79035;Awesome.;;;;;;;;;;;;x
+EVTDESC79035;Members of Boyar Duma have spoken publically about support of our war efforts.;;;;;;;;;;;;x;
+EVTOPTA79035;Awesome.;;;;;;;;;;;;x;
 EVTNAME79036;Duma Supports War Efforts;;;;;;;;;;;;;x
-EVTDESC79036;Members of Boyar Duma have spoken publically about support of our war efforts, leading to national unity.;;;;;;;;;;;;x
-EVTOPTA79036;Great.;;;;;;;;;;;;x
+EVTDESC79036;Members of Boyar Duma have spoken publically about support of our war efforts, leading to national unity.;;;;;;;;;;;;x;
+EVTOPTA79036;Great.;;;;;;;;;;;;x;
 EVTNAME79037;Duma Supports The Government;;;;;;;;;;;;;x
-EVTDESC79037;Boyar Duma have collected sizeable donations from all members that were sent to the state Treasury and put at our disposal. We should take this act as support of our policies and moral integrity.;;;;;;;;;;;;x
-EVTOPTA79037;Thank them.;;;;;;;;;;;;x
+EVTDESC79037;Boyar Duma have collected sizeable donations from all members that were sent to the state Treasury and put at our disposal. We should take this act as support of our policies and moral integrity.;;;;;;;;;;;;x;
+EVTOPTA79037;Thank them.;;;;;;;;;;;;x;
 EVTNAME79038;Duma Supports The Government;;;;;;;;;;;;;x
-EVTDESC79038;Boyar Duma have collected donations in an stonishing amount from all members that were sent to the state Treasury and put at our disposal. We should take this act as support of our policies and moral integrity.;;;;;;;;;;;;x
-EVTOPTA79038;Thank them.;;;;;;;;;;;;x
+EVTDESC79038;Boyar Duma have collected donations in an stonishing amount from all members that were sent to the state Treasury and put at our disposal. We should take this act as support of our policies and moral integrity.;;;;;;;;;;;;x;
+EVTOPTA79038;Thank them.;;;;;;;;;;;;x;
 EVTNAME79039;Duma Supports War Efforts;;;;;;;;;;;;;x
-EVTDESC79039;Members of Boyar Duma have passed various laws and legislations in an attempt to ease the heavy nurdeon of war on our people.;;;;;;;;;;;;x
-EVTOPTA79039;Unsually generous.;;;;;;;;;;;;x
+EVTDESC79039;Members of Boyar Duma have passed various laws and legislations in an attempt to ease the heavy nurdeon of war on our people.;;;;;;;;;;;;x;
+EVTOPTA79039;Unsually generous.;;;;;;;;;;;;x;
 EVTNAME79040;Duma Supports The Government;;;;;;;;;;;;;x
-EVTDESC79040;Boyar Duma have decided to end a legal problem caused by the lack of heir. They have chosen a notable individual from among their ranks, who was legally adopted as part of our ruler's most noble family and automatically appointed as heir.;;;;;;;;;;;;x
-EVTOPTA79040;Unusual, but if it's legal...;;;;;;;;;;;;x
+EVTDESC79040;Boyar Duma have decided to end a legal problem caused by the lack of heir. They have chosen a notable individual from among their ranks, who was legally adopted as part of our ruler's most noble family and automatically appointed as heir.;;;;;;;;;;;;x;
+EVTOPTA79040;Unusual, but if it's legal...;;;;;;;;;;;;x;
 EVTNAME79041;Rebellion;;;;;;;;;;;;;x
-EVTDESC79041;Furious at our refusal to grant them additional powers, Boyar Duma incite a rebellion!;;;;;;;;;;;;x
-EVTOPTA79041;Crush them.;;;;;;;;;;;;x
+EVTDESC79041;Furious at our refusal to grant them additional powers, Boyar Duma incite a rebellion!;;;;;;;;;;;;x;
+EVTOPTA79041;Crush them.;;;;;;;;;;;;x;
 EVTNAME79042;Rebellion;;;;;;;;;;;;;x
-EVTDESC79042;Furious at our refusal to grant them additional powers, combined with our ruler's inability to govern the state properly, Boyar Duma incite a rebellion!;;;;;;;;;;;;x
-EVTOPTA79042;Crush them.;;;;;;;;;;;;x
+EVTDESC79042;Furious at our refusal to grant them additional powers, combined with our ruler's inability to govern the state properly, Boyar Duma incite a rebellion!;;;;;;;;;;;;x;
+EVTOPTA79042;Crush them.;;;;;;;;;;;;x;
 EVTNAME79043;Political Crisis;;;;;;;;;;;;;x
-EVTDESC79043;Furious at our refusal to grant them additional powers, through schemes and bribes, Boyar Duma causes political crisis in our state!;;;;;;;;;;;;x
-EVTOPTA79043;Damn them to hell.;;;;;;;;;;;;x
+EVTDESC79043;Furious at our refusal to grant them additional powers, through schemes and bribes, Boyar Duma causes political crisis in our state!;;;;;;;;;;;;x;
+EVTOPTA79043;Damn them to hell.;;;;;;;;;;;;x;
 EVTNAME79044;Political Crisis;;;;;;;;;;;;;x
-EVTDESC79044;Furious at our refusal to grant them additional powers, through schemes and bribes, Boyar Duma causes public scandal revealing certain documents questioning the purity of the royal faimily's lineage!;;;;;;;;;;;;x
-EVTOPTA79044;Surely everyone will see those are forgeries.;;;;;;;;;;;;x
+EVTDESC79044;Furious at our refusal to grant them additional powers, through schemes and bribes, Boyar Duma causes public scandal revealing certain documents questioning the purity of the royal faimily's lineage!;;;;;;;;;;;;x;
+EVTOPTA79044;Surely everyone will see those are forgeries.;;;;;;;;;;;;x;
 EVTNAME79045;Duma Demands Old Rights;;;;;;;;;;;;;x
-EVTDESC79045;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies accordingly.;;;;;;;;;;;;x
-EVTOPTA79045;I can't deal with them now, do it.;;;;;;;;;;;;x
-EVTOPTB79045;I rule this state!;;;;;;;;;;;;x
+EVTDESC79045;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies accordingly.;;;;;;;;;;;;x;
+EVTOPTA79045;I can't deal with them now, do it.;;;;;;;;;;;;x;
+EVTOPTB79045;I rule this state!;;;;;;;;;;;;x;
 EVTNAME79046;Duma Demands Old Rights;;;;;;;;;;;;;x
-EVTDESC79046;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Serfdom accordingly.;;;;;;;;;;;;x
-EVTOPTA79046;Yes, they are right Serfdom is the way to go.;;;;;;;;;;;;x
-EVTOPTB79046;I rule this state!;;;;;;;;;;;;x
+EVTDESC79046;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Serfdom accordingly.;;;;;;;;;;;;x;
+EVTOPTA79046;Yes, they are right Serfdom is the way to go.;;;;;;;;;;;;x;
+EVTOPTB79046;I rule this state!;;;;;;;;;;;;x;
 EVTNAME79047;Duma Demands the Old Rights;;;;;;;;;;;;;x
-EVTDESC79047;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Serfdom accordingly. Surely Serfdom could only help our barely capable ruler of managing state affairs.;;;;;;;;;;;;x
-EVTOPTA79047;Serfdom hmm, lets give it a try.;;;;;;;;;;;;x
-EVTOPTB79047;I rule this state!;;;;;;;;;;;;x
+EVTDESC79047;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Serfdom accordingly. Surely Serfdom could only help our barely capable ruler of managing state affairs.;;;;;;;;;;;;x;
+EVTOPTA79047;Serfdom hmm, lets give it a try.;;;;;;;;;;;;x;
+EVTOPTB79047;I rule this state!;;;;;;;;;;;;x;
 EVTNAME79048;Duma Demands Old Rights;;;;;;;;;;;;;x
-EVTDESC79048;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Decentralization accordingly. They remind us that no one individual, even with Divine Right to rule, can manage to run the state by themselve.;;;;;;;;;;;;x
-EVTOPTA79048;Certainly, to lead is to delegate.;;;;;;;;;;;;x
-EVTOPTB79048;Ha! I'll show them!;;;;;;;;;;;;x
+EVTDESC79048;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Decentralization accordingly. They remind us that no one individual, even with Divine Right to rule, can manage to run the state by themselve.;;;;;;;;;;;;x;
+EVTOPTA79048;Certainly, to lead is to delegate.;;;;;;;;;;;;x;
+EVTOPTB79048;Ha! I'll show them!;;;;;;;;;;;;x;
 EVTNAME79049;Duma Demands Old Rights;;;;;;;;;;;;;x
-EVTDESC79049;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Narrowminded/Traditionalism accordingly. They remind us that a great source of political power, as well as legitimacy, lie in honoring traditions of our Fathers.;;;;;;;;;;;;x
-EVTOPTA79049;But of course, i'm a create of habbit myself.;;;;;;;;;;;;x
-EVTOPTB79049;Innovation IS the future, so hell no!;;;;;;;;;;;;x
+EVTDESC79049;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward the Narrowminded/Traditionalism accordingly. They remind us that a great source of political power, as well as legitimacy, lie in honoring traditions of our Fathers.;;;;;;;;;;;;x;
+EVTOPTA79049;But of course, i'm a create of habbit myself.;;;;;;;;;;;;x;
+EVTOPTB79049;Innovation IS the future, so hell no!;;;;;;;;;;;;x;
 EVTNAME79050;Duma Demands Old Rights;;;;;;;;;;;;;x
-EVTDESC79050;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward further favoring the Aristocracy accordingly.;;;;;;;;;;;;x
-EVTOPTA79050;Naturally, blood is everything.;;;;;;;;;;;;x
-EVTOPTB79050;I rule this state!;;;;;;;;;;;;x
+EVTDESC79050;Boyar Duma demands that we re-evaulate the wisdom of traditional old laws and adjust our policies toward further favoring the Aristocracy accordingly.;;;;;;;;;;;;x;
+EVTOPTA79050;Naturally, blood is everything.;;;;;;;;;;;;x;
+EVTOPTB79050;I rule this state!;;;;;;;;;;;;x;
 EVTNAME79051;Diplomatic Relations;;;;;;;;;;;;;x
-EVTDESC79051;Boyar Duma improves relations to other countries with similar Boyar assemblies.;;;;;;;;;;;;x
-EVTOPTA79051;Great.;;;;;;;;;;;;x
+EVTDESC79051;Boyar Duma improves relations to other countries with similar Boyar assemblies.;;;;;;;;;;;;x;
+EVTOPTA79051;Great.;;;;;;;;;;;;x;
 EVTNAME79052;Duma Condemns Policies;;;;;;;;;;;;;x
-EVTDESC79052;Boyar Duma informs us that they do not approve of our efforts to introduce Bill of Rights and reduce Serfdom.;;;;;;;;;;;;x
-EVTOPTA79052;Oh well.;;;;;;;;;;;;x
+EVTDESC79052;Boyar Duma informs us that they do not approve of our efforts to introduce Bill of Rights and reduce Serfdom.;;;;;;;;;;;;x;
+EVTOPTA79052;Oh well.;;;;;;;;;;;;x;
 EVTNAME79053;Duma Condemns Policies;;;;;;;;;;;;;x
-EVTDESC79053;Boyar Duma informs us that they do not approve of our efforts to adopt religious tolerance as national value, they remind us of traditional values.;;;;;;;;;;;;x
-EVTOPTA79053;Oh well.;;;;;;;;;;;;x
+EVTDESC79053;Boyar Duma informs us that they do not approve of our efforts to adopt religious tolerance as national value, they remind us of traditional values.;;;;;;;;;;;;x;
+EVTOPTA79053;Oh well.;;;;;;;;;;;;x;
 EVTNAME79054;Duma Condemns Policies;;;;;;;;;;;;;x
-EVTDESC79054;Boyar Duma informs us that they do not approve of our efforts to fund and develop artists and other characters whose deveilish works of "art" do very little for the common peasant.;;;;;;;;;;;;x
-EVTOPTA79054;Oh well.;;;;;;;;;;;;x
+EVTDESC79054;"Boyar Duma informs us that they do not approve of our efforts to fund and develop artists and other characters whose deveilish works of ""art"" do very little for the common peasant.";;;;;;;;;;;;x;
+EVTOPTA79054;Oh well.;;;;;;;;;;;;x;
 EVTNAME79055;Duma Condemns Policies;;;;;;;;;;;;;x
-EVTDESC79055;Boyar Duma removes our heir from the succession line, deeming them as "undesireable". Aparently we have no say in the matter.;;;;;;;;;;;;x
-EVTOPTA79055;How did we get here >.<;;;;;;;;;;;;x
+EVTDESC79055;"Boyar Duma removes our heir from the succession line, deeming them as ""undesireable"". Aparently we have no say in the matter.";;;;;;;;;;;;x;
+EVTOPTA79055;How did we get here >.<;;;;;;;;;;;;x;
 EVTNAME79056;Grateful Boyars;;;;;;;;;;;;;x
-EVTDESC79056;Boyar Duma collects a generous donation to the state as a token of gratitude for the priveleges they enjoy.;;;;;;;;;;;;x
-EVTOPTA79056;Very nice.;;;;;;;;;;;;x
+EVTDESC79056;Boyar Duma collects a generous donation to the state as a token of gratitude for the priveleges they enjoy.;;;;;;;;;;;;x;
+EVTOPTA79056;Very nice.;;;;;;;;;;;;x;
 EVTNAME79057;Grateful Boyars;;;;;;;;;;;;;x
-EVTDESC79057;Boyar Duma collects a generous donation to the state as a token of gratitude for the priveleges they enjoy.;;;;;;;;;;;;x
-EVTOPTA79057;Very nice.;;;;;;;;;;;;x
+EVTDESC79057;Boyar Duma collects a generous donation to the state as a token of gratitude for the priveleges they enjoy.;;;;;;;;;;;;x;
+EVTOPTA79057;Very nice.;;;;;;;;;;;;x;
 EVTNAME79058;Grateful Boyars;;;;;;;;;;;;;x
-EVTDESC79058;Boyar Duma publically supports the ruler as a token of gratitude for the high social status they enjoy.;;;;;;;;;;;;x
-EVTOPTA79058;Great.;;;;;;;;;;;;x
+EVTDESC79058;Boyar Duma publically supports the ruler as a token of gratitude for the high social status they enjoy.;;;;;;;;;;;;x;
+EVTOPTA79058;Great.;;;;;;;;;;;;x;
 EVTNAME79059;Grateful Boyars;;;;;;;;;;;;;x
-EVTDESC79059;Boyar Duma publically supports the heir as a token of gratitude for the high social status they enjoy.;;;;;;;;;;;;x
-EVTOPTA79059;Great.;;;;;;;;;;;;x
+EVTDESC79059;Boyar Duma publically supports the heir as a token of gratitude for the high social status they enjoy.;;;;;;;;;;;;x;
+EVTOPTA79059;Great.;;;;;;;;;;;;x;
 EVTNAME79060;Grateful Boyars;;;;;;;;;;;;;x
-EVTDESC79060;Boyar Duma publically supports government as a token of gratitude for the high social status they enjoy.;;;;;;;;;;;;x
-EVTOPTA79060;Great.;;;;;;;;;;;;x
+EVTDESC79060;Boyar Duma publically supports government as a token of gratitude for the high social status they enjoy.;;;;;;;;;;;;x;
+EVTOPTA79060;Great.;;;;;;;;;;;;x;
 EVTNAME79061;Province Integrated;;;;;;;;;;;;;x
-EVTDESC79061;Boyar Duma have passed a number of civic legislations legalizing our ownership of a certain not-so-legally "acquired" province. This will allow us to raise the status of $PROVINCENAME$ to that of a Core province.;;;;;;;;;;;;x
-EVTOPTA79061;Excellent.;;;;;;;;;;;;x
+EVTDESC79061;"Boyar Duma have passed a number of civic legislations legalizing our ownership of a certain not-so-legally ""acquired"" province. This will allow us to raise the status of $PROVINCENAME$ to that of a Core province.";;;;;;;;;;;;x;
+EVTOPTA79061;Excellent.;;;;;;;;;;;;x;
 EVTNAME79064;Constantinople Falls!;;;;;;;;;;;;;x
-EVTDESC79064;Constantinople the most famous city in whole of Europe is now in our hands. This will have big political consequences as it might change the balance of power within the Orthodox world.;;;;;;;;;;;;x
-EVTOPTA79064;Good.;;;;;;;;;;;;x
+EVTDESC79064;Constantinople the most famous city in whole of Europe is now in our hands. This will have big political consequences as it might change the balance of power within the Orthodox world.;;;;;;;;;;;;x;
+EVTOPTA79064;Good.;;;;;;;;;;;;x;
 EVTNAME79065;Constantinople Falls!;;;;;;;;;;;;;x
-EVTDESC79065;We have just received news that Constantinople has fallen. Our people are shaken, as many cannot belive it, but on the other hand the balance of power might change, as the authority of Bishop of Constantinople is now under question.;;;;;;;;;;;;x
-EVTOPTA79065;We must be strong.;;;;;;;;;;;;x
+EVTDESC79065;We have just received news that Constantinople has fallen. Our people are shaken, as many cannot belive it, but on the other hand the balance of power might change, as the authority of Bishop of Constantinople is now under question.;;;;;;;;;;;;x;
+EVTOPTA79065;We must be strong.;;;;;;;;;;;;x;
 EVTNAME78000;State Instability;;;;;;;;;;;;;x
-EVTDESC78000;Being under Mongol political domination is seen as a sign of weakness and great injustice. From time to time, some dare to speak openly against rulers, who in their wisdom, choose to submit and pay tribute instead of fighting and devastation fighting always brings.;;;;;;;;;;;;x
-EVTOPTA78000;One day we'll be free, but not today.;;;;;;;;;;;;x
+EVTDESC78000;Being under Mongol political domination is seen as a sign of weakness and great injustice. From time to time, some dare to speak openly against rulers, who in their wisdom, choose to submit and pay tribute instead of fighting and devastation fighting always brings.;;;;;;;;;;;;x;
+EVTOPTA78000;One day we'll be free, but not today.;;;;;;;;;;;;x;
 EVTNAME78001;Ruler's Integrity;;;;;;;;;;;;;x
-EVTDESC78001;Some nobles and merchants are questioning our ruler's legitimacy of rule, mostly because of the political pressure caused by submission to the Mongols.;;;;;;;;;;;;x
-EVTOPTA78001;Nothing we can't handle.;;;;;;;;;;;;x
+EVTDESC78001;Some nobles and merchants are questioning our ruler's legitimacy of rule, mostly because of the political pressure caused by submission to the Mongols.;;;;;;;;;;;;x;
+EVTOPTA78001;Nothing we can't handle.;;;;;;;;;;;;x;
 EVTNAME78002;End of Tatar Yoke;;;;;;;;;;;;;x
-EVTDESC78002;Finally after all these centuries: the decendants of great Ghengis Khan, rulers of Golden Horde are defeated by the hands of our glorious ruler. Dark ages that shall be remembered as Tatar Yoke are now over.;;;;;;;;;;;;x
-EVTOPTA78002;Rejoice Europe, East is free!;;;;;;;;;;;;x
+EVTDESC78002;Finally after all these centuries: the decendants of great Ghengis Khan, rulers of Golden Horde are defeated by the hands of our glorious ruler. Dark ages that shall be remembered as Tatar Yoke are now over.;;;;;;;;;;;;x;
+EVTOPTA78002;Rejoice Europe, East is free!;;;;;;;;;;;;x;
 EVTNAME78003;End of Tatar Yoke;;;;;;;;;;;;;x
-EVTDESC78003;Finally after all these centuries: the decendants of great Ghengis Khan, rulers of Golden Horde are destroyed. Dark ages that shall be remembered as Tatar Yoke are now over.;;;;;;;;;;;;x
-EVTOPTA78003;Rejoice Europe, Mongols are no more!;;;;;;;;;;;;x
+EVTDESC78003;Finally after all these centuries: the decendants of great Ghengis Khan, rulers of Golden Horde are destroyed. Dark ages that shall be remembered as Tatar Yoke are now over.;;;;;;;;;;;;x;
+EVTOPTA78003;Rejoice Europe, Mongols are no more!;;;;;;;;;;;;x;
 EVTNAME78004;Age of Mongols - Over;;;;;;;;;;;;;x
-EVTDESC78004;Damnation! We, descendants of great Ghengis Khan's Horde, rightful rulers of the Steppe, conquerors of Rus' and overlords of the World, are defeated. Our legacy now lies in ruins, our state is defeated, royal teis shaken or broken. This humiliation will live on forever.;;;;;;;;;;;;x
-EVTOPTA78004;The Great Khan shall ride again, some day!;;;;;;;;;;;;x
+EVTDESC78004;Damnation! We, descendants of great Ghengis Khan's Horde, rightful rulers of the Steppe, conquerors of Rus' and overlords of the World, are defeated. Our legacy now lies in ruins, our state is defeated, royal teis shaken or broken. This humiliation will live on forever.;;;;;;;;;;;;x;
+EVTOPTA78004;The Great Khan shall ride again, some day!;;;;;;;;;;;;x;
 EVTNAME78005;Brothers Under Siege;;;;;;;;;;;;;x
-EVTDESC78005;Our brothers are at war with the Golden Horde, unelss we help them they could lose everything, and when Mongols take vengeance, they don't care much for the details. What should we do?;;;;;;;;;;;;x
-EVTOPTA78005;Let all willing and able go, this is our fight too.;;;;;;;;;;;;x
-EVTOPTB78005;No, we dare not provoke the warth of Mongols.;;;;;;;;;;;;x
+EVTDESC78005;Our brothers are at war with the Golden Horde, unelss we help them they could lose everything, and when Mongols take vengeance, they don't care much for the details. What should we do?;;;;;;;;;;;;x;
+EVTOPTA78005;Let all willing and able go, this is our fight too.;;;;;;;;;;;;x;
+EVTOPTB78005;No, we dare not provoke the warth of Mongols.;;;;;;;;;;;;x;
 EVTNAME78006;United at War;;;;;;;;;;;;;x
-EVTDESC78006;Supported and provided for by a neighbouring ruler, large masses of our people flood into our capital! Morale is higher than ever, as everyone prepares for the finaly conflict against the Horde! Surely, we cannot fail this time!;;;;;;;;;;;;x
-EVTOPTA78006;Welcome all brave warriors!;;;;;;;;;;;;x
+EVTDESC78006;Supported and provided for by a neighbouring ruler, large masses of our people flood into our capital! Morale is higher than ever, as everyone prepares for the finaly conflict against the Horde! Surely, we cannot fail this time!;;;;;;;;;;;;x;
+EVTOPTA78006;Welcome all brave warriors!;;;;;;;;;;;;x;
 EVTNAME78007;Brothers Under Siege;;;;;;;;;;;;;x
-EVTDESC78007;Boayrs are demanding that we help a neighbouring ruler emboriled at war with the Horde. They remind us that our neighbour is of same culture and tradition, and that Boyar blood is the same regardless of boundries. What should we do?;;;;;;;;;;;;x
-EVTOPTA78007;Let our Boyars go!;;;;;;;;;;;;x
-EVTOPTB78007;No, we dare not provoke the warth of Mongols.;;;;;;;;;;;;x
+EVTDESC78007;Boayrs are demanding that we help a neighbouring ruler emboriled at war with the Horde. They remind us that our neighbour is of same culture and tradition, and that Boyar blood is the same regardless of boundries. What should we do?;;;;;;;;;;;;x;
+EVTOPTA78007;Let our Boyars go!;;;;;;;;;;;;x;
+EVTOPTB78007;No, we dare not provoke the warth of Mongols.;;;;;;;;;;;;x;
 EVTNAME78008;Boyars Arrive;;;;;;;;;;;;;x
-EVTDESC78008;Supported and provided for by a neighbouring ruler, large army comprised largerly of their boyars arrive in our capital. Badly needed help from Heaven, not a moment too soon!;;;;;;;;;;;;x
-EVTOPTA78008;United we cannot fail!;;;;;;;;;;;;x
+EVTDESC78008;Supported and provided for by a neighbouring ruler, large army comprised largerly of their boyars arrive in our capital. Badly needed help from Heaven, not a moment too soon!;;;;;;;;;;;;x;
+EVTOPTA78008;United we cannot fail!;;;;;;;;;;;;x;
 EVTNAME78100;Rus' Tribute;;;;;;;;;;;;;x
-EVTDESC78100;It is now time to demand that one of our subjets in the land of Rus', show their submission to the Khan, by sending tributes and gifts to our capital. Should they refuse, they will meet the Wrath from Steppe.;;;;;;;;;;;;x
-EVTOPTA78100;Yes, demand tribute!;;;;;;;;;;;;x
+EVTDESC78100;It is now time to demand that one of our subjets in the land of Rus', show their submission to the Khan, by sending tributes and gifts to our capital. Should they refuse, they will meet the Wrath from Steppe.;;;;;;;;;;;;x;
+EVTOPTA78100;Yes, demand tribute!;;;;;;;;;;;;x;
 EVTNAME78101;Tribute Demanded;;;;;;;;;;;;;x
-EVTDESC78101;Envoys from the Khan, rightful ruler of Steppe and Rus' lands, have arrived brining request to pay tribute. If we choose, we will have submited to the will of a conqueror, but should we refuse, he might come knocking at our door. What should we do?;;;;;;;;;;;;x
-EVTOPTA78101;Pay the devil!;;;;;;;;;;;;x
-EVTOPTB78101;Hang the messenger, and let this "Khan" come!;;;;;;;;;;;;x
+EVTDESC78101;Envoys from the Khan, rightful ruler of Steppe and Rus' lands, have arrived brining request to pay tribute. If we choose, we will have submited to the will of a conqueror, but should we refuse, he might come knocking at our door. What should we do?;;;;;;;;;;;;x;
+EVTOPTA78101;Pay the devil!;;;;;;;;;;;;x;
+EVTOPTB78101;"Hang the messenger, and let this ""Khan"" come!";;;;;;;;;;;;x;
 EVTNAME78102;Tribute Received;;;;;;;;;;;;;x
-EVTDESC78102;Excellent news, we have just received tribute.;;;;;;;;;;;;x
-EVTOPTA78102;Good, they still fear us.;;;;;;;;;;;;x
+EVTDESC78102;Excellent news, we have just received tribute.;;;;;;;;;;;;x;
+EVTOPTA78102;Good, they still fear us.;;;;;;;;;;;;x;
 EVTNAME78103;Tribute Refused;;;;;;;;;;;;;x
-EVTDESC78103;Bad news, we just received news that our envoy to the Rus' lands was refused and then savagely murdered by their cowardly ruler. This is a great insult that cannot go unpunished!;;;;;;;;;;;;x
-EVTOPTA78103;Assemble all clans - we go to war.;;;;;;;;;;;;x
+EVTDESC78103;Bad news, we just received news that our envoy to the Rus' lands was refused and then savagely murdered by their cowardly ruler. This is a great insult that cannot go unpunished!;;;;;;;;;;;;x;
+EVTOPTA78103;Assemble all clans - we go to war.;;;;;;;;;;;;x;
 EVTNAME80000;Grain Business;;;;;;;;;;;;;x
-EVTDESC80000;As one of our neighbours is suffering from starvation, while we have plenty of food in our granaries, some are suggesting that we should sell it and squeeze as much money as we can, while other propose we let the merchants handle it and dirty their own hands instead.;;;;;;;;;;;;x
-EVTOPTA80000;Fill our treasury, of course!;;;;;;;;;;;;x
-EVTOPTB80000;Let the merchants handle it.;;;;;;;;;;;;x
+EVTDESC80000;As one of our neighbours is suffering from starvation, while we have plenty of food in our granaries, some are suggesting that we should sell it and squeeze as much money as we can, while other propose we let the merchants handle it and dirty their own hands instead.;;;;;;;;;;;;x;
+EVTOPTA80000;Fill our treasury, of course!;;;;;;;;;;;;x;
+EVTOPTB80000;Let the merchants handle it.;;;;;;;;;;;;x;
 EVTNAME80001;Grain Business;;;;;;;;;;;;;x
-EVTDESC80001;As one of our neighbours is suffering from starvation, while we have plenty of food in our granaries, some are suggesting that we could send them some food which would earn us a favor with their people.;;;;;;;;;;;;x
-EVTOPTA80001;Mercy is the supreme virtue.;;;;;;;;;;;;x
-EVTOPTB80001;Why give when you can sell?;;;;;;;;;;;;x
+EVTDESC80001;As one of our neighbours is suffering from starvation, while we have plenty of food in our granaries, some are suggesting that we could send them some food which would earn us a favor with their people.;;;;;;;;;;;;x;
+EVTOPTA80001;Mercy is the supreme virtue.;;;;;;;;;;;;x;
+EVTOPTB80001;Why give when you can sell?;;;;;;;;;;;;x;
 EVTNAME80002;Power Strugle;;;;;;;;;;;;;x
-EVTDESC80002;Due the ongoing starvation, many are taking the opportunity to gain political advantage. Our nobles, naturally, ask for more privileges.;;;;;;;;;;;;x
-EVTOPTA80002;We have to give in.;;;;;;;;;;;;x
-EVTOPTB80002;Appoint a powerful merchant to deal with the crisis.;;;;;;;;;;;;x
-EVTOPTC80002;Hang the jackals!;;;;;;;;;;;;x
+EVTDESC80002;Due the ongoing starvation, many are taking the opportunity to gain political advantage. Our nobles, naturally, ask for more privileges.;;;;;;;;;;;;x;
+EVTOPTA80002;We have to give in.;;;;;;;;;;;;x;
+EVTOPTB80002;Appoint a powerful merchant to deal with the crisis.;;;;;;;;;;;;x;
+EVTOPTC80002;Hang the jackals!;;;;;;;;;;;;x;
 EVTNAME80003;Guild in Trouble;;;;;;;;;;;;;x
-EVTDESC80003;A prestigeous and influential merchant guild falls apart due to starvation. Many of its leaders are dead, and even more have fled the country.;;;;;;;;;;;;x
-EVTOPTA80003;Thats horrible.;;;;;;;;;;;;x
+EVTDESC80003;A prestigeous and influential merchant guild falls apart due to starvation. Many of its leaders are dead, and even more have fled the country.;;;;;;;;;;;;x;
+EVTOPTA80003;Thats horrible.;;;;;;;;;;;;x;
 EVTNAME80004;Thieves;;;;;;;;;;;;;x
-EVTDESC80004;Someone broke into our state treasury and simply walked out with a large amount of money. It seems that due to starvation, nobody even bothered to protect it.;;;;;;;;;;;;x
-EVTOPTA80004;Hang someone!;;;;;;;;;;;;x
+EVTDESC80004;Someone broke into our state treasury and simply walked out with a large amount of money. It seems that due to starvation, nobody even bothered to protect it.;;;;;;;;;;;;x;
+EVTOPTA80004;Hang someone!;;;;;;;;;;;;x;
 EVTNAME80005;Peasant Rebellion;;;;;;;;;;;;;x
-EVTDESC80005;Fed up with hard life and ongoing starvation, peasants have taken up arms against us in one of our provinces.;;;;;;;;;;;;x
-EVTOPTA80005;Crush them, silly peasants...;;;;;;;;;;;;x
+EVTDESC80005;Fed up with hard life and ongoing starvation, peasants have taken up arms against us in one of our provinces.;;;;;;;;;;;;x;
+EVTOPTA80005;Crush them, silly peasants...;;;;;;;;;;;;x;
 EVTNAME77000;Province Integrated;;;;;;;;;;;;;x
-EVTDESC77000;A recently aquired property of ours, under our National Focus, was raised to a rank of core and thus fully legitimized. We may now take the full yearly income from this province.;;;;;;;;;;;;x
-EVTOPTA77000;Excellent, keep it up.;;;;;;;;;;;;x
+EVTDESC77000;A recently aquired property of ours, under our National Focus, was raised to a rank of core and thus fully legitimized. We may now take the full yearly income from this province.;;;;;;;;;;;;x;
+EVTOPTA77000;Excellent, keep it up.;;;;;;;;;;;;x;
 EVTNAME82000;Diplomatic Incident;;;;;;;;;;;;;x
-EVTDESC82000;Our envoy to a neighbouring court have been insulted by their ruler emboldened by our current weak administration.;;;;;;;;;;;;x
-EVTOPTA82000;This wont be forgotten.;;;;;;;;;;;;x
+EVTDESC82000;Our envoy to a neighbouring court have been insulted by their ruler emboldened by our current weak administration.;;;;;;;;;;;;x;
+EVTOPTA82000;This wont be forgotten.;;;;;;;;;;;;x;
 EVTNAME82001;Weak Government;;;;;;;;;;;;;x
-EVTDESC82001;Failing Admnistration excalates into Weak Government.;;;;;;;;;;;;x
-EVTOPTA82001;Bad news.;;;;;;;;;;;;x
+EVTDESC82001;Failing Admnistration excalates into Weak Government.;;;;;;;;;;;;x;
+EVTOPTA82001;Bad news.;;;;;;;;;;;;x;
 EVTNAME82002;Adviser Resigns;;;;;;;;;;;;;x
-EVTDESC82002;Disheartened by the disatrous administration, one of our loyal advisers resigns.;;;;;;;;;;;;x
-EVTOPTA82002;Too bad.;;;;;;;;;;;;x
-EVTOPTB82002;No they dont.;;;;;;;;;;;;x
+EVTDESC82002;Disheartened by the disatrous administration, one of our loyal advisers resigns.;;;;;;;;;;;;x;
+EVTOPTA82002;Too bad.;;;;;;;;;;;;x;
+EVTOPTB82002;No they dont.;;;;;;;;;;;;x;
 EVTNAME82003;A Noble Gains Power;;;;;;;;;;;;;x
-EVTDESC82003;A certain rich noble recently rose to power through schemes and bribery, influencing our state policies to his own ends, wherever he could. This has lead to increased decentralization.;;;;;;;;;;;;x
-EVTOPTA82003;Damn him!;;;;;;;;;;;;x
+EVTDESC82003;A certain rich noble recently rose to power through schemes and bribery, influencing our state policies to his own ends, wherever he could. This has lead to increased decentralization.;;;;;;;;;;;;x;
+EVTOPTA82003;Damn him!;;;;;;;;;;;;x;
 EVTNAME82004;A Merchant Gains Power;;;;;;;;;;;;;x
-EVTDESC82004;A certain rich merchant recently rose to power through schemes and bribery, influencing our state policies to his own ends, wherever he could. This has lead to increased aristocratic domination within our society.;;;;;;;;;;;;x
-EVTOPTA82004;Damn him!;;;;;;;;;;;;x
+EVTDESC82004;A certain rich merchant recently rose to power through schemes and bribery, influencing our state policies to his own ends, wherever he could. This has lead to increased aristocratic domination within our society.;;;;;;;;;;;;x;
+EVTOPTA82004;Damn him!;;;;;;;;;;;;x;
 EVTNAME82005;Economy Fails;;;;;;;;;;;;;x
-EVTDESC82005;As a result of weakened administration, economy in our capital is hurt, leading to decreased tax income.;;;;;;;;;;;;x
-EVTOPTA82005;Ouch that hurts!;;;;;;;;;;;;x
+EVTDESC82005;As a result of weakened administration, economy in our capital is hurt, leading to decreased tax income.;;;;;;;;;;;;x;
+EVTOPTA82005;Ouch that hurts!;;;;;;;;;;;;x;
 EVTNAME82006;Economy Fails;;;;;;;;;;;;;x
-EVTDESC82006;As a result of weakened administration, our tax offices failed to collect all taxes. We have lost some money.;;;;;;;;;;;;x
-EVTOPTA82006;Punish someone!;;;;;;;;;;;;x
+EVTDESC82006;As a result of weakened administration, our tax offices failed to collect all taxes. We have lost some money.;;;;;;;;;;;;x;
+EVTOPTA82006;Punish someone!;;;;;;;;;;;;x;
 EVTNAME82007;Economy Fails;;;;;;;;;;;;;x
-EVTDESC82007;As a result of weakened administration, our tax offices failed to collect all taxes. We have lost some money.;;;;;;;;;;;;x
-EVTOPTA82007;Punish someone!;;;;;;;;;;;;x
+EVTDESC82007;As a result of weakened administration, our tax offices failed to collect all taxes. We have lost some money.;;;;;;;;;;;;x;
+EVTOPTA82007;Punish someone!;;;;;;;;;;;;x;
 EVTNAME82008;Economy Fails;;;;;;;;;;;;;x
-EVTDESC82008;As a result of weakened administration, our tax offices failed to collect all taxes. We have lost some money.;;;;;;;;;;;;x
-EVTOPTA82008;Punish someone!;;;;;;;;;;;;x
+EVTDESC82008;As a result of weakened administration, our tax offices failed to collect all taxes. We have lost some money.;;;;;;;;;;;;x;
+EVTOPTA82008;Punish someone!;;;;;;;;;;;;x;
 EVTNAME82009;Economy Fails;;;;;;;;;;;;;x
-EVTDESC82009;As a result of weakened administration, our state stability drops.;;;;;;;;;;;;x
-EVTOPTA82009;We will recover.;;;;;;;;;;;;x
+EVTDESC82009;As a result of weakened administration, our state stability drops.;;;;;;;;;;;;x;
+EVTOPTA82009;We will recover.;;;;;;;;;;;;x;
 UGL;Uglich;;;;;;;;;;;;;x
 UGL_ADJ;Uglich;;;;;;;;;;;;;x
 UGL_ADJ2;Uglich;;;;;;;;;;;;;x
 annex_uglich_title;Annex Uglich;;;;;;;;;;;;;x
 annex_uglich_desc;We now have the opportunity to press claims on this piece of land.;;;;;;;;;;;;;x
 EVTNAME79066;Demand Tribute;;;;;;;;;;;;;x
-EVTDESC79066;Our Boyars insist that we demand tribute from a smaller neighbour both culturally and religiously close to us. They see this as an opportunity to expand our influence, and with it, their power.;;;;;;;;;;;;x
-EVTOPTA79066;Good idea, do it.;;;;;;;;;;;;x
-EVTOPTB79066;Our way is the way of peace.;;;;;;;;;;;;x
+EVTDESC79066;Our Boyars insist that we demand tribute from a smaller neighbour both culturally and religiously close to us. They see this as an opportunity to expand our influence, and with it, their power.;;;;;;;;;;;;x;
+EVTOPTA79066;Good idea, do it.;;;;;;;;;;;;x;
+EVTOPTB79066;Our way is the way of peace.;;;;;;;;;;;;x;
 EVTNAME79067;Tribute Demanded;;;;;;;;;;;;;x
-EVTDESC79067;A neighbouring ruler, pressured by his Boyars, have asked us to pay tribute, a symbolic political admission that we under their political sphere of influence. On one side, acepting this extortion would sequre a peace, on the other freedom could come at the price of war. How should we procede?;;;;;;;;;;;;x
-EVTOPTA79067;Pay the tribute.;;;;;;;;;;;;x
-EVTOPTB79067;Our freedom has no price, refuse.;;;;;;;;;;;;x
+EVTDESC79067;A neighbouring ruler, pressured by his Boyars, have asked us to pay tribute, a symbolic political admission that we under their political sphere of influence. On one side, acepting this extortion would sequre a peace, on the other freedom could come at the price of war. How should we procede?;;;;;;;;;;;;x;
+EVTOPTA79067;Pay the tribute.;;;;;;;;;;;;x;
+EVTOPTB79067;Our freedom has no price, refuse.;;;;;;;;;;;;x;
 EVTNAME79068;Tribute Payed;;;;;;;;;;;;;x
-EVTDESC79068;Requested tribute was payed and just received in our capital. Coins are great, but their submission before our power and glory are even better.;;;;;;;;;;;;x
-EVTOPTA79068;Excellent.;;;;;;;;;;;;x
+EVTDESC79068;Requested tribute was payed and just received in our capital. Coins are great, but their submission before our power and glory are even better.;;;;;;;;;;;;x;
+EVTOPTA79068;Excellent.;;;;;;;;;;;;x;
 EVTNAME79069;Tribute Refused;;;;;;;;;;;;;x
-EVTDESC79069;Just as our Boyars had hoped for, the requested tribute was refused, granting us a legitimate casus beli.;;;;;;;;;;;;x
-EVTOPTA79069;Assemble the armies!;;;;;;;;;;;;x
+EVTDESC79069;Just as our Boyars had hoped for, the requested tribute was refused, granting us a legitimate casus beli.;;;;;;;;;;;;x;
+EVTOPTA79069;Assemble the armies!;;;;;;;;;;;;x;
 EVTNAME31000;Demand Tribute;;;;;;;;;;;;;x
-EVTDESC31000;Being the strongest country of our culture, many of our loyal advisers propose that we demand tribute from a smaller neighbouring state of same culture. Should they acept, we will have expanded our political influence, should they refuse, we will have gained a legitimate casus beli to use at our disposal. Should we do it?;;;;;;;;;;;;x
-EVTOPTA31000;Demand tribute.;;;;;;;;;;;;x
-EVTOPTB31000;Better not.;;;;;;;;;;;;x
+EVTDESC31000;Being the strongest country of our culture, many of our loyal advisers propose that we demand tribute from a smaller neighbouring state of same culture. Should they acept, we will have expanded our political influence, should they refuse, we will have gained a legitimate casus beli to use at our disposal. Should we do it?;;;;;;;;;;;;x;
+EVTOPTA31000;Demand tribute.;;;;;;;;;;;;x;
+EVTOPTB31000;Better not.;;;;;;;;;;;;x;
 EVTNAME31001;Tribute Demanded;;;;;;;;;;;;;x
-EVTDESC31001;A neighbouring ruler - viewed by many as the legitimate overlord of our people - demands the we pay a tribute to ensure peace between our countries. Should we accept it, we will have put our selves under his political sphere - something that many at home will not like, but if we refuse, it might be used as a prelude for war. What should we do?;;;;;;;;;;;;x
-EVTOPTA31001;Pay up.;;;;;;;;;;;;x
-EVTOPTB31001;Never, we will defend our freedom.;;;;;;;;;;;;x
+EVTDESC31001;A neighbouring ruler - viewed by many as the legitimate overlord of our people - demands the we pay a tribute to ensure peace between our countries. Should we accept it, we will have put our selves under his political sphere - something that many at home will not like, but if we refuse, it might be used as a prelude for war. What should we do?;;;;;;;;;;;;x;
+EVTOPTA31001;Pay up.;;;;;;;;;;;;x;
+EVTOPTB31001;Never, we will defend our freedom.;;;;;;;;;;;;x;
 EVTNAME31002;Tribute Payed;;;;;;;;;;;;;x
-EVTDESC31002;Requested tribute payed in full.;;;;;;;;;;;;x
-EVTOPTA31002;A wise decision.;;;;;;;;;;;;x
+EVTDESC31002;Requested tribute payed in full.;;;;;;;;;;;;x;
+EVTOPTA31002;A wise decision.;;;;;;;;;;;;x;
 EVTNAME31003;Tribute Refused;;;;;;;;;;;;;x
-EVTDESC31003;Our most generous "peace" offer in exchange for small a tribute was refused. Just as we had hoped, the manner in which it was done proved to be a good casus beli for a punitive war, should we decide to demand compensation.;;;;;;;;;;;;x
-EVTOPTA31003;Excellent.;;;;;;;;;;;;x
+EVTDESC31003;"Our most generous ""peace"" offer in exchange for small a tribute was refused. Just as we had hoped, the manner in which it was done proved to be a good casus beli for a punitive war, should we decide to demand compensation.";;;;;;;;;;;;x;
+EVTOPTA31003;Excellent.;;;;;;;;;;;;x;
 EVTNAME31004;Court Intrigues;;;;;;;;;;;;;x
-EVTDESC31004;A culturally close neighbouring court, with whome we have royal ties, is currently without an heir. We are told by our advisers that we may use our connections to impose an heir of our dynasty as their own. If it all goes well we will eventually end up with a friendly figure in power, however if they refuse, it will surely destroy our relations, and other countries with royal ties to us might not appreciate it either.;;;;;;;;;;;;x
-EVTOPTA31004;Itis a good idea, send them our demands.;;;;;;;;;;;;x
-EVTOPTB31004;Reputation is more important.;;;;;;;;;;;;x
+EVTDESC31004;A culturally close neighbouring court, with whome we have royal ties, is currently without an heir. We are told by our advisers that we may use our connections to impose an heir of our dynasty as their own. If it all goes well we will eventually end up with a friendly figure in power, however if they refuse, it will surely destroy our relations, and other countries with royal ties to us might not appreciate it either.;;;;;;;;;;;;x;
+EVTOPTA31004;Itis a good idea, send them our demands.;;;;;;;;;;;;x;
+EVTOPTB31004;Reputation is more important.;;;;;;;;;;;;x;
 EVTNAME31005;Unusial Request;;;;;;;;;;;;;x
-EVTDESC31005;We have just received a request made by a neighbouring ruler, demanding that we adopt and promote a member of their dynasty as our own heir. Since we are without an heir at the moment anyway, we could choose to accept, or even deny this unusual demand. In either case we could face far reaching consequences.;;;;;;;;;;;;x
-EVTOPTA31005;An heir is better no heir.;;;;;;;;;;;;x
-EVTOPTB31005;Never, purity of our dynasty comes first.;;;;;;;;;;;;x
+EVTDESC31005;We have just received a request made by a neighbouring ruler, demanding that we adopt and promote a member of their dynasty as our own heir. Since we are without an heir at the moment anyway, we could choose to accept, or even deny this unusual demand. In either case we could face far reaching consequences.;;;;;;;;;;;;x;
+EVTOPTA31005;An heir is better no heir.;;;;;;;;;;;;x;
+EVTOPTB31005;Never, purity of our dynasty comes first.;;;;;;;;;;;;x;
 EVTNAME31006;Heir Appointed;;;;;;;;;;;;;x
-EVTDESC31006;We were just informed that the neighbouring ruler had adopted and recognized a member of our royal dynasty as their own heir.;;;;;;;;;;;;x
-EVTOPTA31006;Most excellent.;;;;;;;;;;;;x
+EVTDESC31006;We were just informed that the neighbouring ruler had adopted and recognized a member of our royal dynasty as their own heir.;;;;;;;;;;;;x;
+EVTOPTA31006;Most excellent.;;;;;;;;;;;;x;
 EVTNAME31007;Demand Refused;;;;;;;;;;;;;x
-EVTDESC31007;The damned fool of a neighbouring ruler has refused to accept our royal cousin as their own heir. Many of our nobles and courtiers damnd we take an action against such an open insult.;;;;;;;;;;;;x
-EVTOPTA31007;Assemble the armies.;;;;;;;;;;;;x
+EVTDESC31007;The damned fool of a neighbouring ruler has refused to accept our royal cousin as their own heir. Many of our nobles and courtiers damnd we take an action against such an open insult.;;;;;;;;;;;;x;
+EVTOPTA31007;Assemble the armies.;;;;;;;;;;;;x;
 EVTNAME31008;Demand Tribute;;;;;;;;;;;;;x
-EVTDESC31008;Being the strongest nation of our culture, many of our closest advisers, as well as members of the aristocracy, propose that we demand a tribute from a smaller neighbouring state of our culture group, known to hoard a huge amount of wealth. Should we do it?;;;;;;;;;;;;x
-EVTOPTA31008;Demand tribute.;;;;;;;;;;;;x
-EVTOPTB31008;Better not.;;;;;;;;;;;;x
+EVTDESC31008;Being the strongest nation of our culture, many of our closest advisers, as well as members of the aristocracy, propose that we demand a tribute from a smaller neighbouring state of our culture group, known to hoard a huge amount of wealth. Should we do it?;;;;;;;;;;;;x;
+EVTOPTA31008;Demand tribute.;;;;;;;;;;;;x;
+EVTOPTB31008;Better not.;;;;;;;;;;;;x;
 EVTNAME31009;Tribute Demanded;;;;;;;;;;;;;x
-EVTDESC31009;A powerful neighbouring ruler, aware of our current wealth and filled treasury, demands the we pay him a tribute to ensure peace between our countries. What should we do?;;;;;;;;;;;;x
-EVTOPTA31009;Pay up.;;;;;;;;;;;;x
-EVTOPTB31009;Extortion? Never!;;;;;;;;;;;;x
+EVTDESC31009;A powerful neighbouring ruler, aware of our current wealth and filled treasury, demands the we pay him a tribute to ensure peace between our countries. What should we do?;;;;;;;;;;;;x;
+EVTOPTA31009;Pay up.;;;;;;;;;;;;x;
+EVTOPTB31009;Extortion? Never!;;;;;;;;;;;;x;
 EVTNAME31010;Tribute Payed;;;;;;;;;;;;;x
-EVTDESC31010;Requested tribute payed in full.;;;;;;;;;;;;x
-EVTOPTA31010;A wise decision.;;;;;;;;;;;;x
+EVTDESC31010;Requested tribute payed in full.;;;;;;;;;;;;x;
+EVTOPTA31010;A wise decision.;;;;;;;;;;;;x;
 EVTNAME31011;Tribute Refused;;;;;;;;;;;;;x
-EVTDESC31011;We were informed that our justified demand for tribute was denied.;;;;;;;;;;;;x
-EVTOPTA31011;They will pay for this insult.;;;;;;;;;;;;x
+EVTDESC31011;We were informed that our justified demand for tribute was denied.;;;;;;;;;;;;x;
+EVTOPTA31011;They will pay for this insult.;;;;;;;;;;;;x;
 EVTNAME31012;Demand Tribute;;;;;;;;;;;;;x
-EVTDESC31012;A neighbour of ours is currently suffering from having a rather weak government, barely capable of running the state. Some people suggest that we should demand that they pay a tribute as symbol of submission, surely with this state of instability, they couldn't possibly deny us. Should we do it?;;;;;;;;;;;;x
-EVTOPTA31012;Demand tribute.;;;;;;;;;;;;x
-EVTOPTB31012;Better not.;;;;;;;;;;;;x
+EVTDESC31012;A neighbour of ours is currently suffering from having a rather weak government, barely capable of running the state. Some people suggest that we should demand that they pay a tribute as symbol of submission, surely with this state of instability, they couldn't possibly deny us. Should we do it?;;;;;;;;;;;;x;
+EVTOPTA31012;Demand tribute.;;;;;;;;;;;;x;
+EVTOPTB31012;Better not.;;;;;;;;;;;;x;
 EVTNAME31013;Tribute Demanded;;;;;;;;;;;;;x
-EVTDESC31013;A powerful neighbouring ruler, aware of our current state of weak government, has requested that we pay them a tibute. What should we do?;;;;;;;;;;;;x
-EVTOPTA31013;Pay up, peace is better than war.;;;;;;;;;;;;x
-EVTOPTB31013;Extortion? Never!;;;;;;;;;;;;x
+EVTDESC31013;A powerful neighbouring ruler, aware of our current state of weak government, has requested that we pay them a tibute. What should we do?;;;;;;;;;;;;x;
+EVTOPTA31013;Pay up, peace is better than war.;;;;;;;;;;;;x;
+EVTOPTB31013;Extortion? Never!;;;;;;;;;;;;x;
 EVTNAME31014;Tribute Payed;;;;;;;;;;;;;x
-EVTDESC31014;Requested tribute payed in full.;;;;;;;;;;;;x
-EVTOPTA31014;A wise decision.;;;;;;;;;;;;x
+EVTDESC31014;Requested tribute payed in full.;;;;;;;;;;;;x;
+EVTOPTA31014;A wise decision.;;;;;;;;;;;;x;
 EVTNAME31015;Tribute Refused;;;;;;;;;;;;;x
-EVTDESC31015;We were informed that our justified demand for tribute was denied.;;;;;;;;;;;;x
-EVTOPTA31015;We shall remember this insult.;;;;;;;;;;;;x
+EVTDESC31015;We were informed that our justified demand for tribute was denied.;;;;;;;;;;;;x;
+EVTOPTA31015;We shall remember this insult.;;;;;;;;;;;;x;
 EVTNAME96023;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96023;A neighbouring theocracy - and to make matters even worse - a Prince Elector state of the Empire, has chosen to promote innovative policies that are not in acord with the traditional views of the Holy Roman Empire or its reigning religious institution. As such they are frawn upon by most influential authorities both inside and outside of the Holy Roman Empire, which presents us with an opportunity to press a claim on their land.;;;;;;;;;;;;;x
-EVTOPTA96023;Why, of course, press the claim!;;;;;;;;;;;;x
-EVTOPTB96023;We don't need that.;;;;;;;;;;;;x
+EVTOPTA96023;Why, of course, press the claim!;;;;;;;;;;;;x;
+EVTOPTB96023;We don't need that.;;;;;;;;;;;;x;
 EVTNAME96024;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96024;A neighbouring theocracy has chosen to promote innovative policies that are not in acord with the traditional views of the Holy Roman Empire, or its reigning religious institution. As such they are frawn upon by most influential authorities both inside and outside of the Holy Roman Empire, which presents us with an opportunity to press a claim on their land.;;;;;;;;;;;;;x
-EVTOPTA96024;Why, of course, press the claim!;;;;;;;;;;;;x
-EVTOPTB96024;We don't need that.;;;;;;;;;;;;x
+EVTOPTA96024;Why, of course, press the claim!;;;;;;;;;;;;x;
+EVTOPTB96024;We don't need that.;;;;;;;;;;;;x;
 EVTNAME96025;Imperial Border Dispute;;;;;;;;;;;;;x
 EVTDESC96025;A neighbouring country that is not a member of the Holy Roman Empire, happens to hold a province legally part of Imperial domain. As such, coupled with the fact that we are member of the Empire ourselves, we now have this opportunity to claim this province as rightfully our own.;;;;;;;;;;;;;x
-EVTOPTA96025;Certainly, press the claim!;;;;;;;;;;;;x
-EVTOPTB96025;We don't need that.;;;;;;;;;;;
+EVTOPTA96025;Certainly, press the claim!;;;;;;;;;;;;x;
+EVTOPTB96025;We don't need that.;;;;;;;;;;;;;
 EVTNAME76011;Excellent Agriculture;;;;;;;;;;;;;x
 EVTDESC76011;Local officials in one of our provinces have managed to improve agriculture so much that their trade income has attracted merchants from all over our country. Extra trade is also brining extra profits.;;;;;;;;;;;;;x
-EVTOPTA76011;Mmmm $$$$.;;;;;;;;;;;;x
+EVTOPTA76011;Mmmm $$$$.;;;;;;;;;;;;x;
 form_manchuria_title;Form Manchurian Nation;;;;;;;;;;;;;x
 form_manchuria_desc;Form Manchurian nation.;;;;;;;;;;;;;x
 PROV2151;Æóêîòèí;;;;;;;;;;;;;x
@@ -3902,7 +3902,7 @@ EVTNAME35000;Decentralized Government;;;;;;;;;;;;;x
 EVTDESC35000;Beginning in $YEAR$ our country started facing problems related to high decentralization of power. Many authorities - including nobles and various city councils, all around our state are conducting their own policies with little or no regard whatsoever to what the government wants.;;;;;;;;;;;;;x
 EVTOPTA35000;We shall have to fight this.;;;;;;;;;;;;;x
 EVTNAME35001;Decentralized Government;;;;;;;;;;;;;x
-EVTDESC35001;Decentralized government left many wondering about their cultural identity. If there is no center of culture, is there a "culture" at all?;;;;;;;;;;;;;x
+EVTDESC35001;"Decentralized government left many wondering about their cultural identity. If there is no center of culture, is there a ""culture"" at all?";;;;;;;;;;;;;x
 EVTOPTA35001;Those with little faith...;;;;;;;;;;;;;x
 EVTNAME35002;Decentralized Government;;;;;;;;;;;;;x
 EVTDESC35002;Decentralized government left many wondering about legitimacy of our ruler. If so many are allowed to disobey supreme royal authority so openly, what is the point of having monarchy at all?;;;;;;;;;;;;;x
@@ -3939,15 +3939,15 @@ EVTDESC35011;A few members of the regency council, all belnging to aristocracy, 
 EVTOPTA35011;Why not...;;;;;;;;;;;;;x
 EVTOPTB35011;Show them gallows in the courtyard.;;;;;;;;;;;;;x
 EVTNAME35012;Regency Disarray Ends;;;;;;;;;;;;;x
-EVTDESC35012;Finally, in $YEAR$, and not a moment too soon, all the recent problems with regency come to an end, as its "services" are no longer needed, thank the heaven!;;;;;;;;;;;;;x
+EVTDESC35012;"Finally, in $YEAR$, and not a moment too soon, all the recent problems with regency come to an end, as its ""services"" are no longer needed, thank the heaven!";;;;;;;;;;;;;x
 EVTOPTA35012;Finally, good news.;;;;;;;;;;;;;x
 EVTNAME96026;Imperial Relations;;;;;;;;;;;;;x
-EVTDESC96026;We just received word that a neighbouring Elector state disapproves of us because of the recently aquired province of ours that they consider "illegal" due to some silly technicality, I believe they mentioned a "lack of a core".;;;;;;;;;;;;;x
+EVTDESC96026;"We just received word that a neighbouring Elector state disapproves of us because of the recently aquired province of ours that they consider ""illegal"" due to some silly technicality, I believe they mentioned a ""lack of a core"".";;;;;;;;;;;;;x
 EVTOPTA96026;They can't be serious...;;;;;;;;;;;;;x
 EVTOPTB96026;Blame the Emperor for poor management.;;;;;;;;;;;;;x
 EVTNAME96027;Imperial Relations;;;;;;;;;;;;;x
 EVTDESC96027;It looks like the Empire is not happy with us: we were told that holding a province, legally member of the Empire without it actually being a core of ours, is aparently considered illegal, or something silly along these lines. Surely they can't be serious...;;;;;;;;;;;;;x
-EVTOPTA96027;Indeed, a silly motion, as they say "might makes right".;;;;;;;;;;;;;x
+EVTOPTA96027;"Indeed, a silly motion, as they say ""might makes right"".";;;;;;;;;;;;;x
 EVTOPTB96027;Obviously its all Emperor's fault...;;;;;;;;;;;;;x
 EVTNAME35023;Ambassador Promoted;;;;;;;;;;;;;x
 EVTDESC35023;After a decade long service to our government, one of our diplomats has been promoted to the rank of Ambassador.;;;;;;;;;;;;;x
@@ -4263,35 +4263,35 @@ EVTOPTB84018;Oh, hell no.;;;;;;;;;;;;;x
 EVTOPTC84018;Right. Hang them - all.;;;;;;;;;;;;;x
 EVTNAME84019;Petition;;;;;;;;;;;;;x
 EVTDESC84019;A large group of nobles, members of both lower and higher aristocracy, sigh a petition demanding tax exemptions. Aparently, the ongoing tax reform have devasted their incomes.;;;;;;;;;;;;;x
-EVTOPTA84019;Grant them tax exemption.;;;;;;;;;;;
-EVTOPTB84019;Impose additional tax.;;;;;;;;;;;
-EVTOPTC84019;Hang them and sieze their land.;;;;;;;;;;;
+EVTOPTA84019;Grant them tax exemption.;;;;;;;;;;;;;
+EVTOPTB84019;Impose additional tax.;;;;;;;;;;;;;
+EVTOPTC84019;Hang them and sieze their land.;;;;;;;;;;;;;
 EVTNAME84020;Petition;;;;;;;;;;;;;x
 EVTDESC84020;Nobles sign a petition to lower crown authority, granting them even more legal authority over their land.;;;;;;;;;;;;;x
-EVTOPTA84020;Sure, whatever keeps them happy.;;;;;;;;;;;
-EVTOPTB84020;Execute the petitioners.;;;;;;;;;;;
+EVTOPTA84020;Sure, whatever keeps them happy.;;;;;;;;;;;;;
+EVTOPTB84020;Execute the petitioners.;;;;;;;;;;;;;
 EVTNAME84021;Petition;;;;;;;;;;;;;x
 EVTDESC84021;Someone launched a smear campaign against our most noble ruler accusing them of tryanny!;;;;;;;;;;;;;x
-EVTOPTA84021;Lies! Hang them all!;;;;;;;;;;;
-EVTOPTB84021;Ignore this nonsense.;;;;;;;;;;;
+EVTOPTA84021;Lies! Hang them all!;;;;;;;;;;;;;
+EVTOPTB84021;Ignore this nonsense.;;;;;;;;;;;;;
 EVTNAME84022;Discredited;;;;;;;;;;;;;x
 EVTDESC84022;A member of our royal family was publically discredited casting a shadow on our ruler's legitimacy.;;;;;;;;;;;;;x
-EVTOPTA84022;This can't be true.;;;;;;;;;;;
+EVTOPTA84022;This can't be true.;;;;;;;;;;;;;
 EVTNAME84023;Missing Treasury;;;;;;;;;;;;;x
 EVTDESC84023;A large sum of gold has gone missing from our royal treasury. Right now, we are not exactly sure how it happened or who is to blame.;;;;;;;;;;;;;x
-EVTOPTA84023;Awesome.;;;;;;;;;;;
+EVTOPTA84023;Awesome.;;;;;;;;;;;;;
 EVTNAME84024;Constable Robbed;;;;;;;;;;;;;x
 EVTDESC84024;As he was on his way to the capital carrying large sum of just collected taxes, our constable was ambushed and robbed by road bandits. Good news is nobody was hurt, bad news is all money is gone.;;;;;;;;;;;;;x
-EVTOPTA84024;Just what i needed.;;;;;;;;;;;
-EVTOPTB84024;Hang the damn fool!;;;;;;;;;;;
+EVTOPTA84024;Just what i needed.;;;;;;;;;;;;;
+EVTOPTB84024;Hang the damn fool!;;;;;;;;;;;;;
 EVTNAME84025;Church Asks for Tax Examption;;;;;;;;;;;;;x
 EVTDESC84025;Representatives of our Church asked to grant them the temporary tax exemption rights. They complain that the ongoing tax reform is hurting their income, making taxes too heavy burden.;;;;;;;;;;;;;x
-EVTOPTA84025;Grant them expemtion rights.;;;;;;;;;;;
-EVTOPTB84025;Certainly not, everyone pays the same.;;;;;;;;;;;
+EVTOPTA84025;Grant them expemtion rights.;;;;;;;;;;;;;
+EVTOPTB84025;Certainly not, everyone pays the same.;;;;;;;;;;;;;
 EVTNAME84026;Revision of the Land Charter;;;;;;;;;;;;;x
 EVTDESC84026;Our Adviser $SHERIFF$ offered us to begin work on revision of the land charter. This enevour requires revision of all books containing information on land and property ownership, having a direct impact on the amount of taxes we are able to collect.;;;;;;;;;;;;;x
-EVTOPTA84026;An excellent proposal.;;;;;;;;;;;
-EVTOPTB84026;We cannot afford that right now.;;;;;;;;;;;
+EVTOPTA84026;An excellent proposal.;;;;;;;;;;;;;
+EVTOPTB84026;We cannot afford that right now.;;;;;;;;;;;;;
 EVTNAME37000;Successful Bureaucracy;;;;;;;;;;;;;x
 EVTDESC37000;Successful policies and responsable governing of $PROVINCENAME$ have led to an increase in provincial tax value.;;;;;;;;;;;;;x
 EVTOPTA37000;Great.;;;;;;;;;;;;;x
@@ -4329,7 +4329,7 @@ EVTDESC34004;A neighbour of ours is suffering from bad reputation. We could make
 EVTOPTA34004;Execellent idea.;;;;;;;;;;;;;x
 EVTOPTB34004;We should mind our own business.;;;;;;;;;;;;;x
 EVTNAME34005;Bad Reputation;;;;;;;;;;;;;x
-EVTDESC34005;A neighbouring theocracy has made us an offer of improving our bad reputation by speaking to the Holy See on our behalf. Of course they also ask for a "modest" fee for their services.;;;;;;;;;;;;;x
+EVTDESC34005;"A neighbouring theocracy has made us an offer of improving our bad reputation by speaking to the Holy See on our behalf. Of course they also ask for a ""modest"" fee for their services.";;;;;;;;;;;;;x
 EVTOPTA34005;Great idea.;;;;;;;;;;;;;x
 EVTOPTB34005;That's none of their business.;;;;;;;;;;;;;x
 EVTNAME34006;Bad Reputation;;;;;;;;;;;;;x
@@ -4353,7 +4353,7 @@ EVTDESC34004;A neighbour of ours is suffering from bad reputation. We could make
 EVTOPTA34004;Execellent idea.;;;;;;;;;;;;;x
 EVTOPTB34004;We should mind our own business.;;;;;;;;;;;;;x
 EVTNAME34005;Bad Reputation;;;;;;;;;;;;;x
-EVTDESC34005;A neighbouring theocracy has made us an offer of improving our bad reputation by speaking to the Holy See on our behalf. Of course they also ask for a "modest" fee for their services.;;;;;;;;;;;;;x
+EVTDESC34005;"A neighbouring theocracy has made us an offer of improving our bad reputation by speaking to the Holy See on our behalf. Of course they also ask for a ""modest"" fee for their services.";;;;;;;;;;;;;x
 EVTOPTA34005;Great idea.;;;;;;;;;;;;;x
 EVTOPTB34005;That's none of their business.;;;;;;;;;;;;;x
 EVTNAME34006;Bad Reputation;;;;;;;;;;;;;x
@@ -4367,7 +4367,7 @@ EVTDESC34008;One of our neighbours is suffering from a low ruler legitimacy. We 
 EVTOPTA34008;Execellent idea.;;;;;;;;;;;;;x
 EVTOPTB34008;We should mind our own business.;;;;;;;;;;;;;x
 EVTNAME34009;Divine Right;;;;;;;;;;;;;x
-EVTDESC34009;We have been offered help with our low legitimacy. Aparently Rome would be willing to provide us with certain documents proving our ruler's right to rule, for a "modest" fee, as usual.;;;;;;;;;;;;;x
+EVTDESC34009;"We have been offered help with our low legitimacy. Aparently Rome would be willing to provide us with certain documents proving our ruler's right to rule, for a ""modest"" fee, as usual.";;;;;;;;;;;;;x
 EVTOPTA34009;Great idea.;;;;;;;;;;;;;x
 EVTOPTB34009;That's none of their business.;;;;;;;;;;;;;x
 EVTNAME34010;Divine Right;;;;;;;;;;;;;x
@@ -4513,7 +4513,7 @@ EVTDESC39024;Our loyal, and most devout adviser $THEOLOGIAN$ have come up with a
 EVTOPTA39024;Certainly.;;;;;;;;;;;;;x
 EVTOPTB39024;We cannot afford luxury right now.;;;;;;;;;;;;;x
 EVTNAME39025;Loyal Adviser;;;;;;;;;;;;;x
-EVTDESC39025;A loyal adviser, employed by a fellow Catholic country has arrived to Rome on his mission to improve his ruler's legitimacy. Naturally, we have sold him some "official" Papal documents and sent him on his way.;;;;;;;;;;;;;x
+EVTDESC39025;"A loyal adviser, employed by a fellow Catholic country has arrived to Rome on his mission to improve his ruler's legitimacy. Naturally, we have sold him some ""official"" Papal documents and sent him on his way.";;;;;;;;;;;;;x
 EVTOPTA39025;Splendid.;;;;;;;;;;;;;x
 EVTNAME39026;Loyal Adviser;;;;;;;;;;;;;x
 EVTDESC39026;Our loyal, and most devout adviser $THEOLOGIAN$ have come up with a plan to help our heir's low legitimacy. If we are to finance their journey to Rome, an audience with the Holy See will surely help our future ruler's claim.;;;;;;;;;;;;;x
@@ -4602,29 +4602,29 @@ EVTDESC39043;A fellow Catholic ruler has dediced to open their treausry and shar
 EVTOPTA39043;How generous.;;;;;;;;;;;;;x
 PROV2181;Asti;;;;;;;;;;;;;x
 PROV2182;Annecy;;;;;;;;;;;;;x
-large_tribe_bad_adm_1;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_adm_1;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_adm_1;Ruler can't handle the Administrative details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_adm_2;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_adm_2;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_adm_2;Ruler can't handle the Administrative details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_adm_3;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_adm_3;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_adm_3;Ruler can't handle the Administrative details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_adm_4;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_adm_4;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_adm_4;Ruler can't handle the Administrative details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_dip_1;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_dip_1;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_dip_1;Ruler can't handle the Diplomatic details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_dip_2;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_dip_2;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_dip_2;Ruler can't handle the Diplomatic details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_dip_3;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_dip_3;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_dip_3;Ruler can't handle the Diplomatic details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_dip_4;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_dip_4;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_dip_4;Ruler can't handle the Diplomatic details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_mil_1;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_mil_1;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_mil_1;Ruler can't handle the Military details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_mil_2;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_mil_2;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_mil_2;Ruler can't handle the Military details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_mil_3;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_mil_3;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_mil_3;Ruler can't handle the Military details of our Tribe;;;;;;;;;;;;;x
-large_tribe_bad_mil_4;Incapable Ruler;;;;;;;;;;;;;x;
+large_tribe_bad_mil_4;Incapable Ruler;;;;;;;;;;;;;x
 desc_large_tribe_bad_mil_4;Ruler can't handle the Military details of our Tribe;;;;;;;;;;;;;x
 PROV2183;Øòðàóáèíã;;;;;;;;;;;;;x
 PROV2184;Èíãîëüøòàäò;;;;;;;;;;;;;x
@@ -4749,7 +4749,7 @@ EVTDESC35033;Unbeliveable! A cunning member of the Military High Council cleaver
 EVTOPTA35033;It's already done.;;;;;;;;;;;;;x
 EVTOPTB35033;Put an end to this immediately.;;;;;;;;;;;;;x
 EVTNAME35034;Poor Leadership;;;;;;;;;;;;;x
-EVTDESC35034;Aparently our army is currently suffering from lack of all essential supplies, including not only war materials, but food as well! Looks like someone in the chain of command "misplaced" a large portion of the money meant for army maintenance.;;;;;;;;;;;;;x
+EVTDESC35034;"Aparently our army is currently suffering from lack of all essential supplies, including not only war materials, but food as well! Looks like someone in the chain of command ""misplaced"" a large portion of the money meant for army maintenance.";;;;;;;;;;;;;x
 EVTOPTA35034;Hang someone.;;;;;;;;;;;;;x
 EVTOPTB35034;We must endure this.;;;;;;;;;;;;;x
 EVTNAME35035;War Taxes;;;;;;;;;;;;;x
@@ -5157,7 +5157,7 @@ KTI_ADJ;Õàäðàìàóòñê.;;;;;;;;;;;;;x
 KTI_ADJ2;Õàäðàìàóòñê.;;;;;;;;;;;;;x
 EVTNAME81033;State Instability;;;;;;;;;;;;;x
 EVTDESC81033;As a result of Time of Troubles and chaos within our state, stability drops.;;;;;;;;;;;;;x
-EVTOPTA81033;Horrible!;;;;;;;;;;;;x
+EVTOPTA81033;Horrible!;;;;;;;;;;;;x;
 PROV2218;Áåæåöê;;;;;;;;;;;;;x
 PROV2219;Äìèòðîâ;;;;;;;;;;;;;x
 PROV2220;Þðüåâ;;;;;;;;;;;;;x
@@ -5506,8 +5506,8 @@ PROV2249;Îç. Ñåâàí;;;;;;;;;;;;;
 PROV2250;Lake Tuz;;;;;;;;;;;;;
 PROV2251;Lake Beysehir;;;;;;;;;;;;;
 EVTNAME79070;Patriarch Dies;;;;;;;;;;;;;x
-EVTDESC79070;Sad news indded: in the year of $YEAR$, our beloved Patriarch died, after sudden illness. The entire nation is in the state of mourning.;;;;;;;;;;;;x
-EVTOPTA79070;He shall be remembered;;;;;;;;;;;;x
+EVTDESC79070;Sad news indded: in the year of $YEAR$, our beloved Patriarch died, after sudden illness. The entire nation is in the state of mourning.;;;;;;;;;;;;x;
+EVTOPTA79070;He shall be remembered;;;;;;;;;;;;x;
 omani;Omani;;;;;;;;;;;;;
 PROV2252;Leuven;;;;;;;;;;;;;
 PROV2253;Ibiza;;;;;;;;;;;;;
@@ -5913,10 +5913,10 @@ african_group;Àôðèêàíñêàÿ ãðóïïà;;;;;;;;;;;;;x
 jurchen_group;Jurchen Group;;;;;;;;;;;;;x
 EVTNAME81016;Stability Drops;;;;;;;;;;;;;x
 EVTDESC81016;As a reslut of ongoing Time of Troubles, our state stability drops.;;;;;;;;;;;;;x
-EVTOPTA81016;Damnit!;;;;;;;;;;;;x
+EVTOPTA81016;Damnit!;;;;;;;;;;;;x;
 EVTNAME81034;Stability Drops;;;;;;;;;;;;;x
 EVTDESC81034;As a reslut of ongoing Time of Troubles, our state stability drops.;;;;;;;;;;;;;x
-EVTOPTA81034;Damnit!;;;;;;;;;;;;x
+EVTOPTA81034;Damnit!;;;;;;;;;;;;x;
 noble_uprising_pc;Noble Uprising;;;;;;;;;;;;;x
 desc_noble_uprising_pc;Noble uprising.;;;;;;;;;;;;;x
 loss_of_prestige_pc;Loss of Prestige;;;;;;;;;;;;;x
@@ -6255,7 +6255,7 @@ desc_mediterranean_merchant_navy;Due to wealth and power, as well as focus on na
 major_mediterranean_naval_power;Mediterranean Naval Power;;;;;;;;;;;;;x
 desc_major_mediterranean_naval_power;Due to wealth and power, as well as focus on navy, our Republic is able to maintain a sizeable navy, both merchant and military, throughout the entire Mediterranean sea.;;;;;;;;;;;;;x
 mediterranean_naval_supremacy;Mediterranean Naval Supremacy;;;;;;;;;;;;;x
-desc_mediterranean_naval_supremacy;Due to wealth and power, as well as almost complete focus on navy, our Republic is able to maintain a complete naval supremacy throughout the entire Mediterranean sea. Very few other powers will be able to match our navies, both in quality and quantity. Mediterranean sea is truly our "lake".;;;;;;;;;;;;;x
+desc_mediterranean_naval_supremacy;"Due to wealth and power, as well as almost complete focus on navy, our Republic is able to maintain a complete naval supremacy throughout the entire Mediterranean sea. Very few other powers will be able to match our navies, both in quality and quantity. Mediterranean sea is truly our ""lake"".";;;;;;;;;;;;;x
 strategic_loc_crete;Strategic Point: Crete;;;;;;;;;;;;;x
 desc_strategic_loc_crete;Due to the nature of its location in the Mediterranean sea, the island of Crete has always had a huge strategic value to any country able to control the local population. It can be used as both colony for growing rare agricultural plans, usually unavailable in Europe and Middle East, or it can be used as naval base for either protection of sea trade around it, or as staging point for invasion of both Europe and Middle East.;;;;;;;;;;;;;x
 strategic_loc_cyprus;Strategic Point: Cyprus;;;;;;;;;;;;;x
@@ -7103,29 +7103,29 @@ NAG;Nagaur;;;;;;;;;;;;;x
 NAG_ADJ;Nagaur's;;;;;;;;;;;;;x
 NAG_ADJ2;Nagaur's;;;;;;;;;;;;;x
 EVTNAME79071;Boyars Support the War Effort;;;;;;;;;;;;;x
-EVTDESC79071;Inspired by our galant war efforts, Boyar Duma decides to support the government by launching a draft campaign among the remote interior communities. New recruits flock to our banners.;;;;;;;;;;;;x
-EVTOPTA79071;Wonderful;;;;;;;;;;;;x
+EVTDESC79071;Inspired by our galant war efforts, Boyar Duma decides to support the government by launching a draft campaign among the remote interior communities. New recruits flock to our banners.;;;;;;;;;;;;x;
+EVTOPTA79071;Wonderful;;;;;;;;;;;;x;
 EVTNAME79072;Boyars Rally;;;;;;;;;;;;;x
-EVTDESC79072;Inspired by our galant war effort against the Devil spawned Crusader Order, Boyars rally in support of our government. Serfs flock to our banners as our armies replenish with fresh manpower.;;;;;;;;;;;;x
-EVTOPTA79072;God bless them;;;;;;;;;;;;x
+EVTDESC79072;Inspired by our galant war effort against the Devil spawned Crusader Order, Boyars rally in support of our government. Serfs flock to our banners as our armies replenish with fresh manpower.;;;;;;;;;;;;x;
+EVTOPTA79072;God bless them;;;;;;;;;;;;x;
 EVTNAME35178;Recruits Flock;;;;;;;;;;;;;x
-EVTDESC35178;Eager for glory and wealth, our serfs flock to the recruitment offices. Our generals are satisfied with the growing number of men available for further wars.;;;;;;;;;;;;x
-EVTOPTA35178;Excellent;;;;;;;;;;;;x
+EVTDESC35178;Eager for glory and wealth, our serfs flock to the recruitment offices. Our generals are satisfied with the growing number of men available for further wars.;;;;;;;;;;;;x;
+EVTOPTA35178;Excellent;;;;;;;;;;;;x;
 move_capital_to_belgrade_title;Move Capital to Belgrade;;;;;;;;;;;;;x
 move_capital_to_belgrade_desc;Move our seat of power to Belgrade, historical and natural capital of any Serbian state.;;;;;;;;;;;;;x
 EVTNAME31016;Annexation demands received;;;;;;;;;;;;;x
-EVTDESC31016;Our Ottoman overlords have sent us a diplomate carrying an ultimatum: accept immediate total annexation or face war. How shall we respond?;;;;;;;;;;;;x
-EVTOPTA31016;We have no choice, accept.;;;;;;;;;;;;x
+EVTDESC31016;Our Ottoman overlords have sent us a diplomate carrying an ultimatum: accept immediate total annexation or face war. How shall we respond?;;;;;;;;;;;;x;
+EVTOPTA31016;We have no choice, accept.;;;;;;;;;;;;x;
 EVTOPTB31016;Never, we shall fight them again!;;;;;;;;;;;;;x
 EVTNAME31017;Annexation demands accepted;;;;;;;;;;;;;x
-EVTDESC31017;Moravian Serbia, vassal of ours, have in their wisdom, accepted our ultimatum of total annexation.;;;;;;;;;;;;x
-EVTOPTA31017;Excellent.;;;;;;;;;;;;x
+EVTDESC31017;Moravian Serbia, vassal of ours, have in their wisdom, accepted our ultimatum of total annexation.;;;;;;;;;;;;x;
+EVTOPTA31017;Excellent.;;;;;;;;;;;;x;
 EVTNAME31018;Annexation demands refused;;;;;;;;;;;;;x
-EVTDESC31018;Moravian Serbia has refused our ultimatum of total annexation, so we are now at war. If God is merciful we shall destroy them, finally.;;;;;;;;;;;;x
-EVTOPTA31018;Assemble the armies, to war!.;;;;;;;;;;;;x
+EVTDESC31018;Moravian Serbia has refused our ultimatum of total annexation, so we are now at war. If God is merciful we shall destroy them, finally.;;;;;;;;;;;;x;
+EVTOPTA31018;Assemble the armies, to war!.;;;;;;;;;;;;x;
 EVTNAME35179;Close relations;;;;;;;;;;;;;x
-EVTDESC35179;More than warm relations between us and the Portuguese have led to a decision to renounce all claims on their sovereign land in Europe.;;;;;;;;;;;;x
-EVTOPTA35179;What can you do.;;;;;;;;;;;;x
+EVTDESC35179;More than warm relations between us and the Portuguese have led to a decision to renounce all claims on their sovereign land in Europe.;;;;;;;;;;;;x;
+EVTOPTA35179;What can you do.;;;;;;;;;;;;x;
 PROV2566;Dongnae;;;;;;;;;;;;;
 PROV2567;Gwangju;;;;;;;;;;;;;
 PROV2568;Jeju;;;;;;;;;;;;;
@@ -7167,5 +7167,3 @@ PROV2579;Lake Ohrid;;;;;;;;;;;;;
 PROV2580;Lake Constance;;;;;;;;;;;;;
 PROV2581;Lake Geneva;;;;;;;;;;;;;
 PROV2582;Lake Garda;;;;;;;;;;;;;
-
-
